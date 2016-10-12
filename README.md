@@ -35,4 +35,11 @@ If you selected all the sizes file ()
 <div class="eo-20 eo-smile"></div> <!-- emoji one 20x20 smile emoji in eo-all-emoji.css  -->
 ```
 
-[full emoji list names](http://unicode.org/emoji/charts/full-emoji-list.html)
+[full emoji list names](http://unicodey.com/emoji-data/table.htm)
+
+### Graphics license
+
+* Apple Emoji: Copyright &copy; Apple Inc. - OS X 10.11.1
+* Android Emoji: Copyright &copy; [The Android Open Source Project](https://s3-eu-west-1.amazonaws.com/tw-font/android/NOTICE)
+* Twitter Emoji Copyright &copy; Twitter, Inc.
+* Emoji One Emoji: Copyright &copy; [Ranks.com Inc.](http://www.emojione.com/developers) 
