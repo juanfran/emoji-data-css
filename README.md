@@ -12,7 +12,7 @@ Choose the emoji set
 Choose the size (16, 20, 32, 64, all) and link in your html
 
 ```html
-<link href="path/to/emoji-data-css/eo-32-emoji.css" media="all" rel="stylesheet" />  <!-- this links to emoji one 32x32 css -->
+<link href="path/to/emoji-data-css/eo-32-emoji.css" media="all" rel="stylesheet" />  <!-- this links to "emoji one" 32x32 css -->
 ```
 
 Now you can add emoji classes in your code
@@ -24,11 +24,15 @@ Now you can add emoji classes in your code
 <div class="eo eo-smile"></div> <!-- emoji one smile emoji -->
 ```
 
-If you selected all the sizes file
+![emoji screenshot](screenshot.png?raw=true "emoji screenshot")
+
+If you selected all the sizes file ()
 
 ```html
-<div class="ap-32 ap-smile"></div> <!-- apple 32x32 smile emoji -->
-<div class="gl-64 gl-smile"></div> <!-- google 64x64 smile emoji -->
-<div class="tw-16 tw-smile"></div> <!-- twitter 16x16 smile emoji -->
-<div class="eo-20 eo-smile"></div> <!-- emoji one 20x20 smile emoji -->
+<div class="ap-32 ap-smile"></div> <!-- apple 32x32 smile emoji in ap-all-emoji.css -->
+<div class="gl-64 gl-smile"></div> <!-- google 64x64 smile emoji in gl-all-emoji.css  -->
+<div class="tw-16 tw-smile"></div> <!-- twitter 16x16 smile emoji in tw-all-emoji.css -->
+<div class="eo-20 eo-smile"></div> <!-- emoji one 20x20 smile emoji in eo-all-emoji.css  -->
 ```
+
+[full emoji list names](http://unicode.org/emoji/charts/full-emoji-list.html)
