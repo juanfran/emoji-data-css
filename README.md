@@ -12,7 +12,8 @@ Choose the emoji set
 Choose the size (16, 20, 32, 64, all) and link in your html
 
 ```html
-<link href="path/to/emoji-data-css/files/eo-32-emoji.css" media="all" rel="stylesheet" />  <!-- this links to "emoji one" 32x32 css -->
+<link href="path/to/emoji-data-css/files/eo-32-emoji.css" media="all" rel="stylesheet" />  
+<!-- this links to "emoji one" 32x32 css -->
 ```
 
 Now you can add emoji classes in your code
@@ -26,7 +27,7 @@ Now you can add emoji classes in your code
 
 ![emoji screenshot](screenshot.png?raw=true "emoji screenshot")
 
-If you selected all the sizes file ()
+If you selected all the sizes file
 
 ```html
 <div class="ap-32 ap-smile"></div> <!-- apple 32x32 smile emoji in ap-all-emoji.css -->
