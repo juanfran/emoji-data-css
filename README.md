@@ -12,7 +12,7 @@ Choose the emoji set
 Choose the size (16, 20, 32, 64, all) and link in your html
 
 ```html
-<link href="path/to/emoji-data-css/eo-32-emoji.css" media="all" rel="stylesheet" />  <!-- this links to "emoji one" 32x32 css -->
+<link href="path/to/emoji-data-css/files/eo-32-emoji.css" media="all" rel="stylesheet" />  <!-- this links to "emoji one" 32x32 css -->
 ```
 
 Now you can add emoji classes in your code
@@ -42,4 +42,4 @@ If you selected all the sizes file ()
 * Apple Emoji: Copyright &copy; Apple Inc. - OS X 10.11.1
 * Android Emoji: Copyright &copy; [The Android Open Source Project](https://s3-eu-west-1.amazonaws.com/tw-font/android/NOTICE)
 * Twitter Emoji Copyright &copy; Twitter, Inc.
-* Emoji One Emoji: Copyright &copy; [Ranks.com Inc.](http://www.emojione.com/developers) 
+* Emoji One Emoji: Copyright &copy; [Ranks.com Inc.](http://www.emojione.com/developers)

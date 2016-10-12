@@ -45,11 +45,11 @@ function writeCss(name, size) {
 
     var minified = new CleanCSS().minify(css).styles;
 
-    fs.writeFileSync(__dirname + `/${shortName}-${size}-emoji.css`, css, {
+    fs.writeFileSync(__dirname + `/files/${shortName}-${size}-emoji.css`, css, {
         flag: 'w+'
     });
 
-    fs.writeFileSync(__dirname + `/${shortName}-${size}-emoji.min.css`, minified, {
+    fs.writeFileSync(__dirname + `/files/${shortName}-${size}-emoji.min.css`, minified, {
         flag: 'w+'
     });
 }
@@ -58,10 +58,10 @@ function copySheets(name) {
     [16, 20, 32, 64].forEach(function(size) {
         var sheetName = `sheet_${name}_${size}`;
 
-        fs.createReadStream(emojiPath + `${sheetName}.png`).pipe(fs.createWriteStream(`${sheetName}.png`));
-        fs.createReadStream(emojiPath + `${sheetName}.png`).pipe(fs.createWriteStream(`${sheetName}.png`));
-        fs.createReadStream(emojiPath + `${sheetName}.png`).pipe(fs.createWriteStream(`${sheetName}.png`));
-        fs.createReadStream(emojiPath + `${sheetName}.png`).pipe(fs.createWriteStream(`${sheetName}.png`));
+        fs.createReadStream(emojiPath + `${sheetName}.png`).pipe(fs.createWriteStream(`${__dirname}/files/${sheetName}.png`));
+        fs.createReadStream(emojiPath + `${sheetName}.png`).pipe(fs.createWriteStream(`${__dirname}/files/${sheetName}.png`));
+        fs.createReadStream(emojiPath + `${sheetName}.png`).pipe(fs.createWriteStream(`${__dirname}/files/${sheetName}.png`));
+        fs.createReadStream(emojiPath + `${sheetName}.png`).pipe(fs.createWriteStream(`${__dirname}/files/${sheetName}.png`));
     });
 }
 
@@ -83,11 +83,11 @@ function writeAllSizesCss(name) {
 
     var minified = new CleanCSS().minify(css).styles;
 
-    fs.writeFileSync(__dirname + `/${shortName}-all-emoji.css`, css, {
+    fs.writeFileSync(__dirname + `/files/${shortName}-all-emoji.css`, css, {
         flag: 'w+'
     });
 
-    fs.writeFileSync(__dirname + `/${shortName}-all-emoji.min.css`, minified, {
+    fs.writeFileSync(__dirname + `/files/${shortName}-all-emoji.min.css`, minified, {
         flag: 'w+'
     });
 }
