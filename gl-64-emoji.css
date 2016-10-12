@@ -1,0 +1,5077 @@
+
+.gl {
+    display: inline-block;
+    height: 64px;
+    width: 64px;
+    background-image: url(sheet_google_64.png);
+    background-repeat: no-repeat;
+}
+    
+.gl-copyright {
+  background-position: -0px -0px;
+}
+    
+.gl-registered {
+  background-position: -0px -64px;
+}
+    
+.gl-bangbang {
+  background-position: -0px -128px;
+}
+    
+.gl-interrobang {
+  background-position: -0px -192px;
+}
+    
+.gl-tm {
+  background-position: -0px -256px;
+}
+    
+.gl-information_source {
+  background-position: -0px -320px;
+}
+    
+.gl-left_right_arrow {
+  background-position: -0px -384px;
+}
+    
+.gl-arrow_up_down {
+  background-position: -0px -448px;
+}
+    
+.gl-arrow_upper_left {
+  background-position: -0px -512px;
+}
+    
+.gl-arrow_upper_right {
+  background-position: -0px -576px;
+}
+    
+.gl-arrow_lower_right {
+  background-position: -0px -640px;
+}
+    
+.gl-arrow_lower_left {
+  background-position: -0px -704px;
+}
+    
+.gl-leftwards_arrow_with_hook {
+  background-position: -0px -768px;
+}
+    
+.gl-arrow_right_hook {
+  background-position: -0px -832px;
+}
+    
+.gl-watch {
+  background-position: -0px -896px;
+}
+    
+.gl-hourglass {
+  background-position: -0px -960px;
+}
+    
+.gl-keyboard {
+  background-position: -0px -1024px;
+}
+    
+.gl-eject {
+  background-position: -0px -1088px;
+}
+    
+.gl-fast_forward {
+  background-position: -0px -1152px;
+}
+    
+.gl-rewind {
+  background-position: -0px -1216px;
+}
+    
+.gl-arrow_double_up {
+  background-position: -0px -1280px;
+}
+    
+.gl-arrow_double_down {
+  background-position: -0px -1344px;
+}
+    
+.gl-black_right_pointing_double_triangle_with_vertical_bar {
+  background-position: -0px -1408px;
+}
+    
+.gl-black_left_pointing_double_triangle_with_vertical_bar {
+  background-position: -0px -1472px;
+}
+    
+.gl-black_right_pointing_triangle_with_double_vertical_bar {
+  background-position: -0px -1536px;
+}
+    
+.gl-alarm_clock {
+  background-position: -0px -1600px;
+}
+    
+.gl-stopwatch {
+  background-position: -0px -1664px;
+}
+    
+.gl-timer_clock {
+  background-position: -0px -1728px;
+}
+    
+.gl-hourglass_flowing_sand {
+  background-position: -0px -1792px;
+}
+    
+.gl-double_vertical_bar {
+  background-position: -0px -1856px;
+}
+    
+.gl-black_square_for_stop {
+  background-position: -0px -1920px;
+}
+    
+.gl-black_circle_for_record {
+  background-position: -0px -1984px;
+}
+    
+.gl-m {
+  background-position: -0px -2048px;
+}
+    
+.gl-black_small_square {
+  background-position: -0px -2112px;
+}
+    
+.gl-white_small_square {
+  background-position: -0px -2176px;
+}
+    
+.gl-arrow_forward {
+  background-position: -0px -2240px;
+}
+    
+.gl-arrow_backward {
+  background-position: -0px -2304px;
+}
+    
+.gl-white_medium_square {
+  background-position: -0px -2368px;
+}
+    
+.gl-black_medium_square {
+  background-position: -0px -2432px;
+}
+    
+.gl-white_medium_small_square {
+  background-position: -0px -2496px;
+}
+    
+.gl-black_medium_small_square {
+  background-position: -0px -2560px;
+}
+    
+.gl-sunny {
+  background-position: -64px -0px;
+}
+    
+.gl-cloud {
+  background-position: -64px -64px;
+}
+    
+.gl-umbrella {
+  background-position: -64px -128px;
+}
+    
+.gl-snowman {
+  background-position: -64px -192px;
+}
+    
+.gl-comet {
+  background-position: -64px -256px;
+}
+    
+.gl-phone {
+  background-position: -64px -320px;
+}
+    
+.gl-ballot_box_with_check {
+  background-position: -64px -384px;
+}
+    
+.gl-umbrella_with_rain_drops {
+  background-position: -64px -448px;
+}
+    
+.gl-coffee {
+  background-position: -64px -512px;
+}
+    
+.gl-shamrock {
+  background-position: -64px -576px;
+}
+    
+.gl-point_up {
+  background-position: -64px -640px;
+}
+    
+.gl-skull_and_crossbones {
+  background-position: -64px -1024px;
+}
+    
+.gl-radioactive_sign {
+  background-position: -64px -1088px;
+}
+    
+.gl-biohazard_sign {
+  background-position: -64px -1152px;
+}
+    
+.gl-orthodox_cross {
+  background-position: -64px -1216px;
+}
+    
+.gl-star_and_crescent {
+  background-position: -64px -1280px;
+}
+    
+.gl-peace_symbol {
+  background-position: -64px -1344px;
+}
+    
+.gl-yin_yang {
+  background-position: -64px -1408px;
+}
+    
+.gl-wheel_of_dharma {
+  background-position: -64px -1472px;
+}
+    
+.gl-white_frowning_face {
+  background-position: -64px -1536px;
+}
+    
+.gl-relaxed {
+  background-position: -64px -1600px;
+}
+    
+.gl-aries {
+  background-position: -64px -1664px;
+}
+    
+.gl-taurus {
+  background-position: -64px -1728px;
+}
+    
+.gl-gemini {
+  background-position: -64px -1792px;
+}
+    
+.gl-cancer {
+  background-position: -64px -1856px;
+}
+    
+.gl-leo {
+  background-position: -64px -1920px;
+}
+    
+.gl-virgo {
+  background-position: -64px -1984px;
+}
+    
+.gl-libra {
+  background-position: -64px -2048px;
+}
+    
+.gl-scorpius {
+  background-position: -64px -2112px;
+}
+    
+.gl-sagittarius {
+  background-position: -64px -2176px;
+}
+    
+.gl-capricorn {
+  background-position: -64px -2240px;
+}
+    
+.gl-aquarius {
+  background-position: -64px -2304px;
+}
+    
+.gl-pisces {
+  background-position: -64px -2368px;
+}
+    
+.gl-spades {
+  background-position: -64px -2432px;
+}
+    
+.gl-clubs {
+  background-position: -64px -2496px;
+}
+    
+.gl-hearts {
+  background-position: -64px -2560px;
+}
+    
+.gl-diamonds {
+  background-position: -128px -0px;
+}
+    
+.gl-hotsprings {
+  background-position: -128px -64px;
+}
+    
+.gl-recycle {
+  background-position: -128px -128px;
+}
+    
+.gl-wheelchair {
+  background-position: -128px -192px;
+}
+    
+.gl-hammer_and_pick {
+  background-position: -128px -256px;
+}
+    
+.gl-anchor {
+  background-position: -128px -320px;
+}
+    
+.gl-crossed_swords {
+  background-position: -128px -384px;
+}
+    
+.gl-scales {
+  background-position: -128px -448px;
+}
+    
+.gl-alembic {
+  background-position: -128px -512px;
+}
+    
+.gl-gear {
+  background-position: -128px -576px;
+}
+    
+.gl-atom_symbol {
+  background-position: -128px -640px;
+}
+    
+.gl-fleur_de_lis {
+  background-position: -128px -704px;
+}
+    
+.gl-warning {
+  background-position: -128px -768px;
+}
+    
+.gl-zap {
+  background-position: -128px -832px;
+}
+    
+.gl-white_circle {
+  background-position: -128px -896px;
+}
+    
+.gl-black_circle {
+  background-position: -128px -960px;
+}
+    
+.gl-coffin {
+  background-position: -128px -1024px;
+}
+    
+.gl-funeral_urn {
+  background-position: -128px -1088px;
+}
+    
+.gl-soccer {
+  background-position: -128px -1152px;
+}
+    
+.gl-baseball {
+  background-position: -128px -1216px;
+}
+    
+.gl-snowman_without_snow {
+  background-position: -128px -1280px;
+}
+    
+.gl-partly_sunny {
+  background-position: -128px -1344px;
+}
+    
+.gl-thunder_cloud_and_rain {
+  background-position: -128px -1408px;
+}
+    
+.gl-ophiuchus {
+  background-position: -128px -1472px;
+}
+    
+.gl-pick {
+  background-position: -128px -1536px;
+}
+    
+.gl-helmet_with_white_cross {
+  background-position: -128px -1600px;
+}
+    
+.gl-chains {
+  background-position: -128px -1664px;
+}
+    
+.gl-no_entry {
+  background-position: -128px -1728px;
+}
+    
+.gl-shinto_shrine {
+  background-position: -128px -1792px;
+}
+    
+.gl-church {
+  background-position: -128px -1856px;
+}
+    
+.gl-mountain {
+  background-position: -128px -1920px;
+}
+    
+.gl-umbrella_on_ground {
+  background-position: -128px -1984px;
+}
+    
+.gl-fountain {
+  background-position: -128px -2048px;
+}
+    
+.gl-golf {
+  background-position: -128px -2112px;
+}
+    
+.gl-ferry {
+  background-position: -128px -2176px;
+}
+    
+.gl-boat {
+  background-position: -128px -2240px;
+}
+    
+.gl-skier {
+  background-position: -128px -2304px;
+}
+    
+.gl-ice_skate {
+  background-position: -128px -2368px;
+}
+    
+.gl-person_with_ball {
+  background-position: -128px -2432px;
+}
+    
+.gl-tent {
+  background-position: -192px -192px;
+}
+    
+.gl-fuelpump {
+  background-position: -192px -256px;
+}
+    
+.gl-scissors {
+  background-position: -192px -320px;
+}
+    
+.gl-white_check_mark {
+  background-position: -192px -384px;
+}
+    
+.gl-airplane {
+  background-position: -192px -448px;
+}
+    
+.gl-email {
+  background-position: -192px -512px;
+}
+    
+.gl-fist {
+  background-position: -192px -576px;
+}
+    
+.gl-hand {
+  background-position: -192px -960px;
+}
+    
+.gl-v {
+  background-position: -192px -1344px;
+}
+    
+.gl-writing_hand {
+  background-position: -192px -1728px;
+}
+    
+.gl-pencil2 {
+  background-position: -192px -2112px;
+}
+    
+.gl-black_nib {
+  background-position: -192px -2176px;
+}
+    
+.gl-heavy_check_mark {
+  background-position: -192px -2240px;
+}
+    
+.gl-heavy_multiplication_x {
+  background-position: -192px -2304px;
+}
+    
+.gl-latin_cross {
+  background-position: -192px -2368px;
+}
+    
+.gl-star_of_david {
+  background-position: -192px -2432px;
+}
+    
+.gl-sparkles {
+  background-position: -192px -2496px;
+}
+    
+.gl-eight_spoked_asterisk {
+  background-position: -192px -2560px;
+}
+    
+.gl-eight_pointed_black_star {
+  background-position: -256px -0px;
+}
+    
+.gl-snowflake {
+  background-position: -256px -64px;
+}
+    
+.gl-sparkle {
+  background-position: -256px -128px;
+}
+    
+.gl-x {
+  background-position: -256px -192px;
+}
+    
+.gl-negative_squared_cross_mark {
+  background-position: -256px -256px;
+}
+    
+.gl-question {
+  background-position: -256px -320px;
+}
+    
+.gl-grey_question {
+  background-position: -256px -384px;
+}
+    
+.gl-grey_exclamation {
+  background-position: -256px -448px;
+}
+    
+.gl-exclamation {
+  background-position: -256px -512px;
+}
+    
+.gl-heavy_heart_exclamation_mark_ornament {
+  background-position: -256px -576px;
+}
+    
+.gl-heart {
+  background-position: -256px -640px;
+}
+    
+.gl-heavy_plus_sign {
+  background-position: -256px -704px;
+}
+    
+.gl-heavy_minus_sign {
+  background-position: -256px -768px;
+}
+    
+.gl-heavy_division_sign {
+  background-position: -256px -832px;
+}
+    
+.gl-arrow_right {
+  background-position: -256px -896px;
+}
+    
+.gl-curly_loop {
+  background-position: -256px -960px;
+}
+    
+.gl-loop {
+  background-position: -256px -1024px;
+}
+    
+.gl-arrow_heading_up {
+  background-position: -256px -1088px;
+}
+    
+.gl-arrow_heading_down {
+  background-position: -256px -1152px;
+}
+    
+.gl-arrow_left {
+  background-position: -256px -1216px;
+}
+    
+.gl-arrow_up {
+  background-position: -256px -1280px;
+}
+    
+.gl-arrow_down {
+  background-position: -256px -1344px;
+}
+    
+.gl-black_large_square {
+  background-position: -256px -1408px;
+}
+    
+.gl-white_large_square {
+  background-position: -256px -1472px;
+}
+    
+.gl-star {
+  background-position: -256px -1536px;
+}
+    
+.gl-o {
+  background-position: -256px -1600px;
+}
+    
+.gl-wavy_dash {
+  background-position: -256px -1664px;
+}
+    
+.gl-part_alternation_mark {
+  background-position: -256px -1728px;
+}
+    
+.gl-congratulations {
+  background-position: -256px -1792px;
+}
+    
+.gl-secret {
+  background-position: -256px -1856px;
+}
+    
+.gl-mahjong {
+  background-position: -256px -1920px;
+}
+    
+.gl-black_joker {
+  background-position: -256px -1984px;
+}
+    
+.gl-a {
+  background-position: -256px -2048px;
+}
+    
+.gl-b {
+  background-position: -256px -2112px;
+}
+    
+.gl-o2 {
+  background-position: -256px -2176px;
+}
+    
+.gl-parking {
+  background-position: -256px -2240px;
+}
+    
+.gl-ab {
+  background-position: -256px -2304px;
+}
+    
+.gl-cl {
+  background-position: -256px -2368px;
+}
+    
+.gl-cool {
+  background-position: -256px -2432px;
+}
+    
+.gl-free {
+  background-position: -256px -2496px;
+}
+    
+.gl-id {
+  background-position: -256px -2560px;
+}
+    
+.gl-new {
+  background-position: -320px -0px;
+}
+    
+.gl-ng {
+  background-position: -320px -64px;
+}
+    
+.gl-ok {
+  background-position: -320px -128px;
+}
+    
+.gl-sos {
+  background-position: -320px -192px;
+}
+    
+.gl-up {
+  background-position: -320px -256px;
+}
+    
+.gl-vs {
+  background-position: -320px -320px;
+}
+    
+.gl-koko {
+  background-position: -320px -384px;
+}
+    
+.gl-sa {
+  background-position: -320px -448px;
+}
+    
+.gl-u7121 {
+  background-position: -320px -512px;
+}
+    
+.gl-u6307 {
+  background-position: -320px -576px;
+}
+    
+.gl-u7981 {
+  background-position: -320px -640px;
+}
+    
+.gl-u7a7a {
+  background-position: -320px -704px;
+}
+    
+.gl-u5408 {
+  background-position: -320px -768px;
+}
+    
+.gl-u6e80 {
+  background-position: -320px -832px;
+}
+    
+.gl-u6709 {
+  background-position: -320px -896px;
+}
+    
+.gl-u6708 {
+  background-position: -320px -960px;
+}
+    
+.gl-u7533 {
+  background-position: -320px -1024px;
+}
+    
+.gl-u5272 {
+  background-position: -320px -1088px;
+}
+    
+.gl-u55b6 {
+  background-position: -320px -1152px;
+}
+    
+.gl-ideograph_advantage {
+  background-position: -320px -1216px;
+}
+    
+.gl-accept {
+  background-position: -320px -1280px;
+}
+    
+.gl-cyclone {
+  background-position: -320px -1344px;
+}
+    
+.gl-foggy {
+  background-position: -320px -1408px;
+}
+    
+.gl-closed_umbrella {
+  background-position: -320px -1472px;
+}
+    
+.gl-night_with_stars {
+  background-position: -320px -1536px;
+}
+    
+.gl-sunrise_over_mountains {
+  background-position: -320px -1600px;
+}
+    
+.gl-sunrise {
+  background-position: -320px -1664px;
+}
+    
+.gl-city_sunset {
+  background-position: -320px -1728px;
+}
+    
+.gl-city_sunrise {
+  background-position: -320px -1792px;
+}
+    
+.gl-rainbow {
+  background-position: -320px -1856px;
+}
+    
+.gl-bridge_at_night {
+  background-position: -320px -1920px;
+}
+    
+.gl-ocean {
+  background-position: -320px -1984px;
+}
+    
+.gl-volcano {
+  background-position: -320px -2048px;
+}
+    
+.gl-milky_way {
+  background-position: -320px -2112px;
+}
+    
+.gl-earth_africa {
+  background-position: -320px -2176px;
+}
+    
+.gl-earth_americas {
+  background-position: -320px -2240px;
+}
+    
+.gl-earth_asia {
+  background-position: -320px -2304px;
+}
+    
+.gl-globe_with_meridians {
+  background-position: -320px -2368px;
+}
+    
+.gl-new_moon {
+  background-position: -320px -2432px;
+}
+    
+.gl-waxing_crescent_moon {
+  background-position: -320px -2496px;
+}
+    
+.gl-first_quarter_moon {
+  background-position: -320px -2560px;
+}
+    
+.gl-moon {
+  background-position: -384px -0px;
+}
+    
+.gl-full_moon {
+  background-position: -384px -64px;
+}
+    
+.gl-waning_gibbous_moon {
+  background-position: -384px -128px;
+}
+    
+.gl-last_quarter_moon {
+  background-position: -384px -192px;
+}
+    
+.gl-waning_crescent_moon {
+  background-position: -384px -256px;
+}
+    
+.gl-crescent_moon {
+  background-position: -384px -320px;
+}
+    
+.gl-new_moon_with_face {
+  background-position: -384px -384px;
+}
+    
+.gl-first_quarter_moon_with_face {
+  background-position: -384px -448px;
+}
+    
+.gl-last_quarter_moon_with_face {
+  background-position: -384px -512px;
+}
+    
+.gl-full_moon_with_face {
+  background-position: -384px -576px;
+}
+    
+.gl-sun_with_face {
+  background-position: -384px -640px;
+}
+    
+.gl-star2 {
+  background-position: -384px -704px;
+}
+    
+.gl-stars {
+  background-position: -384px -768px;
+}
+    
+.gl-thermometer {
+  background-position: -384px -832px;
+}
+    
+.gl-mostly_sunny {
+  background-position: -384px -896px;
+}
+    
+.gl-barely_sunny {
+  background-position: -384px -960px;
+}
+    
+.gl-partly_sunny_rain {
+  background-position: -384px -1024px;
+}
+    
+.gl-rain_cloud {
+  background-position: -384px -1088px;
+}
+    
+.gl-snow_cloud {
+  background-position: -384px -1152px;
+}
+    
+.gl-lightning {
+  background-position: -384px -1216px;
+}
+    
+.gl-tornado {
+  background-position: -384px -1280px;
+}
+    
+.gl-fog {
+  background-position: -384px -1344px;
+}
+    
+.gl-wind_blowing_face {
+  background-position: -384px -1408px;
+}
+    
+.gl-hotdog {
+  background-position: -384px -1472px;
+}
+    
+.gl-taco {
+  background-position: -384px -1536px;
+}
+    
+.gl-burrito {
+  background-position: -384px -1600px;
+}
+    
+.gl-chestnut {
+  background-position: -384px -1664px;
+}
+    
+.gl-seedling {
+  background-position: -384px -1728px;
+}
+    
+.gl-evergreen_tree {
+  background-position: -384px -1792px;
+}
+    
+.gl-deciduous_tree {
+  background-position: -384px -1856px;
+}
+    
+.gl-palm_tree {
+  background-position: -384px -1920px;
+}
+    
+.gl-cactus {
+  background-position: -384px -1984px;
+}
+    
+.gl-hot_pepper {
+  background-position: -384px -2048px;
+}
+    
+.gl-tulip {
+  background-position: -384px -2112px;
+}
+    
+.gl-cherry_blossom {
+  background-position: -384px -2176px;
+}
+    
+.gl-rose {
+  background-position: -384px -2240px;
+}
+    
+.gl-hibiscus {
+  background-position: -384px -2304px;
+}
+    
+.gl-sunflower {
+  background-position: -384px -2368px;
+}
+    
+.gl-blossom {
+  background-position: -384px -2432px;
+}
+    
+.gl-corn {
+  background-position: -384px -2496px;
+}
+    
+.gl-ear_of_rice {
+  background-position: -384px -2560px;
+}
+    
+.gl-herb {
+  background-position: -448px -0px;
+}
+    
+.gl-four_leaf_clover {
+  background-position: -448px -64px;
+}
+    
+.gl-maple_leaf {
+  background-position: -448px -128px;
+}
+    
+.gl-fallen_leaf {
+  background-position: -448px -192px;
+}
+    
+.gl-leaves {
+  background-position: -448px -256px;
+}
+    
+.gl-mushroom {
+  background-position: -448px -320px;
+}
+    
+.gl-tomato {
+  background-position: -448px -384px;
+}
+    
+.gl-eggplant {
+  background-position: -448px -448px;
+}
+    
+.gl-grapes {
+  background-position: -448px -512px;
+}
+    
+.gl-melon {
+  background-position: -448px -576px;
+}
+    
+.gl-watermelon {
+  background-position: -448px -640px;
+}
+    
+.gl-tangerine {
+  background-position: -448px -704px;
+}
+    
+.gl-lemon {
+  background-position: -448px -768px;
+}
+    
+.gl-banana {
+  background-position: -448px -832px;
+}
+    
+.gl-pineapple {
+  background-position: -448px -896px;
+}
+    
+.gl-apple {
+  background-position: -448px -960px;
+}
+    
+.gl-green_apple {
+  background-position: -448px -1024px;
+}
+    
+.gl-pear {
+  background-position: -448px -1088px;
+}
+    
+.gl-peach {
+  background-position: -448px -1152px;
+}
+    
+.gl-cherries {
+  background-position: -448px -1216px;
+}
+    
+.gl-strawberry {
+  background-position: -448px -1280px;
+}
+    
+.gl-hamburger {
+  background-position: -448px -1344px;
+}
+    
+.gl-pizza {
+  background-position: -448px -1408px;
+}
+    
+.gl-meat_on_bone {
+  background-position: -448px -1472px;
+}
+    
+.gl-poultry_leg {
+  background-position: -448px -1536px;
+}
+    
+.gl-rice_cracker {
+  background-position: -448px -1600px;
+}
+    
+.gl-rice_ball {
+  background-position: -448px -1664px;
+}
+    
+.gl-rice {
+  background-position: -448px -1728px;
+}
+    
+.gl-curry {
+  background-position: -448px -1792px;
+}
+    
+.gl-ramen {
+  background-position: -448px -1856px;
+}
+    
+.gl-spaghetti {
+  background-position: -448px -1920px;
+}
+    
+.gl-bread {
+  background-position: -448px -1984px;
+}
+    
+.gl-fries {
+  background-position: -448px -2048px;
+}
+    
+.gl-sweet_potato {
+  background-position: -448px -2112px;
+}
+    
+.gl-dango {
+  background-position: -448px -2176px;
+}
+    
+.gl-oden {
+  background-position: -448px -2240px;
+}
+    
+.gl-sushi {
+  background-position: -448px -2304px;
+}
+    
+.gl-fried_shrimp {
+  background-position: -448px -2368px;
+}
+    
+.gl-fish_cake {
+  background-position: -448px -2432px;
+}
+    
+.gl-icecream {
+  background-position: -448px -2496px;
+}
+    
+.gl-shaved_ice {
+  background-position: -448px -2560px;
+}
+    
+.gl-ice_cream {
+  background-position: -512px -0px;
+}
+    
+.gl-doughnut {
+  background-position: -512px -64px;
+}
+    
+.gl-cookie {
+  background-position: -512px -128px;
+}
+    
+.gl-chocolate_bar {
+  background-position: -512px -192px;
+}
+    
+.gl-candy {
+  background-position: -512px -256px;
+}
+    
+.gl-lollipop {
+  background-position: -512px -320px;
+}
+    
+.gl-custard {
+  background-position: -512px -384px;
+}
+    
+.gl-honey_pot {
+  background-position: -512px -448px;
+}
+    
+.gl-cake {
+  background-position: -512px -512px;
+}
+    
+.gl-bento {
+  background-position: -512px -576px;
+}
+    
+.gl-stew {
+  background-position: -512px -640px;
+}
+    
+.gl-egg {
+  background-position: -512px -704px;
+}
+    
+.gl-fork_and_knife {
+  background-position: -512px -768px;
+}
+    
+.gl-tea {
+  background-position: -512px -832px;
+}
+    
+.gl-sake {
+  background-position: -512px -896px;
+}
+    
+.gl-wine_glass {
+  background-position: -512px -960px;
+}
+    
+.gl-cocktail {
+  background-position: -512px -1024px;
+}
+    
+.gl-tropical_drink {
+  background-position: -512px -1088px;
+}
+    
+.gl-beer {
+  background-position: -512px -1152px;
+}
+    
+.gl-beers {
+  background-position: -512px -1216px;
+}
+    
+.gl-baby_bottle {
+  background-position: -512px -1280px;
+}
+    
+.gl-knife_fork_plate {
+  background-position: -512px -1344px;
+}
+    
+.gl-champagne {
+  background-position: -512px -1408px;
+}
+    
+.gl-popcorn {
+  background-position: -512px -1472px;
+}
+    
+.gl-ribbon {
+  background-position: -512px -1536px;
+}
+    
+.gl-gift {
+  background-position: -512px -1600px;
+}
+    
+.gl-birthday {
+  background-position: -512px -1664px;
+}
+    
+.gl-jack_o_lantern {
+  background-position: -512px -1728px;
+}
+    
+.gl-christmas_tree {
+  background-position: -512px -1792px;
+}
+    
+.gl-santa {
+  background-position: -512px -1856px;
+}
+    
+.gl-fireworks {
+  background-position: -512px -2240px;
+}
+    
+.gl-sparkler {
+  background-position: -512px -2304px;
+}
+    
+.gl-balloon {
+  background-position: -512px -2368px;
+}
+    
+.gl-tada {
+  background-position: -512px -2432px;
+}
+    
+.gl-confetti_ball {
+  background-position: -512px -2496px;
+}
+    
+.gl-tanabata_tree {
+  background-position: -512px -2560px;
+}
+    
+.gl-crossed_flags {
+  background-position: -576px -0px;
+}
+    
+.gl-bamboo {
+  background-position: -576px -64px;
+}
+    
+.gl-dolls {
+  background-position: -576px -128px;
+}
+    
+.gl-flags {
+  background-position: -576px -192px;
+}
+    
+.gl-wind_chime {
+  background-position: -576px -256px;
+}
+    
+.gl-rice_scene {
+  background-position: -576px -320px;
+}
+    
+.gl-school_satchel {
+  background-position: -576px -384px;
+}
+    
+.gl-mortar_board {
+  background-position: -576px -448px;
+}
+    
+.gl-medal {
+  background-position: -576px -512px;
+}
+    
+.gl-reminder_ribbon {
+  background-position: -576px -576px;
+}
+    
+.gl-studio_microphone {
+  background-position: -576px -640px;
+}
+    
+.gl-level_slider {
+  background-position: -576px -704px;
+}
+    
+.gl-control_knobs {
+  background-position: -576px -768px;
+}
+    
+.gl-film_frames {
+  background-position: -576px -832px;
+}
+    
+.gl-admission_tickets {
+  background-position: -576px -896px;
+}
+    
+.gl-carousel_horse {
+  background-position: -576px -960px;
+}
+    
+.gl-ferris_wheel {
+  background-position: -576px -1024px;
+}
+    
+.gl-roller_coaster {
+  background-position: -576px -1088px;
+}
+    
+.gl-fishing_pole_and_fish {
+  background-position: -576px -1152px;
+}
+    
+.gl-microphone {
+  background-position: -576px -1216px;
+}
+    
+.gl-movie_camera {
+  background-position: -576px -1280px;
+}
+    
+.gl-cinema {
+  background-position: -576px -1344px;
+}
+    
+.gl-headphones {
+  background-position: -576px -1408px;
+}
+    
+.gl-art {
+  background-position: -576px -1472px;
+}
+    
+.gl-tophat {
+  background-position: -576px -1536px;
+}
+    
+.gl-circus_tent {
+  background-position: -576px -1600px;
+}
+    
+.gl-ticket {
+  background-position: -576px -1664px;
+}
+    
+.gl-clapper {
+  background-position: -576px -1728px;
+}
+    
+.gl-performing_arts {
+  background-position: -576px -1792px;
+}
+    
+.gl-video_game {
+  background-position: -576px -1856px;
+}
+    
+.gl-dart {
+  background-position: -576px -1920px;
+}
+    
+.gl-slot_machine {
+  background-position: -576px -1984px;
+}
+    
+.gl-8ball {
+  background-position: -576px -2048px;
+}
+    
+.gl-game_die {
+  background-position: -576px -2112px;
+}
+    
+.gl-bowling {
+  background-position: -576px -2176px;
+}
+    
+.gl-flower_playing_cards {
+  background-position: -576px -2240px;
+}
+    
+.gl-musical_note {
+  background-position: -576px -2304px;
+}
+    
+.gl-notes {
+  background-position: -576px -2368px;
+}
+    
+.gl-saxophone {
+  background-position: -576px -2432px;
+}
+    
+.gl-guitar {
+  background-position: -576px -2496px;
+}
+    
+.gl-musical_keyboard {
+  background-position: -576px -2560px;
+}
+    
+.gl-trumpet {
+  background-position: -640px -0px;
+}
+    
+.gl-violin {
+  background-position: -640px -64px;
+}
+    
+.gl-musical_score {
+  background-position: -640px -128px;
+}
+    
+.gl-running_shirt_with_sash {
+  background-position: -640px -192px;
+}
+    
+.gl-tennis {
+  background-position: -640px -256px;
+}
+    
+.gl-ski {
+  background-position: -640px -320px;
+}
+    
+.gl-basketball {
+  background-position: -640px -384px;
+}
+    
+.gl-checkered_flag {
+  background-position: -640px -448px;
+}
+    
+.gl-snowboarder {
+  background-position: -640px -512px;
+}
+    
+.gl-runner {
+  background-position: -640px -576px;
+}
+    
+.gl-surfer {
+  background-position: -640px -960px;
+}
+    
+.gl-sports_medal {
+  background-position: -640px -1344px;
+}
+    
+.gl-trophy {
+  background-position: -640px -1408px;
+}
+    
+.gl-horse_racing {
+  background-position: -640px -1472px;
+}
+    
+.gl-football {
+  background-position: -640px -1536px;
+}
+    
+.gl-rugby_football {
+  background-position: -640px -1600px;
+}
+    
+.gl-swimmer {
+  background-position: -640px -1664px;
+}
+    
+.gl-weight_lifter {
+  background-position: -640px -2048px;
+}
+    
+.gl-golfer {
+  background-position: -640px -2432px;
+}
+    
+.gl-racing_motorcycle {
+  background-position: -640px -2496px;
+}
+    
+.gl-racing_car {
+  background-position: -640px -2560px;
+}
+    
+.gl-cricket_bat_and_ball {
+  background-position: -704px -0px;
+}
+    
+.gl-volleyball {
+  background-position: -704px -64px;
+}
+    
+.gl-field_hockey_stick_and_ball {
+  background-position: -704px -128px;
+}
+    
+.gl-ice_hockey_stick_and_puck {
+  background-position: -704px -192px;
+}
+    
+.gl-table_tennis_paddle_and_ball {
+  background-position: -704px -256px;
+}
+    
+.gl-snow_capped_mountain {
+  background-position: -704px -320px;
+}
+    
+.gl-camping {
+  background-position: -704px -384px;
+}
+    
+.gl-beach_with_umbrella {
+  background-position: -704px -448px;
+}
+    
+.gl-building_construction {
+  background-position: -704px -512px;
+}
+    
+.gl-house_buildings {
+  background-position: -704px -576px;
+}
+    
+.gl-cityscape {
+  background-position: -704px -640px;
+}
+    
+.gl-derelict_house_building {
+  background-position: -704px -704px;
+}
+    
+.gl-classical_building {
+  background-position: -704px -768px;
+}
+    
+.gl-desert {
+  background-position: -704px -832px;
+}
+    
+.gl-desert_island {
+  background-position: -704px -896px;
+}
+    
+.gl-national_park {
+  background-position: -704px -960px;
+}
+    
+.gl-stadium {
+  background-position: -704px -1024px;
+}
+    
+.gl-house {
+  background-position: -704px -1088px;
+}
+    
+.gl-house_with_garden {
+  background-position: -704px -1152px;
+}
+    
+.gl-office {
+  background-position: -704px -1216px;
+}
+    
+.gl-post_office {
+  background-position: -704px -1280px;
+}
+    
+.gl-european_post_office {
+  background-position: -704px -1344px;
+}
+    
+.gl-hospital {
+  background-position: -704px -1408px;
+}
+    
+.gl-bank {
+  background-position: -704px -1472px;
+}
+    
+.gl-atm {
+  background-position: -704px -1536px;
+}
+    
+.gl-hotel {
+  background-position: -704px -1600px;
+}
+    
+.gl-love_hotel {
+  background-position: -704px -1664px;
+}
+    
+.gl-convenience_store {
+  background-position: -704px -1728px;
+}
+    
+.gl-school {
+  background-position: -704px -1792px;
+}
+    
+.gl-department_store {
+  background-position: -704px -1856px;
+}
+    
+.gl-factory {
+  background-position: -704px -1920px;
+}
+    
+.gl-izakaya_lantern {
+  background-position: -704px -1984px;
+}
+    
+.gl-japanese_castle {
+  background-position: -704px -2048px;
+}
+    
+.gl-european_castle {
+  background-position: -704px -2112px;
+}
+    
+.gl-waving_white_flag {
+  background-position: -704px -2176px;
+}
+    
+.gl-waving_black_flag {
+  background-position: -704px -2240px;
+}
+    
+.gl-rosette {
+  background-position: -704px -2304px;
+}
+    
+.gl-label {
+  background-position: -704px -2368px;
+}
+    
+.gl-badminton_racquet_and_shuttlecock {
+  background-position: -704px -2432px;
+}
+    
+.gl-bow_and_arrow {
+  background-position: -704px -2496px;
+}
+    
+.gl-amphora {
+  background-position: -704px -2560px;
+}
+    
+.gl-rat {
+  background-position: -768px -320px;
+}
+    
+.gl-mouse2 {
+  background-position: -768px -384px;
+}
+    
+.gl-ox {
+  background-position: -768px -448px;
+}
+    
+.gl-water_buffalo {
+  background-position: -768px -512px;
+}
+    
+.gl-cow2 {
+  background-position: -768px -576px;
+}
+    
+.gl-tiger2 {
+  background-position: -768px -640px;
+}
+    
+.gl-leopard {
+  background-position: -768px -704px;
+}
+    
+.gl-rabbit2 {
+  background-position: -768px -768px;
+}
+    
+.gl-cat2 {
+  background-position: -768px -832px;
+}
+    
+.gl-dragon {
+  background-position: -768px -896px;
+}
+    
+.gl-crocodile {
+  background-position: -768px -960px;
+}
+    
+.gl-whale2 {
+  background-position: -768px -1024px;
+}
+    
+.gl-snail {
+  background-position: -768px -1088px;
+}
+    
+.gl-snake {
+  background-position: -768px -1152px;
+}
+    
+.gl-racehorse {
+  background-position: -768px -1216px;
+}
+    
+.gl-ram {
+  background-position: -768px -1280px;
+}
+    
+.gl-goat {
+  background-position: -768px -1344px;
+}
+    
+.gl-sheep {
+  background-position: -768px -1408px;
+}
+    
+.gl-monkey {
+  background-position: -768px -1472px;
+}
+    
+.gl-rooster {
+  background-position: -768px -1536px;
+}
+    
+.gl-chicken {
+  background-position: -768px -1600px;
+}
+    
+.gl-dog2 {
+  background-position: -768px -1664px;
+}
+    
+.gl-pig2 {
+  background-position: -768px -1728px;
+}
+    
+.gl-boar {
+  background-position: -768px -1792px;
+}
+    
+.gl-elephant {
+  background-position: -768px -1856px;
+}
+    
+.gl-octopus {
+  background-position: -768px -1920px;
+}
+    
+.gl-shell {
+  background-position: -768px -1984px;
+}
+    
+.gl-bug {
+  background-position: -768px -2048px;
+}
+    
+.gl-ant {
+  background-position: -768px -2112px;
+}
+    
+.gl-bee {
+  background-position: -768px -2176px;
+}
+    
+.gl-beetle {
+  background-position: -768px -2240px;
+}
+    
+.gl-fish {
+  background-position: -768px -2304px;
+}
+    
+.gl-tropical_fish {
+  background-position: -768px -2368px;
+}
+    
+.gl-blowfish {
+  background-position: -768px -2432px;
+}
+    
+.gl-turtle {
+  background-position: -768px -2496px;
+}
+    
+.gl-hatching_chick {
+  background-position: -768px -2560px;
+}
+    
+.gl-baby_chick {
+  background-position: -832px -0px;
+}
+    
+.gl-hatched_chick {
+  background-position: -832px -64px;
+}
+    
+.gl-bird {
+  background-position: -832px -128px;
+}
+    
+.gl-penguin {
+  background-position: -832px -192px;
+}
+    
+.gl-koala {
+  background-position: -832px -256px;
+}
+    
+.gl-poodle {
+  background-position: -832px -320px;
+}
+    
+.gl-dromedary_camel {
+  background-position: -832px -384px;
+}
+    
+.gl-camel {
+  background-position: -832px -448px;
+}
+    
+.gl-dolphin {
+  background-position: -832px -512px;
+}
+    
+.gl-mouse {
+  background-position: -832px -576px;
+}
+    
+.gl-cow {
+  background-position: -832px -640px;
+}
+    
+.gl-tiger {
+  background-position: -832px -704px;
+}
+    
+.gl-rabbit {
+  background-position: -832px -768px;
+}
+    
+.gl-cat {
+  background-position: -832px -832px;
+}
+    
+.gl-dragon_face {
+  background-position: -832px -896px;
+}
+    
+.gl-whale {
+  background-position: -832px -960px;
+}
+    
+.gl-horse {
+  background-position: -832px -1024px;
+}
+    
+.gl-monkey_face {
+  background-position: -832px -1088px;
+}
+    
+.gl-dog {
+  background-position: -832px -1152px;
+}
+    
+.gl-pig {
+  background-position: -832px -1216px;
+}
+    
+.gl-frog {
+  background-position: -832px -1280px;
+}
+    
+.gl-hamster {
+  background-position: -832px -1344px;
+}
+    
+.gl-wolf {
+  background-position: -832px -1408px;
+}
+    
+.gl-bear {
+  background-position: -832px -1472px;
+}
+    
+.gl-panda_face {
+  background-position: -832px -1536px;
+}
+    
+.gl-pig_nose {
+  background-position: -832px -1600px;
+}
+    
+.gl-feet {
+  background-position: -832px -1664px;
+}
+    
+.gl-chipmunk {
+  background-position: -832px -1728px;
+}
+    
+.gl-eyes {
+  background-position: -832px -1792px;
+}
+    
+.gl-eye {
+  background-position: -832px -1856px;
+}
+    
+.gl-ear {
+  background-position: -832px -1920px;
+}
+    
+.gl-nose {
+  background-position: -832px -2304px;
+}
+    
+.gl-lips {
+  background-position: -896px -64px;
+}
+    
+.gl-tongue {
+  background-position: -896px -128px;
+}
+    
+.gl-point_up_2 {
+  background-position: -896px -192px;
+}
+    
+.gl-point_down {
+  background-position: -896px -576px;
+}
+    
+.gl-point_left {
+  background-position: -896px -960px;
+}
+    
+.gl-point_right {
+  background-position: -896px -1344px;
+}
+    
+.gl-facepunch {
+  background-position: -896px -1728px;
+}
+    
+.gl-wave {
+  background-position: -896px -2112px;
+}
+    
+.gl-ok_hand {
+  background-position: -896px -2496px;
+}
+    
+.gl-+1 {
+  background-position: -960px -256px;
+}
+    
+.gl--1 {
+  background-position: -960px -640px;
+}
+    
+.gl-clap {
+  background-position: -960px -1024px;
+}
+    
+.gl-open_hands {
+  background-position: -960px -1408px;
+}
+    
+.gl-crown {
+  background-position: -960px -1792px;
+}
+    
+.gl-womans_hat {
+  background-position: -960px -1856px;
+}
+    
+.gl-eyeglasses {
+  background-position: -960px -1920px;
+}
+    
+.gl-necktie {
+  background-position: -960px -1984px;
+}
+    
+.gl-shirt {
+  background-position: -960px -2048px;
+}
+    
+.gl-jeans {
+  background-position: -960px -2112px;
+}
+    
+.gl-dress {
+  background-position: -960px -2176px;
+}
+    
+.gl-kimono {
+  background-position: -960px -2240px;
+}
+    
+.gl-bikini {
+  background-position: -960px -2304px;
+}
+    
+.gl-womans_clothes {
+  background-position: -960px -2368px;
+}
+    
+.gl-purse {
+  background-position: -960px -2432px;
+}
+    
+.gl-handbag {
+  background-position: -960px -2496px;
+}
+    
+.gl-pouch {
+  background-position: -960px -2560px;
+}
+    
+.gl-mans_shoe {
+  background-position: -1024px -0px;
+}
+    
+.gl-athletic_shoe {
+  background-position: -1024px -64px;
+}
+    
+.gl-high_heel {
+  background-position: -1024px -128px;
+}
+    
+.gl-sandal {
+  background-position: -1024px -192px;
+}
+    
+.gl-boot {
+  background-position: -1024px -256px;
+}
+    
+.gl-footprints {
+  background-position: -1024px -320px;
+}
+    
+.gl-bust_in_silhouette {
+  background-position: -1024px -384px;
+}
+    
+.gl-busts_in_silhouette {
+  background-position: -1024px -448px;
+}
+    
+.gl-boy {
+  background-position: -1024px -512px;
+}
+    
+.gl-girl {
+  background-position: -1024px -896px;
+}
+    
+.gl-man {
+  background-position: -1024px -1280px;
+}
+    
+.gl-woman {
+  background-position: -1024px -1664px;
+}
+    
+.gl-family {
+  background-position: -1024px -2048px;
+}
+    
+.gl-couple {
+  background-position: -1024px -2112px;
+}
+    
+.gl-two_men_holding_hands {
+  background-position: -1024px -2176px;
+}
+    
+.gl-two_women_holding_hands {
+  background-position: -1024px -2240px;
+}
+    
+.gl-cop {
+  background-position: -1024px -2304px;
+}
+    
+.gl-dancers {
+  background-position: -1088px -64px;
+}
+    
+.gl-bride_with_veil {
+  background-position: -1088px -128px;
+}
+    
+.gl-person_with_blond_hair {
+  background-position: -1088px -512px;
+}
+    
+.gl-man_with_gua_pi_mao {
+  background-position: -1088px -896px;
+}
+    
+.gl-man_with_turban {
+  background-position: -1088px -1280px;
+}
+    
+.gl-older_man {
+  background-position: -1088px -1664px;
+}
+    
+.gl-older_woman {
+  background-position: -1088px -2048px;
+}
+    
+.gl-baby {
+  background-position: -1088px -2432px;
+}
+    
+.gl-construction_worker {
+  background-position: -1152px -192px;
+}
+    
+.gl-princess {
+  background-position: -1152px -576px;
+}
+    
+.gl-japanese_ogre {
+  background-position: -1152px -960px;
+}
+    
+.gl-japanese_goblin {
+  background-position: -1152px -1024px;
+}
+    
+.gl-ghost {
+  background-position: -1152px -1088px;
+}
+    
+.gl-angel {
+  background-position: -1152px -1152px;
+}
+    
+.gl-alien {
+  background-position: -1152px -1536px;
+}
+    
+.gl-space_invader {
+  background-position: -1152px -1600px;
+}
+    
+.gl-imp {
+  background-position: -1152px -1664px;
+}
+    
+.gl-skull {
+  background-position: -1152px -1728px;
+}
+    
+.gl-information_desk_person {
+  background-position: -1152px -1792px;
+}
+    
+.gl-guardsman {
+  background-position: -1152px -2176px;
+}
+    
+.gl-dancer {
+  background-position: -1152px -2560px;
+}
+    
+.gl-lipstick {
+  background-position: -1216px -320px;
+}
+    
+.gl-nail_care {
+  background-position: -1216px -384px;
+}
+    
+.gl-massage {
+  background-position: -1216px -768px;
+}
+    
+.gl-haircut {
+  background-position: -1216px -1152px;
+}
+    
+.gl-barber {
+  background-position: -1216px -1536px;
+}
+    
+.gl-syringe {
+  background-position: -1216px -1600px;
+}
+    
+.gl-pill {
+  background-position: -1216px -1664px;
+}
+    
+.gl-kiss {
+  background-position: -1216px -1728px;
+}
+    
+.gl-love_letter {
+  background-position: -1216px -1792px;
+}
+    
+.gl-ring {
+  background-position: -1216px -1856px;
+}
+    
+.gl-gem {
+  background-position: -1216px -1920px;
+}
+    
+.gl-couplekiss {
+  background-position: -1216px -1984px;
+}
+    
+.gl-bouquet {
+  background-position: -1216px -2048px;
+}
+    
+.gl-couple_with_heart {
+  background-position: -1216px -2112px;
+}
+    
+.gl-wedding {
+  background-position: -1216px -2176px;
+}
+    
+.gl-heartbeat {
+  background-position: -1216px -2240px;
+}
+    
+.gl-broken_heart {
+  background-position: -1216px -2304px;
+}
+    
+.gl-two_hearts {
+  background-position: -1216px -2368px;
+}
+    
+.gl-sparkling_heart {
+  background-position: -1216px -2432px;
+}
+    
+.gl-heartpulse {
+  background-position: -1216px -2496px;
+}
+    
+.gl-cupid {
+  background-position: -1216px -2560px;
+}
+    
+.gl-blue_heart {
+  background-position: -1280px -0px;
+}
+    
+.gl-green_heart {
+  background-position: -1280px -64px;
+}
+    
+.gl-yellow_heart {
+  background-position: -1280px -128px;
+}
+    
+.gl-purple_heart {
+  background-position: -1280px -192px;
+}
+    
+.gl-gift_heart {
+  background-position: -1280px -256px;
+}
+    
+.gl-revolving_hearts {
+  background-position: -1280px -320px;
+}
+    
+.gl-heart_decoration {
+  background-position: -1280px -384px;
+}
+    
+.gl-diamond_shape_with_a_dot_inside {
+  background-position: -1280px -448px;
+}
+    
+.gl-bulb {
+  background-position: -1280px -512px;
+}
+    
+.gl-anger {
+  background-position: -1280px -576px;
+}
+    
+.gl-bomb {
+  background-position: -1280px -640px;
+}
+    
+.gl-zzz {
+  background-position: -1280px -704px;
+}
+    
+.gl-boom {
+  background-position: -1280px -768px;
+}
+    
+.gl-sweat_drops {
+  background-position: -1280px -832px;
+}
+    
+.gl-droplet {
+  background-position: -1280px -896px;
+}
+    
+.gl-dash {
+  background-position: -1280px -960px;
+}
+    
+.gl-hankey {
+  background-position: -1280px -1024px;
+}
+    
+.gl-muscle {
+  background-position: -1280px -1088px;
+}
+    
+.gl-dizzy {
+  background-position: -1280px -1472px;
+}
+    
+.gl-speech_balloon {
+  background-position: -1280px -1536px;
+}
+    
+.gl-thought_balloon {
+  background-position: -1280px -1600px;
+}
+    
+.gl-white_flower {
+  background-position: -1280px -1664px;
+}
+    
+.gl-100 {
+  background-position: -1280px -1728px;
+}
+    
+.gl-moneybag {
+  background-position: -1280px -1792px;
+}
+    
+.gl-currency_exchange {
+  background-position: -1280px -1856px;
+}
+    
+.gl-heavy_dollar_sign {
+  background-position: -1280px -1920px;
+}
+    
+.gl-credit_card {
+  background-position: -1280px -1984px;
+}
+    
+.gl-yen {
+  background-position: -1280px -2048px;
+}
+    
+.gl-dollar {
+  background-position: -1280px -2112px;
+}
+    
+.gl-euro {
+  background-position: -1280px -2176px;
+}
+    
+.gl-pound {
+  background-position: -1280px -2240px;
+}
+    
+.gl-money_with_wings {
+  background-position: -1280px -2304px;
+}
+    
+.gl-chart {
+  background-position: -1280px -2368px;
+}
+    
+.gl-seat {
+  background-position: -1280px -2432px;
+}
+    
+.gl-computer {
+  background-position: -1280px -2496px;
+}
+    
+.gl-briefcase {
+  background-position: -1280px -2560px;
+}
+    
+.gl-minidisc {
+  background-position: -1344px -0px;
+}
+    
+.gl-floppy_disk {
+  background-position: -1344px -64px;
+}
+    
+.gl-cd {
+  background-position: -1344px -128px;
+}
+    
+.gl-dvd {
+  background-position: -1344px -192px;
+}
+    
+.gl-file_folder {
+  background-position: -1344px -256px;
+}
+    
+.gl-open_file_folder {
+  background-position: -1344px -320px;
+}
+    
+.gl-page_with_curl {
+  background-position: -1344px -384px;
+}
+    
+.gl-page_facing_up {
+  background-position: -1344px -448px;
+}
+    
+.gl-date {
+  background-position: -1344px -512px;
+}
+    
+.gl-calendar {
+  background-position: -1344px -576px;
+}
+    
+.gl-card_index {
+  background-position: -1344px -640px;
+}
+    
+.gl-chart_with_upwards_trend {
+  background-position: -1344px -704px;
+}
+    
+.gl-chart_with_downwards_trend {
+  background-position: -1344px -768px;
+}
+    
+.gl-bar_chart {
+  background-position: -1344px -832px;
+}
+    
+.gl-clipboard {
+  background-position: -1344px -896px;
+}
+    
+.gl-pushpin {
+  background-position: -1344px -960px;
+}
+    
+.gl-round_pushpin {
+  background-position: -1344px -1024px;
+}
+    
+.gl-paperclip {
+  background-position: -1344px -1088px;
+}
+    
+.gl-straight_ruler {
+  background-position: -1344px -1152px;
+}
+    
+.gl-triangular_ruler {
+  background-position: -1344px -1216px;
+}
+    
+.gl-bookmark_tabs {
+  background-position: -1344px -1280px;
+}
+    
+.gl-ledger {
+  background-position: -1344px -1344px;
+}
+    
+.gl-notebook {
+  background-position: -1344px -1408px;
+}
+    
+.gl-notebook_with_decorative_cover {
+  background-position: -1344px -1472px;
+}
+    
+.gl-closed_book {
+  background-position: -1344px -1536px;
+}
+    
+.gl-book {
+  background-position: -1344px -1600px;
+}
+    
+.gl-green_book {
+  background-position: -1344px -1664px;
+}
+    
+.gl-blue_book {
+  background-position: -1344px -1728px;
+}
+    
+.gl-orange_book {
+  background-position: -1344px -1792px;
+}
+    
+.gl-books {
+  background-position: -1344px -1856px;
+}
+    
+.gl-name_badge {
+  background-position: -1344px -1920px;
+}
+    
+.gl-scroll {
+  background-position: -1344px -1984px;
+}
+    
+.gl-memo {
+  background-position: -1344px -2048px;
+}
+    
+.gl-telephone_receiver {
+  background-position: -1344px -2112px;
+}
+    
+.gl-pager {
+  background-position: -1344px -2176px;
+}
+    
+.gl-fax {
+  background-position: -1344px -2240px;
+}
+    
+.gl-satellite_antenna {
+  background-position: -1344px -2304px;
+}
+    
+.gl-loudspeaker {
+  background-position: -1344px -2368px;
+}
+    
+.gl-mega {
+  background-position: -1344px -2432px;
+}
+    
+.gl-outbox_tray {
+  background-position: -1344px -2496px;
+}
+    
+.gl-inbox_tray {
+  background-position: -1344px -2560px;
+}
+    
+.gl-package {
+  background-position: -1408px -0px;
+}
+    
+.gl-e-mail {
+  background-position: -1408px -64px;
+}
+    
+.gl-incoming_envelope {
+  background-position: -1408px -128px;
+}
+    
+.gl-envelope_with_arrow {
+  background-position: -1408px -192px;
+}
+    
+.gl-mailbox_closed {
+  background-position: -1408px -256px;
+}
+    
+.gl-mailbox {
+  background-position: -1408px -320px;
+}
+    
+.gl-mailbox_with_mail {
+  background-position: -1408px -384px;
+}
+    
+.gl-mailbox_with_no_mail {
+  background-position: -1408px -448px;
+}
+    
+.gl-postbox {
+  background-position: -1408px -512px;
+}
+    
+.gl-postal_horn {
+  background-position: -1408px -576px;
+}
+    
+.gl-newspaper {
+  background-position: -1408px -640px;
+}
+    
+.gl-iphone {
+  background-position: -1408px -704px;
+}
+    
+.gl-calling {
+  background-position: -1408px -768px;
+}
+    
+.gl-vibration_mode {
+  background-position: -1408px -832px;
+}
+    
+.gl-mobile_phone_off {
+  background-position: -1408px -896px;
+}
+    
+.gl-no_mobile_phones {
+  background-position: -1408px -960px;
+}
+    
+.gl-signal_strength {
+  background-position: -1408px -1024px;
+}
+    
+.gl-camera {
+  background-position: -1408px -1088px;
+}
+    
+.gl-camera_with_flash {
+  background-position: -1408px -1152px;
+}
+    
+.gl-video_camera {
+  background-position: -1408px -1216px;
+}
+    
+.gl-tv {
+  background-position: -1408px -1280px;
+}
+    
+.gl-radio {
+  background-position: -1408px -1344px;
+}
+    
+.gl-vhs {
+  background-position: -1408px -1408px;
+}
+    
+.gl-film_projector {
+  background-position: -1408px -1472px;
+}
+    
+.gl-prayer_beads {
+  background-position: -1408px -1536px;
+}
+    
+.gl-twisted_rightwards_arrows {
+  background-position: -1408px -1600px;
+}
+    
+.gl-repeat {
+  background-position: -1408px -1664px;
+}
+    
+.gl-repeat_one {
+  background-position: -1408px -1728px;
+}
+    
+.gl-arrows_clockwise {
+  background-position: -1408px -1792px;
+}
+    
+.gl-arrows_counterclockwise {
+  background-position: -1408px -1856px;
+}
+    
+.gl-low_brightness {
+  background-position: -1408px -1920px;
+}
+    
+.gl-high_brightness {
+  background-position: -1408px -1984px;
+}
+    
+.gl-mute {
+  background-position: -1408px -2048px;
+}
+    
+.gl-speaker {
+  background-position: -1408px -2112px;
+}
+    
+.gl-sound {
+  background-position: -1408px -2176px;
+}
+    
+.gl-loud_sound {
+  background-position: -1408px -2240px;
+}
+    
+.gl-battery {
+  background-position: -1408px -2304px;
+}
+    
+.gl-electric_plug {
+  background-position: -1408px -2368px;
+}
+    
+.gl-mag {
+  background-position: -1408px -2432px;
+}
+    
+.gl-mag_right {
+  background-position: -1408px -2496px;
+}
+    
+.gl-lock_with_ink_pen {
+  background-position: -1408px -2560px;
+}
+    
+.gl-closed_lock_with_key {
+  background-position: -1472px -0px;
+}
+    
+.gl-key {
+  background-position: -1472px -64px;
+}
+    
+.gl-lock {
+  background-position: -1472px -128px;
+}
+    
+.gl-unlock {
+  background-position: -1472px -192px;
+}
+    
+.gl-bell {
+  background-position: -1472px -256px;
+}
+    
+.gl-no_bell {
+  background-position: -1472px -320px;
+}
+    
+.gl-bookmark {
+  background-position: -1472px -384px;
+}
+    
+.gl-link {
+  background-position: -1472px -448px;
+}
+    
+.gl-radio_button {
+  background-position: -1472px -512px;
+}
+    
+.gl-back {
+  background-position: -1472px -576px;
+}
+    
+.gl-end {
+  background-position: -1472px -640px;
+}
+    
+.gl-on {
+  background-position: -1472px -704px;
+}
+    
+.gl-soon {
+  background-position: -1472px -768px;
+}
+    
+.gl-top {
+  background-position: -1472px -832px;
+}
+    
+.gl-underage {
+  background-position: -1472px -896px;
+}
+    
+.gl-keycap_ten {
+  background-position: -1472px -960px;
+}
+    
+.gl-capital_abcd {
+  background-position: -1472px -1024px;
+}
+    
+.gl-abcd {
+  background-position: -1472px -1088px;
+}
+    
+.gl-1234 {
+  background-position: -1472px -1152px;
+}
+    
+.gl-symbols {
+  background-position: -1472px -1216px;
+}
+    
+.gl-abc {
+  background-position: -1472px -1280px;
+}
+    
+.gl-fire {
+  background-position: -1472px -1344px;
+}
+    
+.gl-flashlight {
+  background-position: -1472px -1408px;
+}
+    
+.gl-wrench {
+  background-position: -1472px -1472px;
+}
+    
+.gl-hammer {
+  background-position: -1472px -1536px;
+}
+    
+.gl-nut_and_bolt {
+  background-position: -1472px -1600px;
+}
+    
+.gl-hocho {
+  background-position: -1472px -1664px;
+}
+    
+.gl-gun {
+  background-position: -1472px -1728px;
+}
+    
+.gl-microscope {
+  background-position: -1472px -1792px;
+}
+    
+.gl-telescope {
+  background-position: -1472px -1856px;
+}
+    
+.gl-crystal_ball {
+  background-position: -1472px -1920px;
+}
+    
+.gl-six_pointed_star {
+  background-position: -1472px -1984px;
+}
+    
+.gl-beginner {
+  background-position: -1472px -2048px;
+}
+    
+.gl-trident {
+  background-position: -1472px -2112px;
+}
+    
+.gl-black_square_button {
+  background-position: -1472px -2176px;
+}
+    
+.gl-white_square_button {
+  background-position: -1472px -2240px;
+}
+    
+.gl-red_circle {
+  background-position: -1472px -2304px;
+}
+    
+.gl-large_blue_circle {
+  background-position: -1472px -2368px;
+}
+    
+.gl-large_orange_diamond {
+  background-position: -1472px -2432px;
+}
+    
+.gl-large_blue_diamond {
+  background-position: -1472px -2496px;
+}
+    
+.gl-small_orange_diamond {
+  background-position: -1472px -2560px;
+}
+    
+.gl-small_blue_diamond {
+  background-position: -1536px -0px;
+}
+    
+.gl-small_red_triangle {
+  background-position: -1536px -64px;
+}
+    
+.gl-small_red_triangle_down {
+  background-position: -1536px -128px;
+}
+    
+.gl-arrow_up_small {
+  background-position: -1536px -192px;
+}
+    
+.gl-arrow_down_small {
+  background-position: -1536px -256px;
+}
+    
+.gl-om_symbol {
+  background-position: -1536px -320px;
+}
+    
+.gl-dove_of_peace {
+  background-position: -1536px -384px;
+}
+    
+.gl-kaaba {
+  background-position: -1536px -448px;
+}
+    
+.gl-mosque {
+  background-position: -1536px -512px;
+}
+    
+.gl-synagogue {
+  background-position: -1536px -576px;
+}
+    
+.gl-menorah_with_nine_branches {
+  background-position: -1536px -640px;
+}
+    
+.gl-clock1 {
+  background-position: -1536px -704px;
+}
+    
+.gl-clock2 {
+  background-position: -1536px -768px;
+}
+    
+.gl-clock3 {
+  background-position: -1536px -832px;
+}
+    
+.gl-clock4 {
+  background-position: -1536px -896px;
+}
+    
+.gl-clock5 {
+  background-position: -1536px -960px;
+}
+    
+.gl-clock6 {
+  background-position: -1536px -1024px;
+}
+    
+.gl-clock7 {
+  background-position: -1536px -1088px;
+}
+    
+.gl-clock8 {
+  background-position: -1536px -1152px;
+}
+    
+.gl-clock9 {
+  background-position: -1536px -1216px;
+}
+    
+.gl-clock10 {
+  background-position: -1536px -1280px;
+}
+    
+.gl-clock11 {
+  background-position: -1536px -1344px;
+}
+    
+.gl-clock12 {
+  background-position: -1536px -1408px;
+}
+    
+.gl-clock130 {
+  background-position: -1536px -1472px;
+}
+    
+.gl-clock230 {
+  background-position: -1536px -1536px;
+}
+    
+.gl-clock330 {
+  background-position: -1536px -1600px;
+}
+    
+.gl-clock430 {
+  background-position: -1536px -1664px;
+}
+    
+.gl-clock530 {
+  background-position: -1536px -1728px;
+}
+    
+.gl-clock630 {
+  background-position: -1536px -1792px;
+}
+    
+.gl-clock730 {
+  background-position: -1536px -1856px;
+}
+    
+.gl-clock830 {
+  background-position: -1536px -1920px;
+}
+    
+.gl-clock930 {
+  background-position: -1536px -1984px;
+}
+    
+.gl-clock1030 {
+  background-position: -1536px -2048px;
+}
+    
+.gl-clock1130 {
+  background-position: -1536px -2112px;
+}
+    
+.gl-clock1230 {
+  background-position: -1536px -2176px;
+}
+    
+.gl-candle {
+  background-position: -1536px -2240px;
+}
+    
+.gl-mantelpiece_clock {
+  background-position: -1536px -2304px;
+}
+    
+.gl-hole {
+  background-position: -1536px -2368px;
+}
+    
+.gl-man_in_business_suit_levitating {
+  background-position: -1536px -2432px;
+}
+    
+.gl-sleuth_or_spy {
+  background-position: -1536px -2496px;
+}
+    
+.gl-dark_sunglasses {
+  background-position: -1600px -256px;
+}
+    
+.gl-spider {
+  background-position: -1600px -320px;
+}
+    
+.gl-spider_web {
+  background-position: -1600px -384px;
+}
+    
+.gl-joystick {
+  background-position: -1600px -448px;
+}
+    
+.gl-linked_paperclips {
+  background-position: -1600px -512px;
+}
+    
+.gl-lower_left_ballpoint_pen {
+  background-position: -1600px -576px;
+}
+    
+.gl-lower_left_fountain_pen {
+  background-position: -1600px -640px;
+}
+    
+.gl-lower_left_paintbrush {
+  background-position: -1600px -704px;
+}
+    
+.gl-lower_left_crayon {
+  background-position: -1600px -768px;
+}
+    
+.gl-raised_hand_with_fingers_splayed {
+  background-position: -1600px -832px;
+}
+    
+.gl-middle_finger {
+  background-position: -1600px -1216px;
+}
+    
+.gl-spock-hand {
+  background-position: -1600px -1600px;
+}
+    
+.gl-desktop_computer {
+  background-position: -1600px -1984px;
+}
+    
+.gl-printer {
+  background-position: -1600px -2048px;
+}
+    
+.gl-three_button_mouse {
+  background-position: -1600px -2112px;
+}
+    
+.gl-trackball {
+  background-position: -1600px -2176px;
+}
+    
+.gl-frame_with_picture {
+  background-position: -1600px -2240px;
+}
+    
+.gl-card_index_dividers {
+  background-position: -1600px -2304px;
+}
+    
+.gl-card_file_box {
+  background-position: -1600px -2368px;
+}
+    
+.gl-file_cabinet {
+  background-position: -1600px -2432px;
+}
+    
+.gl-wastebasket {
+  background-position: -1600px -2496px;
+}
+    
+.gl-spiral_note_pad {
+  background-position: -1600px -2560px;
+}
+    
+.gl-spiral_calendar_pad {
+  background-position: -1664px -0px;
+}
+    
+.gl-compression {
+  background-position: -1664px -64px;
+}
+    
+.gl-old_key {
+  background-position: -1664px -128px;
+}
+    
+.gl-rolled_up_newspaper {
+  background-position: -1664px -192px;
+}
+    
+.gl-dagger_knife {
+  background-position: -1664px -256px;
+}
+    
+.gl-speaking_head_in_silhouette {
+  background-position: -1664px -320px;
+}
+    
+.gl-left_speech_bubble {
+  background-position: -1664px -384px;
+}
+    
+.gl-right_anger_bubble {
+  background-position: -1664px -448px;
+}
+    
+.gl-ballot_box_with_ballot {
+  background-position: -1664px -512px;
+}
+    
+.gl-world_map {
+  background-position: -1664px -576px;
+}
+    
+.gl-mount_fuji {
+  background-position: -1664px -640px;
+}
+    
+.gl-tokyo_tower {
+  background-position: -1664px -704px;
+}
+    
+.gl-statue_of_liberty {
+  background-position: -1664px -768px;
+}
+    
+.gl-japan {
+  background-position: -1664px -832px;
+}
+    
+.gl-moyai {
+  background-position: -1664px -896px;
+}
+    
+.gl-grinning {
+  background-position: -1664px -960px;
+}
+    
+.gl-grin {
+  background-position: -1664px -1024px;
+}
+    
+.gl-joy {
+  background-position: -1664px -1088px;
+}
+    
+.gl-smiley {
+  background-position: -1664px -1152px;
+}
+    
+.gl-smile {
+  background-position: -1664px -1216px;
+}
+    
+.gl-sweat_smile {
+  background-position: -1664px -1280px;
+}
+    
+.gl-laughing {
+  background-position: -1664px -1344px;
+}
+    
+.gl-innocent {
+  background-position: -1664px -1408px;
+}
+    
+.gl-smiling_imp {
+  background-position: -1664px -1472px;
+}
+    
+.gl-wink {
+  background-position: -1664px -1536px;
+}
+    
+.gl-blush {
+  background-position: -1664px -1600px;
+}
+    
+.gl-yum {
+  background-position: -1664px -1664px;
+}
+    
+.gl-relieved {
+  background-position: -1664px -1728px;
+}
+    
+.gl-heart_eyes {
+  background-position: -1664px -1792px;
+}
+    
+.gl-sunglasses {
+  background-position: -1664px -1856px;
+}
+    
+.gl-smirk {
+  background-position: -1664px -1920px;
+}
+    
+.gl-neutral_face {
+  background-position: -1664px -1984px;
+}
+    
+.gl-expressionless {
+  background-position: -1664px -2048px;
+}
+    
+.gl-unamused {
+  background-position: -1664px -2112px;
+}
+    
+.gl-sweat {
+  background-position: -1664px -2176px;
+}
+    
+.gl-pensive {
+  background-position: -1664px -2240px;
+}
+    
+.gl-confused {
+  background-position: -1664px -2304px;
+}
+    
+.gl-confounded {
+  background-position: -1664px -2368px;
+}
+    
+.gl-kissing {
+  background-position: -1664px -2432px;
+}
+    
+.gl-kissing_heart {
+  background-position: -1664px -2496px;
+}
+    
+.gl-kissing_smiling_eyes {
+  background-position: -1664px -2560px;
+}
+    
+.gl-kissing_closed_eyes {
+  background-position: -1728px -0px;
+}
+    
+.gl-stuck_out_tongue {
+  background-position: -1728px -64px;
+}
+    
+.gl-stuck_out_tongue_winking_eye {
+  background-position: -1728px -128px;
+}
+    
+.gl-stuck_out_tongue_closed_eyes {
+  background-position: -1728px -192px;
+}
+    
+.gl-disappointed {
+  background-position: -1728px -256px;
+}
+    
+.gl-worried {
+  background-position: -1728px -320px;
+}
+    
+.gl-angry {
+  background-position: -1728px -384px;
+}
+    
+.gl-rage {
+  background-position: -1728px -448px;
+}
+    
+.gl-cry {
+  background-position: -1728px -512px;
+}
+    
+.gl-persevere {
+  background-position: -1728px -576px;
+}
+    
+.gl-triumph {
+  background-position: -1728px -640px;
+}
+    
+.gl-disappointed_relieved {
+  background-position: -1728px -704px;
+}
+    
+.gl-frowning {
+  background-position: -1728px -768px;
+}
+    
+.gl-anguished {
+  background-position: -1728px -832px;
+}
+    
+.gl-fearful {
+  background-position: -1728px -896px;
+}
+    
+.gl-weary {
+  background-position: -1728px -960px;
+}
+    
+.gl-sleepy {
+  background-position: -1728px -1024px;
+}
+    
+.gl-tired_face {
+  background-position: -1728px -1088px;
+}
+    
+.gl-grimacing {
+  background-position: -1728px -1152px;
+}
+    
+.gl-sob {
+  background-position: -1728px -1216px;
+}
+    
+.gl-open_mouth {
+  background-position: -1728px -1280px;
+}
+    
+.gl-hushed {
+  background-position: -1728px -1344px;
+}
+    
+.gl-cold_sweat {
+  background-position: -1728px -1408px;
+}
+    
+.gl-scream {
+  background-position: -1728px -1472px;
+}
+    
+.gl-astonished {
+  background-position: -1728px -1536px;
+}
+    
+.gl-flushed {
+  background-position: -1728px -1600px;
+}
+    
+.gl-sleeping {
+  background-position: -1728px -1664px;
+}
+    
+.gl-dizzy_face {
+  background-position: -1728px -1728px;
+}
+    
+.gl-no_mouth {
+  background-position: -1728px -1792px;
+}
+    
+.gl-mask {
+  background-position: -1728px -1856px;
+}
+    
+.gl-smile_cat {
+  background-position: -1728px -1920px;
+}
+    
+.gl-joy_cat {
+  background-position: -1728px -1984px;
+}
+    
+.gl-smiley_cat {
+  background-position: -1728px -2048px;
+}
+    
+.gl-heart_eyes_cat {
+  background-position: -1728px -2112px;
+}
+    
+.gl-smirk_cat {
+  background-position: -1728px -2176px;
+}
+    
+.gl-kissing_cat {
+  background-position: -1728px -2240px;
+}
+    
+.gl-pouting_cat {
+  background-position: -1728px -2304px;
+}
+    
+.gl-crying_cat_face {
+  background-position: -1728px -2368px;
+}
+    
+.gl-scream_cat {
+  background-position: -1728px -2432px;
+}
+    
+.gl-slightly_frowning_face {
+  background-position: -1728px -2496px;
+}
+    
+.gl-slightly_smiling_face {
+  background-position: -1728px -2560px;
+}
+    
+.gl-upside_down_face {
+  background-position: -1792px -0px;
+}
+    
+.gl-face_with_rolling_eyes {
+  background-position: -1792px -64px;
+}
+    
+.gl-no_good {
+  background-position: -1792px -128px;
+}
+    
+.gl-ok_woman {
+  background-position: -1792px -512px;
+}
+    
+.gl-bow {
+  background-position: -1792px -896px;
+}
+    
+.gl-see_no_evil {
+  background-position: -1792px -1280px;
+}
+    
+.gl-hear_no_evil {
+  background-position: -1792px -1344px;
+}
+    
+.gl-speak_no_evil {
+  background-position: -1792px -1408px;
+}
+    
+.gl-raising_hand {
+  background-position: -1792px -1472px;
+}
+    
+.gl-raised_hands {
+  background-position: -1792px -1856px;
+}
+    
+.gl-person_frowning {
+  background-position: -1792px -2240px;
+}
+    
+.gl-person_with_pouting_face {
+  background-position: -1856px -0px;
+}
+    
+.gl-pray {
+  background-position: -1856px -384px;
+}
+    
+.gl-rocket {
+  background-position: -1856px -768px;
+}
+    
+.gl-helicopter {
+  background-position: -1856px -832px;
+}
+    
+.gl-steam_locomotive {
+  background-position: -1856px -896px;
+}
+    
+.gl-railway_car {
+  background-position: -1856px -960px;
+}
+    
+.gl-bullettrain_side {
+  background-position: -1856px -1024px;
+}
+    
+.gl-bullettrain_front {
+  background-position: -1856px -1088px;
+}
+    
+.gl-train2 {
+  background-position: -1856px -1152px;
+}
+    
+.gl-metro {
+  background-position: -1856px -1216px;
+}
+    
+.gl-light_rail {
+  background-position: -1856px -1280px;
+}
+    
+.gl-station {
+  background-position: -1856px -1344px;
+}
+    
+.gl-tram {
+  background-position: -1856px -1408px;
+}
+    
+.gl-train {
+  background-position: -1856px -1472px;
+}
+    
+.gl-bus {
+  background-position: -1856px -1536px;
+}
+    
+.gl-oncoming_bus {
+  background-position: -1856px -1600px;
+}
+    
+.gl-trolleybus {
+  background-position: -1856px -1664px;
+}
+    
+.gl-busstop {
+  background-position: -1856px -1728px;
+}
+    
+.gl-minibus {
+  background-position: -1856px -1792px;
+}
+    
+.gl-ambulance {
+  background-position: -1856px -1856px;
+}
+    
+.gl-fire_engine {
+  background-position: -1856px -1920px;
+}
+    
+.gl-police_car {
+  background-position: -1856px -1984px;
+}
+    
+.gl-oncoming_police_car {
+  background-position: -1856px -2048px;
+}
+    
+.gl-taxi {
+  background-position: -1856px -2112px;
+}
+    
+.gl-oncoming_taxi {
+  background-position: -1856px -2176px;
+}
+    
+.gl-car {
+  background-position: -1856px -2240px;
+}
+    
+.gl-oncoming_automobile {
+  background-position: -1856px -2304px;
+}
+    
+.gl-blue_car {
+  background-position: -1856px -2368px;
+}
+    
+.gl-truck {
+  background-position: -1856px -2432px;
+}
+    
+.gl-articulated_lorry {
+  background-position: -1856px -2496px;
+}
+    
+.gl-tractor {
+  background-position: -1856px -2560px;
+}
+    
+.gl-monorail {
+  background-position: -1920px -0px;
+}
+    
+.gl-mountain_railway {
+  background-position: -1920px -64px;
+}
+    
+.gl-suspension_railway {
+  background-position: -1920px -128px;
+}
+    
+.gl-mountain_cableway {
+  background-position: -1920px -192px;
+}
+    
+.gl-aerial_tramway {
+  background-position: -1920px -256px;
+}
+    
+.gl-ship {
+  background-position: -1920px -320px;
+}
+    
+.gl-rowboat {
+  background-position: -1920px -384px;
+}
+    
+.gl-speedboat {
+  background-position: -1920px -768px;
+}
+    
+.gl-traffic_light {
+  background-position: -1920px -832px;
+}
+    
+.gl-vertical_traffic_light {
+  background-position: -1920px -896px;
+}
+    
+.gl-construction {
+  background-position: -1920px -960px;
+}
+    
+.gl-rotating_light {
+  background-position: -1920px -1024px;
+}
+    
+.gl-triangular_flag_on_post {
+  background-position: -1920px -1088px;
+}
+    
+.gl-door {
+  background-position: -1920px -1152px;
+}
+    
+.gl-no_entry_sign {
+  background-position: -1920px -1216px;
+}
+    
+.gl-smoking {
+  background-position: -1920px -1280px;
+}
+    
+.gl-no_smoking {
+  background-position: -1920px -1344px;
+}
+    
+.gl-put_litter_in_its_place {
+  background-position: -1920px -1408px;
+}
+    
+.gl-do_not_litter {
+  background-position: -1920px -1472px;
+}
+    
+.gl-potable_water {
+  background-position: -1920px -1536px;
+}
+    
+.gl-non-potable_water {
+  background-position: -1920px -1600px;
+}
+    
+.gl-bike {
+  background-position: -1920px -1664px;
+}
+    
+.gl-no_bicycles {
+  background-position: -1920px -1728px;
+}
+    
+.gl-bicyclist {
+  background-position: -1920px -1792px;
+}
+    
+.gl-mountain_bicyclist {
+  background-position: -1920px -2176px;
+}
+    
+.gl-walking {
+  background-position: -1920px -2560px;
+}
+    
+.gl-no_pedestrians {
+  background-position: -1984px -320px;
+}
+    
+.gl-children_crossing {
+  background-position: -1984px -384px;
+}
+    
+.gl-mens {
+  background-position: -1984px -448px;
+}
+    
+.gl-womens {
+  background-position: -1984px -512px;
+}
+    
+.gl-restroom {
+  background-position: -1984px -576px;
+}
+    
+.gl-baby_symbol {
+  background-position: -1984px -640px;
+}
+    
+.gl-toilet {
+  background-position: -1984px -704px;
+}
+    
+.gl-wc {
+  background-position: -1984px -768px;
+}
+    
+.gl-shower {
+  background-position: -1984px -832px;
+}
+    
+.gl-bath {
+  background-position: -1984px -896px;
+}
+    
+.gl-bathtub {
+  background-position: -1984px -1280px;
+}
+    
+.gl-passport_control {
+  background-position: -1984px -1344px;
+}
+    
+.gl-customs {
+  background-position: -1984px -1408px;
+}
+    
+.gl-baggage_claim {
+  background-position: -1984px -1472px;
+}
+    
+.gl-left_luggage {
+  background-position: -1984px -1536px;
+}
+    
+.gl-couch_and_lamp {
+  background-position: -1984px -1600px;
+}
+    
+.gl-sleeping_accommodation {
+  background-position: -1984px -1664px;
+}
+    
+.gl-shopping_bags {
+  background-position: -1984px -1728px;
+}
+    
+.gl-bellhop_bell {
+  background-position: -1984px -1792px;
+}
+    
+.gl-bed {
+  background-position: -1984px -1856px;
+}
+    
+.gl-place_of_worship {
+  background-position: -1984px -1920px;
+}
+    
+.gl-hammer_and_wrench {
+  background-position: -1984px -1984px;
+}
+    
+.gl-shield {
+  background-position: -1984px -2048px;
+}
+    
+.gl-oil_drum {
+  background-position: -1984px -2112px;
+}
+    
+.gl-motorway {
+  background-position: -1984px -2176px;
+}
+    
+.gl-railway_track {
+  background-position: -1984px -2240px;
+}
+    
+.gl-motor_boat {
+  background-position: -1984px -2304px;
+}
+    
+.gl-small_airplane {
+  background-position: -1984px -2368px;
+}
+    
+.gl-airplane_departure {
+  background-position: -1984px -2432px;
+}
+    
+.gl-airplane_arriving {
+  background-position: -1984px -2496px;
+}
+    
+.gl-satellite {
+  background-position: -1984px -2560px;
+}
+    
+.gl-passenger_ship {
+  background-position: -2048px -0px;
+}
+    
+.gl-zipper_mouth_face {
+  background-position: -2048px -64px;
+}
+    
+.gl-money_mouth_face {
+  background-position: -2048px -128px;
+}
+    
+.gl-face_with_thermometer {
+  background-position: -2048px -192px;
+}
+    
+.gl-nerd_face {
+  background-position: -2048px -256px;
+}
+    
+.gl-thinking_face {
+  background-position: -2048px -320px;
+}
+    
+.gl-face_with_head_bandage {
+  background-position: -2048px -384px;
+}
+    
+.gl-robot_face {
+  background-position: -2048px -448px;
+}
+    
+.gl-hugging_face {
+  background-position: -2048px -512px;
+}
+    
+.gl-the_horns {
+  background-position: -2048px -576px;
+}
+    
+.gl-crab {
+  background-position: -2048px -960px;
+}
+    
+.gl-lion_face {
+  background-position: -2048px -1024px;
+}
+    
+.gl-scorpion {
+  background-position: -2048px -1088px;
+}
+    
+.gl-turkey {
+  background-position: -2048px -1152px;
+}
+    
+.gl-unicorn_face {
+  background-position: -2048px -1216px;
+}
+    
+.gl-cheese_wedge {
+  background-position: -2048px -1280px;
+}
+    
+.gl-hash {
+  background-position: -2048px -1344px;
+}
+    
+.gl-keycap_star {
+  background-position: -2048px -1408px;
+}
+    
+.gl-zero {
+  background-position: -2048px -1472px;
+}
+    
+.gl-one {
+  background-position: -2048px -1536px;
+}
+    
+.gl-two {
+  background-position: -2048px -1600px;
+}
+    
+.gl-three {
+  background-position: -2048px -1664px;
+}
+    
+.gl-four {
+  background-position: -2048px -1728px;
+}
+    
+.gl-five {
+  background-position: -2048px -1792px;
+}
+    
+.gl-six {
+  background-position: -2048px -1856px;
+}
+    
+.gl-seven {
+  background-position: -2048px -1920px;
+}
+    
+.gl-eight {
+  background-position: -2048px -1984px;
+}
+    
+.gl-nine {
+  background-position: -2048px -2048px;
+}
+    
+.gl-flag-ad {
+  background-position: -2048px -2176px;
+}
+    
+.gl-flag-ae {
+  background-position: -2048px -2240px;
+}
+    
+.gl-flag-af {
+  background-position: -2048px -2304px;
+}
+    
+.gl-flag-ag {
+  background-position: -2048px -2368px;
+}
+    
+.gl-flag-ai {
+  background-position: -2048px -2432px;
+}
+    
+.gl-flag-al {
+  background-position: -2048px -2496px;
+}
+    
+.gl-flag-am {
+  background-position: -2048px -2560px;
+}
+    
+.gl-flag-ao {
+  background-position: -2112px -0px;
+}
+    
+.gl-flag-ar {
+  background-position: -2112px -128px;
+}
+    
+.gl-flag-as {
+  background-position: -2112px -192px;
+}
+    
+.gl-flag-at {
+  background-position: -2112px -256px;
+}
+    
+.gl-flag-au {
+  background-position: -2112px -320px;
+}
+    
+.gl-flag-aw {
+  background-position: -2112px -384px;
+}
+    
+.gl-flag-ax {
+  background-position: -2112px -448px;
+}
+    
+.gl-flag-az {
+  background-position: -2112px -512px;
+}
+    
+.gl-flag-ba {
+  background-position: -2112px -576px;
+}
+    
+.gl-flag-bb {
+  background-position: -2112px -640px;
+}
+    
+.gl-flag-bd {
+  background-position: -2112px -704px;
+}
+    
+.gl-flag-be {
+  background-position: -2112px -768px;
+}
+    
+.gl-flag-bf {
+  background-position: -2112px -832px;
+}
+    
+.gl-flag-bg {
+  background-position: -2112px -896px;
+}
+    
+.gl-flag-bh {
+  background-position: -2112px -960px;
+}
+    
+.gl-flag-bi {
+  background-position: -2112px -1024px;
+}
+    
+.gl-flag-bj {
+  background-position: -2112px -1088px;
+}
+    
+.gl-flag-bm {
+  background-position: -2112px -1216px;
+}
+    
+.gl-flag-bn {
+  background-position: -2112px -1280px;
+}
+    
+.gl-flag-bo {
+  background-position: -2112px -1344px;
+}
+    
+.gl-flag-br {
+  background-position: -2112px -1472px;
+}
+    
+.gl-flag-bs {
+  background-position: -2112px -1536px;
+}
+    
+.gl-flag-bt {
+  background-position: -2112px -1600px;
+}
+    
+.gl-flag-bw {
+  background-position: -2112px -1728px;
+}
+    
+.gl-flag-by {
+  background-position: -2112px -1792px;
+}
+    
+.gl-flag-bz {
+  background-position: -2112px -1856px;
+}
+    
+.gl-flag-ca {
+  background-position: -2112px -1920px;
+}
+    
+.gl-flag-cc {
+  background-position: -2112px -1984px;
+}
+    
+.gl-flag-cd {
+  background-position: -2112px -2048px;
+}
+    
+.gl-flag-cf {
+  background-position: -2112px -2112px;
+}
+    
+.gl-flag-cg {
+  background-position: -2112px -2176px;
+}
+    
+.gl-flag-ch {
+  background-position: -2112px -2240px;
+}
+    
+.gl-flag-ci {
+  background-position: -2112px -2304px;
+}
+    
+.gl-flag-ck {
+  background-position: -2112px -2368px;
+}
+    
+.gl-flag-cl {
+  background-position: -2112px -2432px;
+}
+    
+.gl-flag-cm {
+  background-position: -2112px -2496px;
+}
+    
+.gl-flag-cn {
+  background-position: -2112px -2560px;
+}
+    
+.gl-flag-co {
+  background-position: -2176px -0px;
+}
+    
+.gl-flag-cr {
+  background-position: -2176px -128px;
+}
+    
+.gl-flag-cu {
+  background-position: -2176px -192px;
+}
+    
+.gl-flag-cv {
+  background-position: -2176px -256px;
+}
+    
+.gl-flag-cw {
+  background-position: -2176px -320px;
+}
+    
+.gl-flag-cx {
+  background-position: -2176px -384px;
+}
+    
+.gl-flag-cy {
+  background-position: -2176px -448px;
+}
+    
+.gl-flag-cz {
+  background-position: -2176px -512px;
+}
+    
+.gl-flag-de {
+  background-position: -2176px -576px;
+}
+    
+.gl-flag-dj {
+  background-position: -2176px -704px;
+}
+    
+.gl-flag-dk {
+  background-position: -2176px -768px;
+}
+    
+.gl-flag-dm {
+  background-position: -2176px -832px;
+}
+    
+.gl-flag-do {
+  background-position: -2176px -896px;
+}
+    
+.gl-flag-dz {
+  background-position: -2176px -960px;
+}
+    
+.gl-flag-ec {
+  background-position: -2176px -1088px;
+}
+    
+.gl-flag-ee {
+  background-position: -2176px -1152px;
+}
+    
+.gl-flag-eg {
+  background-position: -2176px -1216px;
+}
+    
+.gl-flag-er {
+  background-position: -2176px -1344px;
+}
+    
+.gl-flag-es {
+  background-position: -2176px -1408px;
+}
+    
+.gl-flag-et {
+  background-position: -2176px -1472px;
+}
+    
+.gl-flag-eu {
+  background-position: -2176px -1536px;
+}
+    
+.gl-flag-fi {
+  background-position: -2176px -1600px;
+}
+    
+.gl-flag-fj {
+  background-position: -2176px -1664px;
+}
+    
+.gl-flag-fm {
+  background-position: -2176px -1792px;
+}
+    
+.gl-flag-fo {
+  background-position: -2176px -1856px;
+}
+    
+.gl-flag-fr {
+  background-position: -2176px -1920px;
+}
+    
+.gl-flag-ga {
+  background-position: -2176px -1984px;
+}
+    
+.gl-flag-gb {
+  background-position: -2176px -2048px;
+}
+    
+.gl-flag-gd {
+  background-position: -2176px -2112px;
+}
+    
+.gl-flag-ge {
+  background-position: -2176px -2176px;
+}
+    
+.gl-flag-gg {
+  background-position: -2176px -2304px;
+}
+    
+.gl-flag-gh {
+  background-position: -2176px -2368px;
+}
+    
+.gl-flag-gi {
+  background-position: -2176px -2432px;
+}
+    
+.gl-flag-gl {
+  background-position: -2176px -2496px;
+}
+    
+.gl-flag-gm {
+  background-position: -2176px -2560px;
+}
+    
+.gl-flag-gn {
+  background-position: -2240px -0px;
+}
+    
+.gl-flag-gq {
+  background-position: -2240px -128px;
+}
+    
+.gl-flag-gr {
+  background-position: -2240px -192px;
+}
+    
+.gl-flag-gt {
+  background-position: -2240px -320px;
+}
+    
+.gl-flag-gu {
+  background-position: -2240px -384px;
+}
+    
+.gl-flag-gw {
+  background-position: -2240px -448px;
+}
+    
+.gl-flag-gy {
+  background-position: -2240px -512px;
+}
+    
+.gl-flag-hk {
+  background-position: -2240px -576px;
+}
+    
+.gl-flag-hn {
+  background-position: -2240px -704px;
+}
+    
+.gl-flag-hr {
+  background-position: -2240px -768px;
+}
+    
+.gl-flag-ht {
+  background-position: -2240px -832px;
+}
+    
+.gl-flag-hu {
+  background-position: -2240px -896px;
+}
+    
+.gl-flag-id {
+  background-position: -2240px -1024px;
+}
+    
+.gl-flag-ie {
+  background-position: -2240px -1088px;
+}
+    
+.gl-flag-il {
+  background-position: -2240px -1152px;
+}
+    
+.gl-flag-im {
+  background-position: -2240px -1216px;
+}
+    
+.gl-flag-in {
+  background-position: -2240px -1280px;
+}
+    
+.gl-flag-io {
+  background-position: -2240px -1344px;
+}
+    
+.gl-flag-iq {
+  background-position: -2240px -1408px;
+}
+    
+.gl-flag-ir {
+  background-position: -2240px -1472px;
+}
+    
+.gl-flag-is {
+  background-position: -2240px -1536px;
+}
+    
+.gl-flag-it {
+  background-position: -2240px -1600px;
+}
+    
+.gl-flag-je {
+  background-position: -2240px -1664px;
+}
+    
+.gl-flag-jm {
+  background-position: -2240px -1728px;
+}
+    
+.gl-flag-jo {
+  background-position: -2240px -1792px;
+}
+    
+.gl-flag-jp {
+  background-position: -2240px -1856px;
+}
+    
+.gl-flag-ke {
+  background-position: -2240px -1920px;
+}
+    
+.gl-flag-kg {
+  background-position: -2240px -1984px;
+}
+    
+.gl-flag-kh {
+  background-position: -2240px -2048px;
+}
+    
+.gl-flag-ki {
+  background-position: -2240px -2112px;
+}
+    
+.gl-flag-km {
+  background-position: -2240px -2176px;
+}
+    
+.gl-flag-kn {
+  background-position: -2240px -2240px;
+}
+    
+.gl-flag-kp {
+  background-position: -2240px -2304px;
+}
+    
+.gl-flag-kr {
+  background-position: -2240px -2368px;
+}
+    
+.gl-flag-kw {
+  background-position: -2240px -2432px;
+}
+    
+.gl-flag-ky {
+  background-position: -2240px -2496px;
+}
+    
+.gl-flag-kz {
+  background-position: -2240px -2560px;
+}
+    
+.gl-flag-la {
+  background-position: -2304px -0px;
+}
+    
+.gl-flag-lb {
+  background-position: -2304px -64px;
+}
+    
+.gl-flag-lc {
+  background-position: -2304px -128px;
+}
+    
+.gl-flag-li {
+  background-position: -2304px -192px;
+}
+    
+.gl-flag-lk {
+  background-position: -2304px -256px;
+}
+    
+.gl-flag-lr {
+  background-position: -2304px -320px;
+}
+    
+.gl-flag-ls {
+  background-position: -2304px -384px;
+}
+    
+.gl-flag-lt {
+  background-position: -2304px -448px;
+}
+    
+.gl-flag-lu {
+  background-position: -2304px -512px;
+}
+    
+.gl-flag-lv {
+  background-position: -2304px -576px;
+}
+    
+.gl-flag-ly {
+  background-position: -2304px -640px;
+}
+    
+.gl-flag-ma {
+  background-position: -2304px -704px;
+}
+    
+.gl-flag-mc {
+  background-position: -2304px -768px;
+}
+    
+.gl-flag-md {
+  background-position: -2304px -832px;
+}
+    
+.gl-flag-me {
+  background-position: -2304px -896px;
+}
+    
+.gl-flag-mg {
+  background-position: -2304px -1024px;
+}
+    
+.gl-flag-mh {
+  background-position: -2304px -1088px;
+}
+    
+.gl-flag-mk {
+  background-position: -2304px -1152px;
+}
+    
+.gl-flag-ml {
+  background-position: -2304px -1216px;
+}
+    
+.gl-flag-mm {
+  background-position: -2304px -1280px;
+}
+    
+.gl-flag-mn {
+  background-position: -2304px -1344px;
+}
+    
+.gl-flag-mo {
+  background-position: -2304px -1408px;
+}
+    
+.gl-flag-mp {
+  background-position: -2304px -1472px;
+}
+    
+.gl-flag-mr {
+  background-position: -2304px -1600px;
+}
+    
+.gl-flag-ms {
+  background-position: -2304px -1664px;
+}
+    
+.gl-flag-mt {
+  background-position: -2304px -1728px;
+}
+    
+.gl-flag-mu {
+  background-position: -2304px -1792px;
+}
+    
+.gl-flag-mv {
+  background-position: -2304px -1856px;
+}
+    
+.gl-flag-mw {
+  background-position: -2304px -1920px;
+}
+    
+.gl-flag-mx {
+  background-position: -2304px -1984px;
+}
+    
+.gl-flag-my {
+  background-position: -2304px -2048px;
+}
+    
+.gl-flag-mz {
+  background-position: -2304px -2112px;
+}
+    
+.gl-flag-na {
+  background-position: -2304px -2176px;
+}
+    
+.gl-flag-ne {
+  background-position: -2304px -2304px;
+}
+    
+.gl-flag-nf {
+  background-position: -2304px -2368px;
+}
+    
+.gl-flag-ng {
+  background-position: -2304px -2432px;
+}
+    
+.gl-flag-ni {
+  background-position: -2304px -2496px;
+}
+    
+.gl-flag-nl {
+  background-position: -2304px -2560px;
+}
+    
+.gl-flag-no {
+  background-position: -2368px -0px;
+}
+    
+.gl-flag-np {
+  background-position: -2368px -64px;
+}
+    
+.gl-flag-nr {
+  background-position: -2368px -128px;
+}
+    
+.gl-flag-nu {
+  background-position: -2368px -192px;
+}
+    
+.gl-flag-nz {
+  background-position: -2368px -256px;
+}
+    
+.gl-flag-om {
+  background-position: -2368px -320px;
+}
+    
+.gl-flag-pa {
+  background-position: -2368px -384px;
+}
+    
+.gl-flag-pe {
+  background-position: -2368px -448px;
+}
+    
+.gl-flag-pf {
+  background-position: -2368px -512px;
+}
+    
+.gl-flag-pg {
+  background-position: -2368px -576px;
+}
+    
+.gl-flag-ph {
+  background-position: -2368px -640px;
+}
+    
+.gl-flag-pk {
+  background-position: -2368px -704px;
+}
+    
+.gl-flag-pl {
+  background-position: -2368px -768px;
+}
+    
+.gl-flag-pn {
+  background-position: -2368px -896px;
+}
+    
+.gl-flag-pr {
+  background-position: -2368px -960px;
+}
+    
+.gl-flag-ps {
+  background-position: -2368px -1024px;
+}
+    
+.gl-flag-pt {
+  background-position: -2368px -1088px;
+}
+    
+.gl-flag-pw {
+  background-position: -2368px -1152px;
+}
+    
+.gl-flag-py {
+  background-position: -2368px -1216px;
+}
+    
+.gl-flag-qa {
+  background-position: -2368px -1280px;
+}
+    
+.gl-flag-ro {
+  background-position: -2368px -1408px;
+}
+    
+.gl-flag-rs {
+  background-position: -2368px -1472px;
+}
+    
+.gl-flag-ru {
+  background-position: -2368px -1536px;
+}
+    
+.gl-flag-rw {
+  background-position: -2368px -1600px;
+}
+    
+.gl-flag-sa {
+  background-position: -2368px -1664px;
+}
+    
+.gl-flag-sb {
+  background-position: -2368px -1728px;
+}
+    
+.gl-flag-sc {
+  background-position: -2368px -1792px;
+}
+    
+.gl-flag-sd {
+  background-position: -2368px -1856px;
+}
+    
+.gl-flag-se {
+  background-position: -2368px -1920px;
+}
+    
+.gl-flag-sg {
+  background-position: -2368px -1984px;
+}
+    
+.gl-flag-si {
+  background-position: -2368px -2112px;
+}
+    
+.gl-flag-sk {
+  background-position: -2368px -2240px;
+}
+    
+.gl-flag-sl {
+  background-position: -2368px -2304px;
+}
+    
+.gl-flag-sm {
+  background-position: -2368px -2368px;
+}
+    
+.gl-flag-sn {
+  background-position: -2368px -2432px;
+}
+    
+.gl-flag-so {
+  background-position: -2368px -2496px;
+}
+    
+.gl-flag-sr {
+  background-position: -2368px -2560px;
+}
+    
+.gl-flag-ss {
+  background-position: -2432px -0px;
+}
+    
+.gl-flag-st {
+  background-position: -2432px -64px;
+}
+    
+.gl-flag-sv {
+  background-position: -2432px -128px;
+}
+    
+.gl-flag-sx {
+  background-position: -2432px -192px;
+}
+    
+.gl-flag-sy {
+  background-position: -2432px -256px;
+}
+    
+.gl-flag-sz {
+  background-position: -2432px -320px;
+}
+    
+.gl-flag-tc {
+  background-position: -2432px -448px;
+}
+    
+.gl-flag-td {
+  background-position: -2432px -512px;
+}
+    
+.gl-flag-tg {
+  background-position: -2432px -640px;
+}
+    
+.gl-flag-th {
+  background-position: -2432px -704px;
+}
+    
+.gl-flag-tj {
+  background-position: -2432px -768px;
+}
+    
+.gl-flag-tk {
+  background-position: -2432px -832px;
+}
+    
+.gl-flag-tl {
+  background-position: -2432px -896px;
+}
+    
+.gl-flag-tm {
+  background-position: -2432px -960px;
+}
+    
+.gl-flag-tn {
+  background-position: -2432px -1024px;
+}
+    
+.gl-flag-to {
+  background-position: -2432px -1088px;
+}
+    
+.gl-flag-tr {
+  background-position: -2432px -1152px;
+}
+    
+.gl-flag-tt {
+  background-position: -2432px -1216px;
+}
+    
+.gl-flag-tv {
+  background-position: -2432px -1280px;
+}
+    
+.gl-flag-tw {
+  background-position: -2432px -1344px;
+}
+    
+.gl-flag-tz {
+  background-position: -2432px -1408px;
+}
+    
+.gl-flag-ua {
+  background-position: -2432px -1472px;
+}
+    
+.gl-flag-ug {
+  background-position: -2432px -1536px;
+}
+    
+.gl-flag-us {
+  background-position: -2432px -1664px;
+}
+    
+.gl-flag-uy {
+  background-position: -2432px -1728px;
+}
+    
+.gl-flag-uz {
+  background-position: -2432px -1792px;
+}
+    
+.gl-flag-va {
+  background-position: -2432px -1856px;
+}
+    
+.gl-flag-vc {
+  background-position: -2432px -1920px;
+}
+    
+.gl-flag-ve {
+  background-position: -2432px -1984px;
+}
+    
+.gl-flag-vg {
+  background-position: -2432px -2048px;
+}
+    
+.gl-flag-vi {
+  background-position: -2432px -2112px;
+}
+    
+.gl-flag-vn {
+  background-position: -2432px -2176px;
+}
+    
+.gl-flag-vu {
+  background-position: -2432px -2240px;
+}
+    
+.gl-flag-ws {
+  background-position: -2432px -2368px;
+}
+    
+.gl-flag-ye {
+  background-position: -2432px -2496px;
+}
+    
+.gl-flag-za {
+  background-position: -2496px -0px;
+}
+    
+.gl-flag-zm {
+  background-position: -2496px -64px;
+}
+    
+.gl-flag-zw {
+  background-position: -2496px -128px;
+}
+    
+.gl-man-man-boy {
+  background-position: -2496px -192px;
+}
+    
+.gl-man-man-boy-boy {
+  background-position: -2496px -256px;
+}
+    
+.gl-man-man-girl {
+  background-position: -2496px -320px;
+}
+    
+.gl-man-man-girl-boy {
+  background-position: -2496px -384px;
+}
+    
+.gl-man-man-girl-girl {
+  background-position: -2496px -448px;
+}
+    
+.gl-man-woman-boy-boy {
+  background-position: -2496px -512px;
+}
+    
+.gl-man-woman-girl {
+  background-position: -2496px -576px;
+}
+    
+.gl-man-woman-girl-boy {
+  background-position: -2496px -640px;
+}
+    
+.gl-man-woman-girl-girl {
+  background-position: -2496px -704px;
+}
+    
+.gl-man-heart-man {
+  background-position: -2496px -768px;
+}
+    
+.gl-man-kiss-man {
+  background-position: -2496px -832px;
+}
+    
+.gl-woman-woman-boy {
+  background-position: -2496px -896px;
+}
+    
+.gl-woman-woman-boy-boy {
+  background-position: -2496px -960px;
+}
+    
+.gl-woman-woman-girl {
+  background-position: -2496px -1024px;
+}
+    
+.gl-woman-woman-girl-boy {
+  background-position: -2496px -1088px;
+}
+    
+.gl-woman-woman-girl-girl {
+  background-position: -2496px -1152px;
+}
+    
+.gl-woman-heart-woman {
+  background-position: -2496px -1216px;
+}
+    
+.gl-woman-kiss-woman {
+  background-position: -2496px -1280px;
+}
+    

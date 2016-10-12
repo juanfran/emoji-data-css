@@ -1,0 +1,5193 @@
+
+.tw {
+    display: inline-block;
+    height: 64px;
+    width: 64px;
+    background-image: url(sheet_twitter_64.png);
+    background-repeat: no-repeat;
+}
+    
+.tw-bangbang {
+  background-position: -0px -128px;
+}
+    
+.tw-interrobang {
+  background-position: -0px -192px;
+}
+    
+.tw-information_source {
+  background-position: -0px -320px;
+}
+    
+.tw-left_right_arrow {
+  background-position: -0px -384px;
+}
+    
+.tw-arrow_up_down {
+  background-position: -0px -448px;
+}
+    
+.tw-arrow_upper_left {
+  background-position: -0px -512px;
+}
+    
+.tw-arrow_upper_right {
+  background-position: -0px -576px;
+}
+    
+.tw-arrow_lower_right {
+  background-position: -0px -640px;
+}
+    
+.tw-arrow_lower_left {
+  background-position: -0px -704px;
+}
+    
+.tw-leftwards_arrow_with_hook {
+  background-position: -0px -768px;
+}
+    
+.tw-arrow_right_hook {
+  background-position: -0px -832px;
+}
+    
+.tw-watch {
+  background-position: -0px -896px;
+}
+    
+.tw-hourglass {
+  background-position: -0px -960px;
+}
+    
+.tw-keyboard {
+  background-position: -0px -1024px;
+}
+    
+.tw-fast_forward {
+  background-position: -0px -1152px;
+}
+    
+.tw-rewind {
+  background-position: -0px -1216px;
+}
+    
+.tw-arrow_double_up {
+  background-position: -0px -1280px;
+}
+    
+.tw-arrow_double_down {
+  background-position: -0px -1344px;
+}
+    
+.tw-black_right_pointing_double_triangle_with_vertical_bar {
+  background-position: -0px -1408px;
+}
+    
+.tw-black_left_pointing_double_triangle_with_vertical_bar {
+  background-position: -0px -1472px;
+}
+    
+.tw-black_right_pointing_triangle_with_double_vertical_bar {
+  background-position: -0px -1536px;
+}
+    
+.tw-alarm_clock {
+  background-position: -0px -1600px;
+}
+    
+.tw-stopwatch {
+  background-position: -0px -1664px;
+}
+    
+.tw-timer_clock {
+  background-position: -0px -1728px;
+}
+    
+.tw-hourglass_flowing_sand {
+  background-position: -0px -1792px;
+}
+    
+.tw-double_vertical_bar {
+  background-position: -0px -1856px;
+}
+    
+.tw-black_square_for_stop {
+  background-position: -0px -1920px;
+}
+    
+.tw-black_circle_for_record {
+  background-position: -0px -1984px;
+}
+    
+.tw-m {
+  background-position: -0px -2048px;
+}
+    
+.tw-black_small_square {
+  background-position: -0px -2112px;
+}
+    
+.tw-white_small_square {
+  background-position: -0px -2176px;
+}
+    
+.tw-arrow_forward {
+  background-position: -0px -2240px;
+}
+    
+.tw-arrow_backward {
+  background-position: -0px -2304px;
+}
+    
+.tw-white_medium_square {
+  background-position: -0px -2368px;
+}
+    
+.tw-black_medium_square {
+  background-position: -0px -2432px;
+}
+    
+.tw-white_medium_small_square {
+  background-position: -0px -2496px;
+}
+    
+.tw-black_medium_small_square {
+  background-position: -0px -2560px;
+}
+    
+.tw-sunny {
+  background-position: -64px -0px;
+}
+    
+.tw-cloud {
+  background-position: -64px -64px;
+}
+    
+.tw-umbrella {
+  background-position: -64px -128px;
+}
+    
+.tw-snowman {
+  background-position: -64px -192px;
+}
+    
+.tw-comet {
+  background-position: -64px -256px;
+}
+    
+.tw-phone {
+  background-position: -64px -320px;
+}
+    
+.tw-ballot_box_with_check {
+  background-position: -64px -384px;
+}
+    
+.tw-umbrella_with_rain_drops {
+  background-position: -64px -448px;
+}
+    
+.tw-coffee {
+  background-position: -64px -512px;
+}
+    
+.tw-shamrock {
+  background-position: -64px -576px;
+}
+    
+.tw-point_up {
+  background-position: -64px -640px;
+}
+    
+.tw-skull_and_crossbones {
+  background-position: -64px -1024px;
+}
+    
+.tw-radioactive_sign {
+  background-position: -64px -1088px;
+}
+    
+.tw-biohazard_sign {
+  background-position: -64px -1152px;
+}
+    
+.tw-orthodox_cross {
+  background-position: -64px -1216px;
+}
+    
+.tw-star_and_crescent {
+  background-position: -64px -1280px;
+}
+    
+.tw-peace_symbol {
+  background-position: -64px -1344px;
+}
+    
+.tw-yin_yang {
+  background-position: -64px -1408px;
+}
+    
+.tw-wheel_of_dharma {
+  background-position: -64px -1472px;
+}
+    
+.tw-white_frowning_face {
+  background-position: -64px -1536px;
+}
+    
+.tw-relaxed {
+  background-position: -64px -1600px;
+}
+    
+.tw-aries {
+  background-position: -64px -1664px;
+}
+    
+.tw-taurus {
+  background-position: -64px -1728px;
+}
+    
+.tw-gemini {
+  background-position: -64px -1792px;
+}
+    
+.tw-cancer {
+  background-position: -64px -1856px;
+}
+    
+.tw-leo {
+  background-position: -64px -1920px;
+}
+    
+.tw-virgo {
+  background-position: -64px -1984px;
+}
+    
+.tw-libra {
+  background-position: -64px -2048px;
+}
+    
+.tw-scorpius {
+  background-position: -64px -2112px;
+}
+    
+.tw-sagittarius {
+  background-position: -64px -2176px;
+}
+    
+.tw-capricorn {
+  background-position: -64px -2240px;
+}
+    
+.tw-aquarius {
+  background-position: -64px -2304px;
+}
+    
+.tw-pisces {
+  background-position: -64px -2368px;
+}
+    
+.tw-spades {
+  background-position: -64px -2432px;
+}
+    
+.tw-clubs {
+  background-position: -64px -2496px;
+}
+    
+.tw-hearts {
+  background-position: -64px -2560px;
+}
+    
+.tw-diamonds {
+  background-position: -128px -0px;
+}
+    
+.tw-hotsprings {
+  background-position: -128px -64px;
+}
+    
+.tw-recycle {
+  background-position: -128px -128px;
+}
+    
+.tw-wheelchair {
+  background-position: -128px -192px;
+}
+    
+.tw-hammer_and_pick {
+  background-position: -128px -256px;
+}
+    
+.tw-anchor {
+  background-position: -128px -320px;
+}
+    
+.tw-crossed_swords {
+  background-position: -128px -384px;
+}
+    
+.tw-scales {
+  background-position: -128px -448px;
+}
+    
+.tw-alembic {
+  background-position: -128px -512px;
+}
+    
+.tw-gear {
+  background-position: -128px -576px;
+}
+    
+.tw-atom_symbol {
+  background-position: -128px -640px;
+}
+    
+.tw-fleur_de_lis {
+  background-position: -128px -704px;
+}
+    
+.tw-warning {
+  background-position: -128px -768px;
+}
+    
+.tw-zap {
+  background-position: -128px -832px;
+}
+    
+.tw-white_circle {
+  background-position: -128px -896px;
+}
+    
+.tw-black_circle {
+  background-position: -128px -960px;
+}
+    
+.tw-coffin {
+  background-position: -128px -1024px;
+}
+    
+.tw-funeral_urn {
+  background-position: -128px -1088px;
+}
+    
+.tw-soccer {
+  background-position: -128px -1152px;
+}
+    
+.tw-baseball {
+  background-position: -128px -1216px;
+}
+    
+.tw-snowman_without_snow {
+  background-position: -128px -1280px;
+}
+    
+.tw-partly_sunny {
+  background-position: -128px -1344px;
+}
+    
+.tw-thunder_cloud_and_rain {
+  background-position: -128px -1408px;
+}
+    
+.tw-ophiuchus {
+  background-position: -128px -1472px;
+}
+    
+.tw-pick {
+  background-position: -128px -1536px;
+}
+    
+.tw-helmet_with_white_cross {
+  background-position: -128px -1600px;
+}
+    
+.tw-chains {
+  background-position: -128px -1664px;
+}
+    
+.tw-no_entry {
+  background-position: -128px -1728px;
+}
+    
+.tw-shinto_shrine {
+  background-position: -128px -1792px;
+}
+    
+.tw-church {
+  background-position: -128px -1856px;
+}
+    
+.tw-mountain {
+  background-position: -128px -1920px;
+}
+    
+.tw-umbrella_on_ground {
+  background-position: -128px -1984px;
+}
+    
+.tw-fountain {
+  background-position: -128px -2048px;
+}
+    
+.tw-golf {
+  background-position: -128px -2112px;
+}
+    
+.tw-ferry {
+  background-position: -128px -2176px;
+}
+    
+.tw-boat {
+  background-position: -128px -2240px;
+}
+    
+.tw-skier {
+  background-position: -128px -2304px;
+}
+    
+.tw-ice_skate {
+  background-position: -128px -2368px;
+}
+    
+.tw-person_with_ball {
+  background-position: -128px -2432px;
+}
+    
+.tw-tent {
+  background-position: -192px -192px;
+}
+    
+.tw-fuelpump {
+  background-position: -192px -256px;
+}
+    
+.tw-scissors {
+  background-position: -192px -320px;
+}
+    
+.tw-white_check_mark {
+  background-position: -192px -384px;
+}
+    
+.tw-airplane {
+  background-position: -192px -448px;
+}
+    
+.tw-email {
+  background-position: -192px -512px;
+}
+    
+.tw-fist {
+  background-position: -192px -576px;
+}
+    
+.tw-hand {
+  background-position: -192px -960px;
+}
+    
+.tw-v {
+  background-position: -192px -1344px;
+}
+    
+.tw-writing_hand {
+  background-position: -192px -1728px;
+}
+    
+.tw-pencil2 {
+  background-position: -192px -2112px;
+}
+    
+.tw-black_nib {
+  background-position: -192px -2176px;
+}
+    
+.tw-heavy_check_mark {
+  background-position: -192px -2240px;
+}
+    
+.tw-heavy_multiplication_x {
+  background-position: -192px -2304px;
+}
+    
+.tw-latin_cross {
+  background-position: -192px -2368px;
+}
+    
+.tw-star_of_david {
+  background-position: -192px -2432px;
+}
+    
+.tw-sparkles {
+  background-position: -192px -2496px;
+}
+    
+.tw-eight_spoked_asterisk {
+  background-position: -192px -2560px;
+}
+    
+.tw-eight_pointed_black_star {
+  background-position: -256px -0px;
+}
+    
+.tw-snowflake {
+  background-position: -256px -64px;
+}
+    
+.tw-sparkle {
+  background-position: -256px -128px;
+}
+    
+.tw-x {
+  background-position: -256px -192px;
+}
+    
+.tw-negative_squared_cross_mark {
+  background-position: -256px -256px;
+}
+    
+.tw-question {
+  background-position: -256px -320px;
+}
+    
+.tw-grey_question {
+  background-position: -256px -384px;
+}
+    
+.tw-grey_exclamation {
+  background-position: -256px -448px;
+}
+    
+.tw-exclamation {
+  background-position: -256px -512px;
+}
+    
+.tw-heavy_heart_exclamation_mark_ornament {
+  background-position: -256px -576px;
+}
+    
+.tw-heart {
+  background-position: -256px -640px;
+}
+    
+.tw-heavy_plus_sign {
+  background-position: -256px -704px;
+}
+    
+.tw-heavy_minus_sign {
+  background-position: -256px -768px;
+}
+    
+.tw-heavy_division_sign {
+  background-position: -256px -832px;
+}
+    
+.tw-arrow_right {
+  background-position: -256px -896px;
+}
+    
+.tw-curly_loop {
+  background-position: -256px -960px;
+}
+    
+.tw-loop {
+  background-position: -256px -1024px;
+}
+    
+.tw-arrow_heading_up {
+  background-position: -256px -1088px;
+}
+    
+.tw-arrow_heading_down {
+  background-position: -256px -1152px;
+}
+    
+.tw-arrow_left {
+  background-position: -256px -1216px;
+}
+    
+.tw-arrow_up {
+  background-position: -256px -1280px;
+}
+    
+.tw-arrow_down {
+  background-position: -256px -1344px;
+}
+    
+.tw-black_large_square {
+  background-position: -256px -1408px;
+}
+    
+.tw-white_large_square {
+  background-position: -256px -1472px;
+}
+    
+.tw-star {
+  background-position: -256px -1536px;
+}
+    
+.tw-o {
+  background-position: -256px -1600px;
+}
+    
+.tw-wavy_dash {
+  background-position: -256px -1664px;
+}
+    
+.tw-part_alternation_mark {
+  background-position: -256px -1728px;
+}
+    
+.tw-congratulations {
+  background-position: -256px -1792px;
+}
+    
+.tw-secret {
+  background-position: -256px -1856px;
+}
+    
+.tw-mahjong {
+  background-position: -256px -1920px;
+}
+    
+.tw-black_joker {
+  background-position: -256px -1984px;
+}
+    
+.tw-a {
+  background-position: -256px -2048px;
+}
+    
+.tw-b {
+  background-position: -256px -2112px;
+}
+    
+.tw-o2 {
+  background-position: -256px -2176px;
+}
+    
+.tw-parking {
+  background-position: -256px -2240px;
+}
+    
+.tw-ab {
+  background-position: -256px -2304px;
+}
+    
+.tw-cl {
+  background-position: -256px -2368px;
+}
+    
+.tw-cool {
+  background-position: -256px -2432px;
+}
+    
+.tw-free {
+  background-position: -256px -2496px;
+}
+    
+.tw-id {
+  background-position: -256px -2560px;
+}
+    
+.tw-new {
+  background-position: -320px -0px;
+}
+    
+.tw-ng {
+  background-position: -320px -64px;
+}
+    
+.tw-ok {
+  background-position: -320px -128px;
+}
+    
+.tw-sos {
+  background-position: -320px -192px;
+}
+    
+.tw-up {
+  background-position: -320px -256px;
+}
+    
+.tw-vs {
+  background-position: -320px -320px;
+}
+    
+.tw-koko {
+  background-position: -320px -384px;
+}
+    
+.tw-sa {
+  background-position: -320px -448px;
+}
+    
+.tw-u7121 {
+  background-position: -320px -512px;
+}
+    
+.tw-u6307 {
+  background-position: -320px -576px;
+}
+    
+.tw-u7981 {
+  background-position: -320px -640px;
+}
+    
+.tw-u7a7a {
+  background-position: -320px -704px;
+}
+    
+.tw-u5408 {
+  background-position: -320px -768px;
+}
+    
+.tw-u6e80 {
+  background-position: -320px -832px;
+}
+    
+.tw-u6709 {
+  background-position: -320px -896px;
+}
+    
+.tw-u6708 {
+  background-position: -320px -960px;
+}
+    
+.tw-u7533 {
+  background-position: -320px -1024px;
+}
+    
+.tw-u5272 {
+  background-position: -320px -1088px;
+}
+    
+.tw-u55b6 {
+  background-position: -320px -1152px;
+}
+    
+.tw-ideograph_advantage {
+  background-position: -320px -1216px;
+}
+    
+.tw-accept {
+  background-position: -320px -1280px;
+}
+    
+.tw-cyclone {
+  background-position: -320px -1344px;
+}
+    
+.tw-foggy {
+  background-position: -320px -1408px;
+}
+    
+.tw-closed_umbrella {
+  background-position: -320px -1472px;
+}
+    
+.tw-night_with_stars {
+  background-position: -320px -1536px;
+}
+    
+.tw-sunrise_over_mountains {
+  background-position: -320px -1600px;
+}
+    
+.tw-sunrise {
+  background-position: -320px -1664px;
+}
+    
+.tw-city_sunset {
+  background-position: -320px -1728px;
+}
+    
+.tw-city_sunrise {
+  background-position: -320px -1792px;
+}
+    
+.tw-rainbow {
+  background-position: -320px -1856px;
+}
+    
+.tw-bridge_at_night {
+  background-position: -320px -1920px;
+}
+    
+.tw-ocean {
+  background-position: -320px -1984px;
+}
+    
+.tw-volcano {
+  background-position: -320px -2048px;
+}
+    
+.tw-milky_way {
+  background-position: -320px -2112px;
+}
+    
+.tw-earth_africa {
+  background-position: -320px -2176px;
+}
+    
+.tw-earth_americas {
+  background-position: -320px -2240px;
+}
+    
+.tw-earth_asia {
+  background-position: -320px -2304px;
+}
+    
+.tw-globe_with_meridians {
+  background-position: -320px -2368px;
+}
+    
+.tw-new_moon {
+  background-position: -320px -2432px;
+}
+    
+.tw-waxing_crescent_moon {
+  background-position: -320px -2496px;
+}
+    
+.tw-first_quarter_moon {
+  background-position: -320px -2560px;
+}
+    
+.tw-moon {
+  background-position: -384px -0px;
+}
+    
+.tw-full_moon {
+  background-position: -384px -64px;
+}
+    
+.tw-waning_gibbous_moon {
+  background-position: -384px -128px;
+}
+    
+.tw-last_quarter_moon {
+  background-position: -384px -192px;
+}
+    
+.tw-waning_crescent_moon {
+  background-position: -384px -256px;
+}
+    
+.tw-crescent_moon {
+  background-position: -384px -320px;
+}
+    
+.tw-new_moon_with_face {
+  background-position: -384px -384px;
+}
+    
+.tw-first_quarter_moon_with_face {
+  background-position: -384px -448px;
+}
+    
+.tw-last_quarter_moon_with_face {
+  background-position: -384px -512px;
+}
+    
+.tw-full_moon_with_face {
+  background-position: -384px -576px;
+}
+    
+.tw-sun_with_face {
+  background-position: -384px -640px;
+}
+    
+.tw-star2 {
+  background-position: -384px -704px;
+}
+    
+.tw-stars {
+  background-position: -384px -768px;
+}
+    
+.tw-thermometer {
+  background-position: -384px -832px;
+}
+    
+.tw-mostly_sunny {
+  background-position: -384px -896px;
+}
+    
+.tw-barely_sunny {
+  background-position: -384px -960px;
+}
+    
+.tw-partly_sunny_rain {
+  background-position: -384px -1024px;
+}
+    
+.tw-rain_cloud {
+  background-position: -384px -1088px;
+}
+    
+.tw-snow_cloud {
+  background-position: -384px -1152px;
+}
+    
+.tw-lightning {
+  background-position: -384px -1216px;
+}
+    
+.tw-tornado {
+  background-position: -384px -1280px;
+}
+    
+.tw-fog {
+  background-position: -384px -1344px;
+}
+    
+.tw-wind_blowing_face {
+  background-position: -384px -1408px;
+}
+    
+.tw-hotdog {
+  background-position: -384px -1472px;
+}
+    
+.tw-taco {
+  background-position: -384px -1536px;
+}
+    
+.tw-burrito {
+  background-position: -384px -1600px;
+}
+    
+.tw-chestnut {
+  background-position: -384px -1664px;
+}
+    
+.tw-seedling {
+  background-position: -384px -1728px;
+}
+    
+.tw-evergreen_tree {
+  background-position: -384px -1792px;
+}
+    
+.tw-deciduous_tree {
+  background-position: -384px -1856px;
+}
+    
+.tw-palm_tree {
+  background-position: -384px -1920px;
+}
+    
+.tw-cactus {
+  background-position: -384px -1984px;
+}
+    
+.tw-hot_pepper {
+  background-position: -384px -2048px;
+}
+    
+.tw-tulip {
+  background-position: -384px -2112px;
+}
+    
+.tw-cherry_blossom {
+  background-position: -384px -2176px;
+}
+    
+.tw-rose {
+  background-position: -384px -2240px;
+}
+    
+.tw-hibiscus {
+  background-position: -384px -2304px;
+}
+    
+.tw-sunflower {
+  background-position: -384px -2368px;
+}
+    
+.tw-blossom {
+  background-position: -384px -2432px;
+}
+    
+.tw-corn {
+  background-position: -384px -2496px;
+}
+    
+.tw-ear_of_rice {
+  background-position: -384px -2560px;
+}
+    
+.tw-herb {
+  background-position: -448px -0px;
+}
+    
+.tw-four_leaf_clover {
+  background-position: -448px -64px;
+}
+    
+.tw-maple_leaf {
+  background-position: -448px -128px;
+}
+    
+.tw-fallen_leaf {
+  background-position: -448px -192px;
+}
+    
+.tw-leaves {
+  background-position: -448px -256px;
+}
+    
+.tw-mushroom {
+  background-position: -448px -320px;
+}
+    
+.tw-tomato {
+  background-position: -448px -384px;
+}
+    
+.tw-eggplant {
+  background-position: -448px -448px;
+}
+    
+.tw-grapes {
+  background-position: -448px -512px;
+}
+    
+.tw-melon {
+  background-position: -448px -576px;
+}
+    
+.tw-watermelon {
+  background-position: -448px -640px;
+}
+    
+.tw-tangerine {
+  background-position: -448px -704px;
+}
+    
+.tw-lemon {
+  background-position: -448px -768px;
+}
+    
+.tw-banana {
+  background-position: -448px -832px;
+}
+    
+.tw-pineapple {
+  background-position: -448px -896px;
+}
+    
+.tw-apple {
+  background-position: -448px -960px;
+}
+    
+.tw-green_apple {
+  background-position: -448px -1024px;
+}
+    
+.tw-pear {
+  background-position: -448px -1088px;
+}
+    
+.tw-peach {
+  background-position: -448px -1152px;
+}
+    
+.tw-cherries {
+  background-position: -448px -1216px;
+}
+    
+.tw-strawberry {
+  background-position: -448px -1280px;
+}
+    
+.tw-hamburger {
+  background-position: -448px -1344px;
+}
+    
+.tw-pizza {
+  background-position: -448px -1408px;
+}
+    
+.tw-meat_on_bone {
+  background-position: -448px -1472px;
+}
+    
+.tw-poultry_leg {
+  background-position: -448px -1536px;
+}
+    
+.tw-rice_cracker {
+  background-position: -448px -1600px;
+}
+    
+.tw-rice_ball {
+  background-position: -448px -1664px;
+}
+    
+.tw-rice {
+  background-position: -448px -1728px;
+}
+    
+.tw-curry {
+  background-position: -448px -1792px;
+}
+    
+.tw-ramen {
+  background-position: -448px -1856px;
+}
+    
+.tw-spaghetti {
+  background-position: -448px -1920px;
+}
+    
+.tw-bread {
+  background-position: -448px -1984px;
+}
+    
+.tw-fries {
+  background-position: -448px -2048px;
+}
+    
+.tw-sweet_potato {
+  background-position: -448px -2112px;
+}
+    
+.tw-dango {
+  background-position: -448px -2176px;
+}
+    
+.tw-oden {
+  background-position: -448px -2240px;
+}
+    
+.tw-sushi {
+  background-position: -448px -2304px;
+}
+    
+.tw-fried_shrimp {
+  background-position: -448px -2368px;
+}
+    
+.tw-fish_cake {
+  background-position: -448px -2432px;
+}
+    
+.tw-icecream {
+  background-position: -448px -2496px;
+}
+    
+.tw-shaved_ice {
+  background-position: -448px -2560px;
+}
+    
+.tw-ice_cream {
+  background-position: -512px -0px;
+}
+    
+.tw-doughnut {
+  background-position: -512px -64px;
+}
+    
+.tw-cookie {
+  background-position: -512px -128px;
+}
+    
+.tw-chocolate_bar {
+  background-position: -512px -192px;
+}
+    
+.tw-candy {
+  background-position: -512px -256px;
+}
+    
+.tw-lollipop {
+  background-position: -512px -320px;
+}
+    
+.tw-custard {
+  background-position: -512px -384px;
+}
+    
+.tw-honey_pot {
+  background-position: -512px -448px;
+}
+    
+.tw-cake {
+  background-position: -512px -512px;
+}
+    
+.tw-bento {
+  background-position: -512px -576px;
+}
+    
+.tw-stew {
+  background-position: -512px -640px;
+}
+    
+.tw-egg {
+  background-position: -512px -704px;
+}
+    
+.tw-fork_and_knife {
+  background-position: -512px -768px;
+}
+    
+.tw-tea {
+  background-position: -512px -832px;
+}
+    
+.tw-sake {
+  background-position: -512px -896px;
+}
+    
+.tw-wine_glass {
+  background-position: -512px -960px;
+}
+    
+.tw-cocktail {
+  background-position: -512px -1024px;
+}
+    
+.tw-tropical_drink {
+  background-position: -512px -1088px;
+}
+    
+.tw-beer {
+  background-position: -512px -1152px;
+}
+    
+.tw-beers {
+  background-position: -512px -1216px;
+}
+    
+.tw-baby_bottle {
+  background-position: -512px -1280px;
+}
+    
+.tw-knife_fork_plate {
+  background-position: -512px -1344px;
+}
+    
+.tw-champagne {
+  background-position: -512px -1408px;
+}
+    
+.tw-popcorn {
+  background-position: -512px -1472px;
+}
+    
+.tw-ribbon {
+  background-position: -512px -1536px;
+}
+    
+.tw-gift {
+  background-position: -512px -1600px;
+}
+    
+.tw-birthday {
+  background-position: -512px -1664px;
+}
+    
+.tw-jack_o_lantern {
+  background-position: -512px -1728px;
+}
+    
+.tw-christmas_tree {
+  background-position: -512px -1792px;
+}
+    
+.tw-santa {
+  background-position: -512px -1856px;
+}
+    
+.tw-fireworks {
+  background-position: -512px -2240px;
+}
+    
+.tw-sparkler {
+  background-position: -512px -2304px;
+}
+    
+.tw-balloon {
+  background-position: -512px -2368px;
+}
+    
+.tw-tada {
+  background-position: -512px -2432px;
+}
+    
+.tw-confetti_ball {
+  background-position: -512px -2496px;
+}
+    
+.tw-tanabata_tree {
+  background-position: -512px -2560px;
+}
+    
+.tw-crossed_flags {
+  background-position: -576px -0px;
+}
+    
+.tw-bamboo {
+  background-position: -576px -64px;
+}
+    
+.tw-dolls {
+  background-position: -576px -128px;
+}
+    
+.tw-flags {
+  background-position: -576px -192px;
+}
+    
+.tw-wind_chime {
+  background-position: -576px -256px;
+}
+    
+.tw-rice_scene {
+  background-position: -576px -320px;
+}
+    
+.tw-school_satchel {
+  background-position: -576px -384px;
+}
+    
+.tw-mortar_board {
+  background-position: -576px -448px;
+}
+    
+.tw-medal {
+  background-position: -576px -512px;
+}
+    
+.tw-reminder_ribbon {
+  background-position: -576px -576px;
+}
+    
+.tw-studio_microphone {
+  background-position: -576px -640px;
+}
+    
+.tw-level_slider {
+  background-position: -576px -704px;
+}
+    
+.tw-control_knobs {
+  background-position: -576px -768px;
+}
+    
+.tw-film_frames {
+  background-position: -576px -832px;
+}
+    
+.tw-admission_tickets {
+  background-position: -576px -896px;
+}
+    
+.tw-carousel_horse {
+  background-position: -576px -960px;
+}
+    
+.tw-ferris_wheel {
+  background-position: -576px -1024px;
+}
+    
+.tw-roller_coaster {
+  background-position: -576px -1088px;
+}
+    
+.tw-fishing_pole_and_fish {
+  background-position: -576px -1152px;
+}
+    
+.tw-microphone {
+  background-position: -576px -1216px;
+}
+    
+.tw-movie_camera {
+  background-position: -576px -1280px;
+}
+    
+.tw-cinema {
+  background-position: -576px -1344px;
+}
+    
+.tw-headphones {
+  background-position: -576px -1408px;
+}
+    
+.tw-art {
+  background-position: -576px -1472px;
+}
+    
+.tw-tophat {
+  background-position: -576px -1536px;
+}
+    
+.tw-circus_tent {
+  background-position: -576px -1600px;
+}
+    
+.tw-ticket {
+  background-position: -576px -1664px;
+}
+    
+.tw-clapper {
+  background-position: -576px -1728px;
+}
+    
+.tw-performing_arts {
+  background-position: -576px -1792px;
+}
+    
+.tw-video_game {
+  background-position: -576px -1856px;
+}
+    
+.tw-dart {
+  background-position: -576px -1920px;
+}
+    
+.tw-slot_machine {
+  background-position: -576px -1984px;
+}
+    
+.tw-8ball {
+  background-position: -576px -2048px;
+}
+    
+.tw-game_die {
+  background-position: -576px -2112px;
+}
+    
+.tw-bowling {
+  background-position: -576px -2176px;
+}
+    
+.tw-flower_playing_cards {
+  background-position: -576px -2240px;
+}
+    
+.tw-musical_note {
+  background-position: -576px -2304px;
+}
+    
+.tw-notes {
+  background-position: -576px -2368px;
+}
+    
+.tw-saxophone {
+  background-position: -576px -2432px;
+}
+    
+.tw-guitar {
+  background-position: -576px -2496px;
+}
+    
+.tw-musical_keyboard {
+  background-position: -576px -2560px;
+}
+    
+.tw-trumpet {
+  background-position: -640px -0px;
+}
+    
+.tw-violin {
+  background-position: -640px -64px;
+}
+    
+.tw-musical_score {
+  background-position: -640px -128px;
+}
+    
+.tw-running_shirt_with_sash {
+  background-position: -640px -192px;
+}
+    
+.tw-tennis {
+  background-position: -640px -256px;
+}
+    
+.tw-ski {
+  background-position: -640px -320px;
+}
+    
+.tw-basketball {
+  background-position: -640px -384px;
+}
+    
+.tw-checkered_flag {
+  background-position: -640px -448px;
+}
+    
+.tw-snowboarder {
+  background-position: -640px -512px;
+}
+    
+.tw-runner {
+  background-position: -640px -576px;
+}
+    
+.tw-surfer {
+  background-position: -640px -960px;
+}
+    
+.tw-sports_medal {
+  background-position: -640px -1344px;
+}
+    
+.tw-trophy {
+  background-position: -640px -1408px;
+}
+    
+.tw-horse_racing {
+  background-position: -640px -1472px;
+}
+    
+.tw-football {
+  background-position: -640px -1536px;
+}
+    
+.tw-rugby_football {
+  background-position: -640px -1600px;
+}
+    
+.tw-swimmer {
+  background-position: -640px -1664px;
+}
+    
+.tw-weight_lifter {
+  background-position: -640px -2048px;
+}
+    
+.tw-golfer {
+  background-position: -640px -2432px;
+}
+    
+.tw-racing_motorcycle {
+  background-position: -640px -2496px;
+}
+    
+.tw-racing_car {
+  background-position: -640px -2560px;
+}
+    
+.tw-cricket_bat_and_ball {
+  background-position: -704px -0px;
+}
+    
+.tw-volleyball {
+  background-position: -704px -64px;
+}
+    
+.tw-field_hockey_stick_and_ball {
+  background-position: -704px -128px;
+}
+    
+.tw-ice_hockey_stick_and_puck {
+  background-position: -704px -192px;
+}
+    
+.tw-table_tennis_paddle_and_ball {
+  background-position: -704px -256px;
+}
+    
+.tw-snow_capped_mountain {
+  background-position: -704px -320px;
+}
+    
+.tw-camping {
+  background-position: -704px -384px;
+}
+    
+.tw-beach_with_umbrella {
+  background-position: -704px -448px;
+}
+    
+.tw-building_construction {
+  background-position: -704px -512px;
+}
+    
+.tw-house_buildings {
+  background-position: -704px -576px;
+}
+    
+.tw-cityscape {
+  background-position: -704px -640px;
+}
+    
+.tw-derelict_house_building {
+  background-position: -704px -704px;
+}
+    
+.tw-classical_building {
+  background-position: -704px -768px;
+}
+    
+.tw-desert {
+  background-position: -704px -832px;
+}
+    
+.tw-desert_island {
+  background-position: -704px -896px;
+}
+    
+.tw-national_park {
+  background-position: -704px -960px;
+}
+    
+.tw-stadium {
+  background-position: -704px -1024px;
+}
+    
+.tw-house {
+  background-position: -704px -1088px;
+}
+    
+.tw-house_with_garden {
+  background-position: -704px -1152px;
+}
+    
+.tw-office {
+  background-position: -704px -1216px;
+}
+    
+.tw-post_office {
+  background-position: -704px -1280px;
+}
+    
+.tw-european_post_office {
+  background-position: -704px -1344px;
+}
+    
+.tw-hospital {
+  background-position: -704px -1408px;
+}
+    
+.tw-bank {
+  background-position: -704px -1472px;
+}
+    
+.tw-atm {
+  background-position: -704px -1536px;
+}
+    
+.tw-hotel {
+  background-position: -704px -1600px;
+}
+    
+.tw-love_hotel {
+  background-position: -704px -1664px;
+}
+    
+.tw-convenience_store {
+  background-position: -704px -1728px;
+}
+    
+.tw-school {
+  background-position: -704px -1792px;
+}
+    
+.tw-department_store {
+  background-position: -704px -1856px;
+}
+    
+.tw-factory {
+  background-position: -704px -1920px;
+}
+    
+.tw-izakaya_lantern {
+  background-position: -704px -1984px;
+}
+    
+.tw-japanese_castle {
+  background-position: -704px -2048px;
+}
+    
+.tw-european_castle {
+  background-position: -704px -2112px;
+}
+    
+.tw-waving_white_flag {
+  background-position: -704px -2176px;
+}
+    
+.tw-waving_black_flag {
+  background-position: -704px -2240px;
+}
+    
+.tw-rosette {
+  background-position: -704px -2304px;
+}
+    
+.tw-label {
+  background-position: -704px -2368px;
+}
+    
+.tw-badminton_racquet_and_shuttlecock {
+  background-position: -704px -2432px;
+}
+    
+.tw-bow_and_arrow {
+  background-position: -704px -2496px;
+}
+    
+.tw-amphora {
+  background-position: -704px -2560px;
+}
+    
+.tw-skin-tone-2 {
+  background-position: -768px -0px;
+}
+    
+.tw-skin-tone-3 {
+  background-position: -768px -64px;
+}
+    
+.tw-skin-tone-4 {
+  background-position: -768px -128px;
+}
+    
+.tw-skin-tone-5 {
+  background-position: -768px -192px;
+}
+    
+.tw-skin-tone-6 {
+  background-position: -768px -256px;
+}
+    
+.tw-rat {
+  background-position: -768px -320px;
+}
+    
+.tw-mouse2 {
+  background-position: -768px -384px;
+}
+    
+.tw-ox {
+  background-position: -768px -448px;
+}
+    
+.tw-water_buffalo {
+  background-position: -768px -512px;
+}
+    
+.tw-cow2 {
+  background-position: -768px -576px;
+}
+    
+.tw-tiger2 {
+  background-position: -768px -640px;
+}
+    
+.tw-leopard {
+  background-position: -768px -704px;
+}
+    
+.tw-rabbit2 {
+  background-position: -768px -768px;
+}
+    
+.tw-cat2 {
+  background-position: -768px -832px;
+}
+    
+.tw-dragon {
+  background-position: -768px -896px;
+}
+    
+.tw-crocodile {
+  background-position: -768px -960px;
+}
+    
+.tw-whale2 {
+  background-position: -768px -1024px;
+}
+    
+.tw-snail {
+  background-position: -768px -1088px;
+}
+    
+.tw-snake {
+  background-position: -768px -1152px;
+}
+    
+.tw-racehorse {
+  background-position: -768px -1216px;
+}
+    
+.tw-ram {
+  background-position: -768px -1280px;
+}
+    
+.tw-goat {
+  background-position: -768px -1344px;
+}
+    
+.tw-sheep {
+  background-position: -768px -1408px;
+}
+    
+.tw-monkey {
+  background-position: -768px -1472px;
+}
+    
+.tw-rooster {
+  background-position: -768px -1536px;
+}
+    
+.tw-chicken {
+  background-position: -768px -1600px;
+}
+    
+.tw-dog2 {
+  background-position: -768px -1664px;
+}
+    
+.tw-pig2 {
+  background-position: -768px -1728px;
+}
+    
+.tw-boar {
+  background-position: -768px -1792px;
+}
+    
+.tw-elephant {
+  background-position: -768px -1856px;
+}
+    
+.tw-octopus {
+  background-position: -768px -1920px;
+}
+    
+.tw-shell {
+  background-position: -768px -1984px;
+}
+    
+.tw-bug {
+  background-position: -768px -2048px;
+}
+    
+.tw-ant {
+  background-position: -768px -2112px;
+}
+    
+.tw-bee {
+  background-position: -768px -2176px;
+}
+    
+.tw-beetle {
+  background-position: -768px -2240px;
+}
+    
+.tw-fish {
+  background-position: -768px -2304px;
+}
+    
+.tw-tropical_fish {
+  background-position: -768px -2368px;
+}
+    
+.tw-blowfish {
+  background-position: -768px -2432px;
+}
+    
+.tw-turtle {
+  background-position: -768px -2496px;
+}
+    
+.tw-hatching_chick {
+  background-position: -768px -2560px;
+}
+    
+.tw-baby_chick {
+  background-position: -832px -0px;
+}
+    
+.tw-hatched_chick {
+  background-position: -832px -64px;
+}
+    
+.tw-bird {
+  background-position: -832px -128px;
+}
+    
+.tw-penguin {
+  background-position: -832px -192px;
+}
+    
+.tw-koala {
+  background-position: -832px -256px;
+}
+    
+.tw-poodle {
+  background-position: -832px -320px;
+}
+    
+.tw-dromedary_camel {
+  background-position: -832px -384px;
+}
+    
+.tw-camel {
+  background-position: -832px -448px;
+}
+    
+.tw-dolphin {
+  background-position: -832px -512px;
+}
+    
+.tw-mouse {
+  background-position: -832px -576px;
+}
+    
+.tw-cow {
+  background-position: -832px -640px;
+}
+    
+.tw-tiger {
+  background-position: -832px -704px;
+}
+    
+.tw-rabbit {
+  background-position: -832px -768px;
+}
+    
+.tw-cat {
+  background-position: -832px -832px;
+}
+    
+.tw-dragon_face {
+  background-position: -832px -896px;
+}
+    
+.tw-whale {
+  background-position: -832px -960px;
+}
+    
+.tw-horse {
+  background-position: -832px -1024px;
+}
+    
+.tw-monkey_face {
+  background-position: -832px -1088px;
+}
+    
+.tw-dog {
+  background-position: -832px -1152px;
+}
+    
+.tw-pig {
+  background-position: -832px -1216px;
+}
+    
+.tw-frog {
+  background-position: -832px -1280px;
+}
+    
+.tw-hamster {
+  background-position: -832px -1344px;
+}
+    
+.tw-wolf {
+  background-position: -832px -1408px;
+}
+    
+.tw-bear {
+  background-position: -832px -1472px;
+}
+    
+.tw-panda_face {
+  background-position: -832px -1536px;
+}
+    
+.tw-pig_nose {
+  background-position: -832px -1600px;
+}
+    
+.tw-feet {
+  background-position: -832px -1664px;
+}
+    
+.tw-chipmunk {
+  background-position: -832px -1728px;
+}
+    
+.tw-eyes {
+  background-position: -832px -1792px;
+}
+    
+.tw-eye {
+  background-position: -832px -1856px;
+}
+    
+.tw-ear {
+  background-position: -832px -1920px;
+}
+    
+.tw-nose {
+  background-position: -832px -2304px;
+}
+    
+.tw-lips {
+  background-position: -896px -64px;
+}
+    
+.tw-tongue {
+  background-position: -896px -128px;
+}
+    
+.tw-point_up_2 {
+  background-position: -896px -192px;
+}
+    
+.tw-point_down {
+  background-position: -896px -576px;
+}
+    
+.tw-point_left {
+  background-position: -896px -960px;
+}
+    
+.tw-point_right {
+  background-position: -896px -1344px;
+}
+    
+.tw-facepunch {
+  background-position: -896px -1728px;
+}
+    
+.tw-wave {
+  background-position: -896px -2112px;
+}
+    
+.tw-ok_hand {
+  background-position: -896px -2496px;
+}
+    
+.tw-+1 {
+  background-position: -960px -256px;
+}
+    
+.tw--1 {
+  background-position: -960px -640px;
+}
+    
+.tw-clap {
+  background-position: -960px -1024px;
+}
+    
+.tw-open_hands {
+  background-position: -960px -1408px;
+}
+    
+.tw-crown {
+  background-position: -960px -1792px;
+}
+    
+.tw-womans_hat {
+  background-position: -960px -1856px;
+}
+    
+.tw-eyeglasses {
+  background-position: -960px -1920px;
+}
+    
+.tw-necktie {
+  background-position: -960px -1984px;
+}
+    
+.tw-shirt {
+  background-position: -960px -2048px;
+}
+    
+.tw-jeans {
+  background-position: -960px -2112px;
+}
+    
+.tw-dress {
+  background-position: -960px -2176px;
+}
+    
+.tw-kimono {
+  background-position: -960px -2240px;
+}
+    
+.tw-bikini {
+  background-position: -960px -2304px;
+}
+    
+.tw-womans_clothes {
+  background-position: -960px -2368px;
+}
+    
+.tw-purse {
+  background-position: -960px -2432px;
+}
+    
+.tw-handbag {
+  background-position: -960px -2496px;
+}
+    
+.tw-pouch {
+  background-position: -960px -2560px;
+}
+    
+.tw-mans_shoe {
+  background-position: -1024px -0px;
+}
+    
+.tw-athletic_shoe {
+  background-position: -1024px -64px;
+}
+    
+.tw-high_heel {
+  background-position: -1024px -128px;
+}
+    
+.tw-sandal {
+  background-position: -1024px -192px;
+}
+    
+.tw-boot {
+  background-position: -1024px -256px;
+}
+    
+.tw-footprints {
+  background-position: -1024px -320px;
+}
+    
+.tw-bust_in_silhouette {
+  background-position: -1024px -384px;
+}
+    
+.tw-busts_in_silhouette {
+  background-position: -1024px -448px;
+}
+    
+.tw-boy {
+  background-position: -1024px -512px;
+}
+    
+.tw-girl {
+  background-position: -1024px -896px;
+}
+    
+.tw-man {
+  background-position: -1024px -1280px;
+}
+    
+.tw-woman {
+  background-position: -1024px -1664px;
+}
+    
+.tw-family {
+  background-position: -1024px -2048px;
+}
+    
+.tw-couple {
+  background-position: -1024px -2112px;
+}
+    
+.tw-two_men_holding_hands {
+  background-position: -1024px -2176px;
+}
+    
+.tw-two_women_holding_hands {
+  background-position: -1024px -2240px;
+}
+    
+.tw-cop {
+  background-position: -1024px -2304px;
+}
+    
+.tw-dancers {
+  background-position: -1088px -64px;
+}
+    
+.tw-bride_with_veil {
+  background-position: -1088px -128px;
+}
+    
+.tw-person_with_blond_hair {
+  background-position: -1088px -512px;
+}
+    
+.tw-man_with_gua_pi_mao {
+  background-position: -1088px -896px;
+}
+    
+.tw-man_with_turban {
+  background-position: -1088px -1280px;
+}
+    
+.tw-older_man {
+  background-position: -1088px -1664px;
+}
+    
+.tw-older_woman {
+  background-position: -1088px -2048px;
+}
+    
+.tw-baby {
+  background-position: -1088px -2432px;
+}
+    
+.tw-construction_worker {
+  background-position: -1152px -192px;
+}
+    
+.tw-princess {
+  background-position: -1152px -576px;
+}
+    
+.tw-japanese_ogre {
+  background-position: -1152px -960px;
+}
+    
+.tw-japanese_goblin {
+  background-position: -1152px -1024px;
+}
+    
+.tw-ghost {
+  background-position: -1152px -1088px;
+}
+    
+.tw-angel {
+  background-position: -1152px -1152px;
+}
+    
+.tw-alien {
+  background-position: -1152px -1536px;
+}
+    
+.tw-space_invader {
+  background-position: -1152px -1600px;
+}
+    
+.tw-imp {
+  background-position: -1152px -1664px;
+}
+    
+.tw-skull {
+  background-position: -1152px -1728px;
+}
+    
+.tw-information_desk_person {
+  background-position: -1152px -1792px;
+}
+    
+.tw-guardsman {
+  background-position: -1152px -2176px;
+}
+    
+.tw-dancer {
+  background-position: -1152px -2560px;
+}
+    
+.tw-lipstick {
+  background-position: -1216px -320px;
+}
+    
+.tw-nail_care {
+  background-position: -1216px -384px;
+}
+    
+.tw-massage {
+  background-position: -1216px -768px;
+}
+    
+.tw-haircut {
+  background-position: -1216px -1152px;
+}
+    
+.tw-barber {
+  background-position: -1216px -1536px;
+}
+    
+.tw-syringe {
+  background-position: -1216px -1600px;
+}
+    
+.tw-pill {
+  background-position: -1216px -1664px;
+}
+    
+.tw-kiss {
+  background-position: -1216px -1728px;
+}
+    
+.tw-love_letter {
+  background-position: -1216px -1792px;
+}
+    
+.tw-ring {
+  background-position: -1216px -1856px;
+}
+    
+.tw-gem {
+  background-position: -1216px -1920px;
+}
+    
+.tw-couplekiss {
+  background-position: -1216px -1984px;
+}
+    
+.tw-bouquet {
+  background-position: -1216px -2048px;
+}
+    
+.tw-couple_with_heart {
+  background-position: -1216px -2112px;
+}
+    
+.tw-wedding {
+  background-position: -1216px -2176px;
+}
+    
+.tw-heartbeat {
+  background-position: -1216px -2240px;
+}
+    
+.tw-broken_heart {
+  background-position: -1216px -2304px;
+}
+    
+.tw-two_hearts {
+  background-position: -1216px -2368px;
+}
+    
+.tw-sparkling_heart {
+  background-position: -1216px -2432px;
+}
+    
+.tw-heartpulse {
+  background-position: -1216px -2496px;
+}
+    
+.tw-cupid {
+  background-position: -1216px -2560px;
+}
+    
+.tw-blue_heart {
+  background-position: -1280px -0px;
+}
+    
+.tw-green_heart {
+  background-position: -1280px -64px;
+}
+    
+.tw-yellow_heart {
+  background-position: -1280px -128px;
+}
+    
+.tw-purple_heart {
+  background-position: -1280px -192px;
+}
+    
+.tw-gift_heart {
+  background-position: -1280px -256px;
+}
+    
+.tw-revolving_hearts {
+  background-position: -1280px -320px;
+}
+    
+.tw-heart_decoration {
+  background-position: -1280px -384px;
+}
+    
+.tw-diamond_shape_with_a_dot_inside {
+  background-position: -1280px -448px;
+}
+    
+.tw-bulb {
+  background-position: -1280px -512px;
+}
+    
+.tw-anger {
+  background-position: -1280px -576px;
+}
+    
+.tw-bomb {
+  background-position: -1280px -640px;
+}
+    
+.tw-zzz {
+  background-position: -1280px -704px;
+}
+    
+.tw-boom {
+  background-position: -1280px -768px;
+}
+    
+.tw-sweat_drops {
+  background-position: -1280px -832px;
+}
+    
+.tw-droplet {
+  background-position: -1280px -896px;
+}
+    
+.tw-dash {
+  background-position: -1280px -960px;
+}
+    
+.tw-hankey {
+  background-position: -1280px -1024px;
+}
+    
+.tw-muscle {
+  background-position: -1280px -1088px;
+}
+    
+.tw-dizzy {
+  background-position: -1280px -1472px;
+}
+    
+.tw-speech_balloon {
+  background-position: -1280px -1536px;
+}
+    
+.tw-thought_balloon {
+  background-position: -1280px -1600px;
+}
+    
+.tw-white_flower {
+  background-position: -1280px -1664px;
+}
+    
+.tw-100 {
+  background-position: -1280px -1728px;
+}
+    
+.tw-moneybag {
+  background-position: -1280px -1792px;
+}
+    
+.tw-currency_exchange {
+  background-position: -1280px -1856px;
+}
+    
+.tw-heavy_dollar_sign {
+  background-position: -1280px -1920px;
+}
+    
+.tw-credit_card {
+  background-position: -1280px -1984px;
+}
+    
+.tw-yen {
+  background-position: -1280px -2048px;
+}
+    
+.tw-dollar {
+  background-position: -1280px -2112px;
+}
+    
+.tw-euro {
+  background-position: -1280px -2176px;
+}
+    
+.tw-pound {
+  background-position: -1280px -2240px;
+}
+    
+.tw-money_with_wings {
+  background-position: -1280px -2304px;
+}
+    
+.tw-chart {
+  background-position: -1280px -2368px;
+}
+    
+.tw-seat {
+  background-position: -1280px -2432px;
+}
+    
+.tw-computer {
+  background-position: -1280px -2496px;
+}
+    
+.tw-briefcase {
+  background-position: -1280px -2560px;
+}
+    
+.tw-minidisc {
+  background-position: -1344px -0px;
+}
+    
+.tw-floppy_disk {
+  background-position: -1344px -64px;
+}
+    
+.tw-cd {
+  background-position: -1344px -128px;
+}
+    
+.tw-dvd {
+  background-position: -1344px -192px;
+}
+    
+.tw-file_folder {
+  background-position: -1344px -256px;
+}
+    
+.tw-open_file_folder {
+  background-position: -1344px -320px;
+}
+    
+.tw-page_with_curl {
+  background-position: -1344px -384px;
+}
+    
+.tw-page_facing_up {
+  background-position: -1344px -448px;
+}
+    
+.tw-date {
+  background-position: -1344px -512px;
+}
+    
+.tw-calendar {
+  background-position: -1344px -576px;
+}
+    
+.tw-card_index {
+  background-position: -1344px -640px;
+}
+    
+.tw-chart_with_upwards_trend {
+  background-position: -1344px -704px;
+}
+    
+.tw-chart_with_downwards_trend {
+  background-position: -1344px -768px;
+}
+    
+.tw-bar_chart {
+  background-position: -1344px -832px;
+}
+    
+.tw-clipboard {
+  background-position: -1344px -896px;
+}
+    
+.tw-pushpin {
+  background-position: -1344px -960px;
+}
+    
+.tw-round_pushpin {
+  background-position: -1344px -1024px;
+}
+    
+.tw-paperclip {
+  background-position: -1344px -1088px;
+}
+    
+.tw-straight_ruler {
+  background-position: -1344px -1152px;
+}
+    
+.tw-triangular_ruler {
+  background-position: -1344px -1216px;
+}
+    
+.tw-bookmark_tabs {
+  background-position: -1344px -1280px;
+}
+    
+.tw-ledger {
+  background-position: -1344px -1344px;
+}
+    
+.tw-notebook {
+  background-position: -1344px -1408px;
+}
+    
+.tw-notebook_with_decorative_cover {
+  background-position: -1344px -1472px;
+}
+    
+.tw-closed_book {
+  background-position: -1344px -1536px;
+}
+    
+.tw-book {
+  background-position: -1344px -1600px;
+}
+    
+.tw-green_book {
+  background-position: -1344px -1664px;
+}
+    
+.tw-blue_book {
+  background-position: -1344px -1728px;
+}
+    
+.tw-orange_book {
+  background-position: -1344px -1792px;
+}
+    
+.tw-books {
+  background-position: -1344px -1856px;
+}
+    
+.tw-name_badge {
+  background-position: -1344px -1920px;
+}
+    
+.tw-scroll {
+  background-position: -1344px -1984px;
+}
+    
+.tw-memo {
+  background-position: -1344px -2048px;
+}
+    
+.tw-telephone_receiver {
+  background-position: -1344px -2112px;
+}
+    
+.tw-pager {
+  background-position: -1344px -2176px;
+}
+    
+.tw-fax {
+  background-position: -1344px -2240px;
+}
+    
+.tw-satellite_antenna {
+  background-position: -1344px -2304px;
+}
+    
+.tw-loudspeaker {
+  background-position: -1344px -2368px;
+}
+    
+.tw-mega {
+  background-position: -1344px -2432px;
+}
+    
+.tw-outbox_tray {
+  background-position: -1344px -2496px;
+}
+    
+.tw-inbox_tray {
+  background-position: -1344px -2560px;
+}
+    
+.tw-package {
+  background-position: -1408px -0px;
+}
+    
+.tw-e-mail {
+  background-position: -1408px -64px;
+}
+    
+.tw-incoming_envelope {
+  background-position: -1408px -128px;
+}
+    
+.tw-envelope_with_arrow {
+  background-position: -1408px -192px;
+}
+    
+.tw-mailbox_closed {
+  background-position: -1408px -256px;
+}
+    
+.tw-mailbox {
+  background-position: -1408px -320px;
+}
+    
+.tw-mailbox_with_mail {
+  background-position: -1408px -384px;
+}
+    
+.tw-mailbox_with_no_mail {
+  background-position: -1408px -448px;
+}
+    
+.tw-postbox {
+  background-position: -1408px -512px;
+}
+    
+.tw-postal_horn {
+  background-position: -1408px -576px;
+}
+    
+.tw-newspaper {
+  background-position: -1408px -640px;
+}
+    
+.tw-iphone {
+  background-position: -1408px -704px;
+}
+    
+.tw-calling {
+  background-position: -1408px -768px;
+}
+    
+.tw-vibration_mode {
+  background-position: -1408px -832px;
+}
+    
+.tw-mobile_phone_off {
+  background-position: -1408px -896px;
+}
+    
+.tw-no_mobile_phones {
+  background-position: -1408px -960px;
+}
+    
+.tw-signal_strength {
+  background-position: -1408px -1024px;
+}
+    
+.tw-camera {
+  background-position: -1408px -1088px;
+}
+    
+.tw-camera_with_flash {
+  background-position: -1408px -1152px;
+}
+    
+.tw-video_camera {
+  background-position: -1408px -1216px;
+}
+    
+.tw-tv {
+  background-position: -1408px -1280px;
+}
+    
+.tw-radio {
+  background-position: -1408px -1344px;
+}
+    
+.tw-vhs {
+  background-position: -1408px -1408px;
+}
+    
+.tw-film_projector {
+  background-position: -1408px -1472px;
+}
+    
+.tw-prayer_beads {
+  background-position: -1408px -1536px;
+}
+    
+.tw-twisted_rightwards_arrows {
+  background-position: -1408px -1600px;
+}
+    
+.tw-repeat {
+  background-position: -1408px -1664px;
+}
+    
+.tw-repeat_one {
+  background-position: -1408px -1728px;
+}
+    
+.tw-arrows_clockwise {
+  background-position: -1408px -1792px;
+}
+    
+.tw-arrows_counterclockwise {
+  background-position: -1408px -1856px;
+}
+    
+.tw-low_brightness {
+  background-position: -1408px -1920px;
+}
+    
+.tw-high_brightness {
+  background-position: -1408px -1984px;
+}
+    
+.tw-mute {
+  background-position: -1408px -2048px;
+}
+    
+.tw-speaker {
+  background-position: -1408px -2112px;
+}
+    
+.tw-sound {
+  background-position: -1408px -2176px;
+}
+    
+.tw-loud_sound {
+  background-position: -1408px -2240px;
+}
+    
+.tw-battery {
+  background-position: -1408px -2304px;
+}
+    
+.tw-electric_plug {
+  background-position: -1408px -2368px;
+}
+    
+.tw-mag {
+  background-position: -1408px -2432px;
+}
+    
+.tw-mag_right {
+  background-position: -1408px -2496px;
+}
+    
+.tw-lock_with_ink_pen {
+  background-position: -1408px -2560px;
+}
+    
+.tw-closed_lock_with_key {
+  background-position: -1472px -0px;
+}
+    
+.tw-key {
+  background-position: -1472px -64px;
+}
+    
+.tw-lock {
+  background-position: -1472px -128px;
+}
+    
+.tw-unlock {
+  background-position: -1472px -192px;
+}
+    
+.tw-bell {
+  background-position: -1472px -256px;
+}
+    
+.tw-no_bell {
+  background-position: -1472px -320px;
+}
+    
+.tw-bookmark {
+  background-position: -1472px -384px;
+}
+    
+.tw-link {
+  background-position: -1472px -448px;
+}
+    
+.tw-radio_button {
+  background-position: -1472px -512px;
+}
+    
+.tw-back {
+  background-position: -1472px -576px;
+}
+    
+.tw-end {
+  background-position: -1472px -640px;
+}
+    
+.tw-on {
+  background-position: -1472px -704px;
+}
+    
+.tw-soon {
+  background-position: -1472px -768px;
+}
+    
+.tw-top {
+  background-position: -1472px -832px;
+}
+    
+.tw-underage {
+  background-position: -1472px -896px;
+}
+    
+.tw-keycap_ten {
+  background-position: -1472px -960px;
+}
+    
+.tw-capital_abcd {
+  background-position: -1472px -1024px;
+}
+    
+.tw-abcd {
+  background-position: -1472px -1088px;
+}
+    
+.tw-1234 {
+  background-position: -1472px -1152px;
+}
+    
+.tw-symbols {
+  background-position: -1472px -1216px;
+}
+    
+.tw-abc {
+  background-position: -1472px -1280px;
+}
+    
+.tw-fire {
+  background-position: -1472px -1344px;
+}
+    
+.tw-flashlight {
+  background-position: -1472px -1408px;
+}
+    
+.tw-wrench {
+  background-position: -1472px -1472px;
+}
+    
+.tw-hammer {
+  background-position: -1472px -1536px;
+}
+    
+.tw-nut_and_bolt {
+  background-position: -1472px -1600px;
+}
+    
+.tw-hocho {
+  background-position: -1472px -1664px;
+}
+    
+.tw-gun {
+  background-position: -1472px -1728px;
+}
+    
+.tw-microscope {
+  background-position: -1472px -1792px;
+}
+    
+.tw-telescope {
+  background-position: -1472px -1856px;
+}
+    
+.tw-crystal_ball {
+  background-position: -1472px -1920px;
+}
+    
+.tw-six_pointed_star {
+  background-position: -1472px -1984px;
+}
+    
+.tw-beginner {
+  background-position: -1472px -2048px;
+}
+    
+.tw-trident {
+  background-position: -1472px -2112px;
+}
+    
+.tw-black_square_button {
+  background-position: -1472px -2176px;
+}
+    
+.tw-white_square_button {
+  background-position: -1472px -2240px;
+}
+    
+.tw-red_circle {
+  background-position: -1472px -2304px;
+}
+    
+.tw-large_blue_circle {
+  background-position: -1472px -2368px;
+}
+    
+.tw-large_orange_diamond {
+  background-position: -1472px -2432px;
+}
+    
+.tw-large_blue_diamond {
+  background-position: -1472px -2496px;
+}
+    
+.tw-small_orange_diamond {
+  background-position: -1472px -2560px;
+}
+    
+.tw-small_blue_diamond {
+  background-position: -1536px -0px;
+}
+    
+.tw-small_red_triangle {
+  background-position: -1536px -64px;
+}
+    
+.tw-small_red_triangle_down {
+  background-position: -1536px -128px;
+}
+    
+.tw-arrow_up_small {
+  background-position: -1536px -192px;
+}
+    
+.tw-arrow_down_small {
+  background-position: -1536px -256px;
+}
+    
+.tw-om_symbol {
+  background-position: -1536px -320px;
+}
+    
+.tw-dove_of_peace {
+  background-position: -1536px -384px;
+}
+    
+.tw-kaaba {
+  background-position: -1536px -448px;
+}
+    
+.tw-mosque {
+  background-position: -1536px -512px;
+}
+    
+.tw-synagogue {
+  background-position: -1536px -576px;
+}
+    
+.tw-menorah_with_nine_branches {
+  background-position: -1536px -640px;
+}
+    
+.tw-clock1 {
+  background-position: -1536px -704px;
+}
+    
+.tw-clock2 {
+  background-position: -1536px -768px;
+}
+    
+.tw-clock3 {
+  background-position: -1536px -832px;
+}
+    
+.tw-clock4 {
+  background-position: -1536px -896px;
+}
+    
+.tw-clock5 {
+  background-position: -1536px -960px;
+}
+    
+.tw-clock6 {
+  background-position: -1536px -1024px;
+}
+    
+.tw-clock7 {
+  background-position: -1536px -1088px;
+}
+    
+.tw-clock8 {
+  background-position: -1536px -1152px;
+}
+    
+.tw-clock9 {
+  background-position: -1536px -1216px;
+}
+    
+.tw-clock10 {
+  background-position: -1536px -1280px;
+}
+    
+.tw-clock11 {
+  background-position: -1536px -1344px;
+}
+    
+.tw-clock12 {
+  background-position: -1536px -1408px;
+}
+    
+.tw-clock130 {
+  background-position: -1536px -1472px;
+}
+    
+.tw-clock230 {
+  background-position: -1536px -1536px;
+}
+    
+.tw-clock330 {
+  background-position: -1536px -1600px;
+}
+    
+.tw-clock430 {
+  background-position: -1536px -1664px;
+}
+    
+.tw-clock530 {
+  background-position: -1536px -1728px;
+}
+    
+.tw-clock630 {
+  background-position: -1536px -1792px;
+}
+    
+.tw-clock730 {
+  background-position: -1536px -1856px;
+}
+    
+.tw-clock830 {
+  background-position: -1536px -1920px;
+}
+    
+.tw-clock930 {
+  background-position: -1536px -1984px;
+}
+    
+.tw-clock1030 {
+  background-position: -1536px -2048px;
+}
+    
+.tw-clock1130 {
+  background-position: -1536px -2112px;
+}
+    
+.tw-clock1230 {
+  background-position: -1536px -2176px;
+}
+    
+.tw-candle {
+  background-position: -1536px -2240px;
+}
+    
+.tw-mantelpiece_clock {
+  background-position: -1536px -2304px;
+}
+    
+.tw-hole {
+  background-position: -1536px -2368px;
+}
+    
+.tw-man_in_business_suit_levitating {
+  background-position: -1536px -2432px;
+}
+    
+.tw-sleuth_or_spy {
+  background-position: -1536px -2496px;
+}
+    
+.tw-dark_sunglasses {
+  background-position: -1600px -256px;
+}
+    
+.tw-spider {
+  background-position: -1600px -320px;
+}
+    
+.tw-spider_web {
+  background-position: -1600px -384px;
+}
+    
+.tw-joystick {
+  background-position: -1600px -448px;
+}
+    
+.tw-linked_paperclips {
+  background-position: -1600px -512px;
+}
+    
+.tw-lower_left_ballpoint_pen {
+  background-position: -1600px -576px;
+}
+    
+.tw-lower_left_fountain_pen {
+  background-position: -1600px -640px;
+}
+    
+.tw-lower_left_paintbrush {
+  background-position: -1600px -704px;
+}
+    
+.tw-lower_left_crayon {
+  background-position: -1600px -768px;
+}
+    
+.tw-raised_hand_with_fingers_splayed {
+  background-position: -1600px -832px;
+}
+    
+.tw-middle_finger {
+  background-position: -1600px -1216px;
+}
+    
+.tw-spock-hand {
+  background-position: -1600px -1600px;
+}
+    
+.tw-desktop_computer {
+  background-position: -1600px -1984px;
+}
+    
+.tw-printer {
+  background-position: -1600px -2048px;
+}
+    
+.tw-three_button_mouse {
+  background-position: -1600px -2112px;
+}
+    
+.tw-trackball {
+  background-position: -1600px -2176px;
+}
+    
+.tw-frame_with_picture {
+  background-position: -1600px -2240px;
+}
+    
+.tw-card_index_dividers {
+  background-position: -1600px -2304px;
+}
+    
+.tw-card_file_box {
+  background-position: -1600px -2368px;
+}
+    
+.tw-file_cabinet {
+  background-position: -1600px -2432px;
+}
+    
+.tw-wastebasket {
+  background-position: -1600px -2496px;
+}
+    
+.tw-spiral_note_pad {
+  background-position: -1600px -2560px;
+}
+    
+.tw-spiral_calendar_pad {
+  background-position: -1664px -0px;
+}
+    
+.tw-compression {
+  background-position: -1664px -64px;
+}
+    
+.tw-old_key {
+  background-position: -1664px -128px;
+}
+    
+.tw-rolled_up_newspaper {
+  background-position: -1664px -192px;
+}
+    
+.tw-dagger_knife {
+  background-position: -1664px -256px;
+}
+    
+.tw-speaking_head_in_silhouette {
+  background-position: -1664px -320px;
+}
+    
+.tw-left_speech_bubble {
+  background-position: -1664px -384px;
+}
+    
+.tw-right_anger_bubble {
+  background-position: -1664px -448px;
+}
+    
+.tw-ballot_box_with_ballot {
+  background-position: -1664px -512px;
+}
+    
+.tw-world_map {
+  background-position: -1664px -576px;
+}
+    
+.tw-mount_fuji {
+  background-position: -1664px -640px;
+}
+    
+.tw-tokyo_tower {
+  background-position: -1664px -704px;
+}
+    
+.tw-statue_of_liberty {
+  background-position: -1664px -768px;
+}
+    
+.tw-japan {
+  background-position: -1664px -832px;
+}
+    
+.tw-moyai {
+  background-position: -1664px -896px;
+}
+    
+.tw-grinning {
+  background-position: -1664px -960px;
+}
+    
+.tw-grin {
+  background-position: -1664px -1024px;
+}
+    
+.tw-joy {
+  background-position: -1664px -1088px;
+}
+    
+.tw-smiley {
+  background-position: -1664px -1152px;
+}
+    
+.tw-smile {
+  background-position: -1664px -1216px;
+}
+    
+.tw-sweat_smile {
+  background-position: -1664px -1280px;
+}
+    
+.tw-laughing {
+  background-position: -1664px -1344px;
+}
+    
+.tw-innocent {
+  background-position: -1664px -1408px;
+}
+    
+.tw-smiling_imp {
+  background-position: -1664px -1472px;
+}
+    
+.tw-wink {
+  background-position: -1664px -1536px;
+}
+    
+.tw-blush {
+  background-position: -1664px -1600px;
+}
+    
+.tw-yum {
+  background-position: -1664px -1664px;
+}
+    
+.tw-relieved {
+  background-position: -1664px -1728px;
+}
+    
+.tw-heart_eyes {
+  background-position: -1664px -1792px;
+}
+    
+.tw-sunglasses {
+  background-position: -1664px -1856px;
+}
+    
+.tw-smirk {
+  background-position: -1664px -1920px;
+}
+    
+.tw-neutral_face {
+  background-position: -1664px -1984px;
+}
+    
+.tw-expressionless {
+  background-position: -1664px -2048px;
+}
+    
+.tw-unamused {
+  background-position: -1664px -2112px;
+}
+    
+.tw-sweat {
+  background-position: -1664px -2176px;
+}
+    
+.tw-pensive {
+  background-position: -1664px -2240px;
+}
+    
+.tw-confused {
+  background-position: -1664px -2304px;
+}
+    
+.tw-confounded {
+  background-position: -1664px -2368px;
+}
+    
+.tw-kissing {
+  background-position: -1664px -2432px;
+}
+    
+.tw-kissing_heart {
+  background-position: -1664px -2496px;
+}
+    
+.tw-kissing_smiling_eyes {
+  background-position: -1664px -2560px;
+}
+    
+.tw-kissing_closed_eyes {
+  background-position: -1728px -0px;
+}
+    
+.tw-stuck_out_tongue {
+  background-position: -1728px -64px;
+}
+    
+.tw-stuck_out_tongue_winking_eye {
+  background-position: -1728px -128px;
+}
+    
+.tw-stuck_out_tongue_closed_eyes {
+  background-position: -1728px -192px;
+}
+    
+.tw-disappointed {
+  background-position: -1728px -256px;
+}
+    
+.tw-worried {
+  background-position: -1728px -320px;
+}
+    
+.tw-angry {
+  background-position: -1728px -384px;
+}
+    
+.tw-rage {
+  background-position: -1728px -448px;
+}
+    
+.tw-cry {
+  background-position: -1728px -512px;
+}
+    
+.tw-persevere {
+  background-position: -1728px -576px;
+}
+    
+.tw-triumph {
+  background-position: -1728px -640px;
+}
+    
+.tw-disappointed_relieved {
+  background-position: -1728px -704px;
+}
+    
+.tw-frowning {
+  background-position: -1728px -768px;
+}
+    
+.tw-anguished {
+  background-position: -1728px -832px;
+}
+    
+.tw-fearful {
+  background-position: -1728px -896px;
+}
+    
+.tw-weary {
+  background-position: -1728px -960px;
+}
+    
+.tw-sleepy {
+  background-position: -1728px -1024px;
+}
+    
+.tw-tired_face {
+  background-position: -1728px -1088px;
+}
+    
+.tw-grimacing {
+  background-position: -1728px -1152px;
+}
+    
+.tw-sob {
+  background-position: -1728px -1216px;
+}
+    
+.tw-open_mouth {
+  background-position: -1728px -1280px;
+}
+    
+.tw-hushed {
+  background-position: -1728px -1344px;
+}
+    
+.tw-cold_sweat {
+  background-position: -1728px -1408px;
+}
+    
+.tw-scream {
+  background-position: -1728px -1472px;
+}
+    
+.tw-astonished {
+  background-position: -1728px -1536px;
+}
+    
+.tw-flushed {
+  background-position: -1728px -1600px;
+}
+    
+.tw-sleeping {
+  background-position: -1728px -1664px;
+}
+    
+.tw-dizzy_face {
+  background-position: -1728px -1728px;
+}
+    
+.tw-no_mouth {
+  background-position: -1728px -1792px;
+}
+    
+.tw-mask {
+  background-position: -1728px -1856px;
+}
+    
+.tw-smile_cat {
+  background-position: -1728px -1920px;
+}
+    
+.tw-joy_cat {
+  background-position: -1728px -1984px;
+}
+    
+.tw-smiley_cat {
+  background-position: -1728px -2048px;
+}
+    
+.tw-heart_eyes_cat {
+  background-position: -1728px -2112px;
+}
+    
+.tw-smirk_cat {
+  background-position: -1728px -2176px;
+}
+    
+.tw-kissing_cat {
+  background-position: -1728px -2240px;
+}
+    
+.tw-pouting_cat {
+  background-position: -1728px -2304px;
+}
+    
+.tw-crying_cat_face {
+  background-position: -1728px -2368px;
+}
+    
+.tw-scream_cat {
+  background-position: -1728px -2432px;
+}
+    
+.tw-slightly_frowning_face {
+  background-position: -1728px -2496px;
+}
+    
+.tw-slightly_smiling_face {
+  background-position: -1728px -2560px;
+}
+    
+.tw-upside_down_face {
+  background-position: -1792px -0px;
+}
+    
+.tw-face_with_rolling_eyes {
+  background-position: -1792px -64px;
+}
+    
+.tw-no_good {
+  background-position: -1792px -128px;
+}
+    
+.tw-ok_woman {
+  background-position: -1792px -512px;
+}
+    
+.tw-bow {
+  background-position: -1792px -896px;
+}
+    
+.tw-see_no_evil {
+  background-position: -1792px -1280px;
+}
+    
+.tw-hear_no_evil {
+  background-position: -1792px -1344px;
+}
+    
+.tw-speak_no_evil {
+  background-position: -1792px -1408px;
+}
+    
+.tw-raising_hand {
+  background-position: -1792px -1472px;
+}
+    
+.tw-raised_hands {
+  background-position: -1792px -1856px;
+}
+    
+.tw-person_frowning {
+  background-position: -1792px -2240px;
+}
+    
+.tw-person_with_pouting_face {
+  background-position: -1856px -0px;
+}
+    
+.tw-pray {
+  background-position: -1856px -384px;
+}
+    
+.tw-rocket {
+  background-position: -1856px -768px;
+}
+    
+.tw-helicopter {
+  background-position: -1856px -832px;
+}
+    
+.tw-steam_locomotive {
+  background-position: -1856px -896px;
+}
+    
+.tw-railway_car {
+  background-position: -1856px -960px;
+}
+    
+.tw-bullettrain_side {
+  background-position: -1856px -1024px;
+}
+    
+.tw-bullettrain_front {
+  background-position: -1856px -1088px;
+}
+    
+.tw-train2 {
+  background-position: -1856px -1152px;
+}
+    
+.tw-metro {
+  background-position: -1856px -1216px;
+}
+    
+.tw-light_rail {
+  background-position: -1856px -1280px;
+}
+    
+.tw-station {
+  background-position: -1856px -1344px;
+}
+    
+.tw-tram {
+  background-position: -1856px -1408px;
+}
+    
+.tw-train {
+  background-position: -1856px -1472px;
+}
+    
+.tw-bus {
+  background-position: -1856px -1536px;
+}
+    
+.tw-oncoming_bus {
+  background-position: -1856px -1600px;
+}
+    
+.tw-trolleybus {
+  background-position: -1856px -1664px;
+}
+    
+.tw-busstop {
+  background-position: -1856px -1728px;
+}
+    
+.tw-minibus {
+  background-position: -1856px -1792px;
+}
+    
+.tw-ambulance {
+  background-position: -1856px -1856px;
+}
+    
+.tw-fire_engine {
+  background-position: -1856px -1920px;
+}
+    
+.tw-police_car {
+  background-position: -1856px -1984px;
+}
+    
+.tw-oncoming_police_car {
+  background-position: -1856px -2048px;
+}
+    
+.tw-taxi {
+  background-position: -1856px -2112px;
+}
+    
+.tw-oncoming_taxi {
+  background-position: -1856px -2176px;
+}
+    
+.tw-car {
+  background-position: -1856px -2240px;
+}
+    
+.tw-oncoming_automobile {
+  background-position: -1856px -2304px;
+}
+    
+.tw-blue_car {
+  background-position: -1856px -2368px;
+}
+    
+.tw-truck {
+  background-position: -1856px -2432px;
+}
+    
+.tw-articulated_lorry {
+  background-position: -1856px -2496px;
+}
+    
+.tw-tractor {
+  background-position: -1856px -2560px;
+}
+    
+.tw-monorail {
+  background-position: -1920px -0px;
+}
+    
+.tw-mountain_railway {
+  background-position: -1920px -64px;
+}
+    
+.tw-suspension_railway {
+  background-position: -1920px -128px;
+}
+    
+.tw-mountain_cableway {
+  background-position: -1920px -192px;
+}
+    
+.tw-aerial_tramway {
+  background-position: -1920px -256px;
+}
+    
+.tw-ship {
+  background-position: -1920px -320px;
+}
+    
+.tw-rowboat {
+  background-position: -1920px -384px;
+}
+    
+.tw-speedboat {
+  background-position: -1920px -768px;
+}
+    
+.tw-traffic_light {
+  background-position: -1920px -832px;
+}
+    
+.tw-vertical_traffic_light {
+  background-position: -1920px -896px;
+}
+    
+.tw-construction {
+  background-position: -1920px -960px;
+}
+    
+.tw-rotating_light {
+  background-position: -1920px -1024px;
+}
+    
+.tw-triangular_flag_on_post {
+  background-position: -1920px -1088px;
+}
+    
+.tw-door {
+  background-position: -1920px -1152px;
+}
+    
+.tw-no_entry_sign {
+  background-position: -1920px -1216px;
+}
+    
+.tw-smoking {
+  background-position: -1920px -1280px;
+}
+    
+.tw-no_smoking {
+  background-position: -1920px -1344px;
+}
+    
+.tw-put_litter_in_its_place {
+  background-position: -1920px -1408px;
+}
+    
+.tw-do_not_litter {
+  background-position: -1920px -1472px;
+}
+    
+.tw-potable_water {
+  background-position: -1920px -1536px;
+}
+    
+.tw-non-potable_water {
+  background-position: -1920px -1600px;
+}
+    
+.tw-bike {
+  background-position: -1920px -1664px;
+}
+    
+.tw-no_bicycles {
+  background-position: -1920px -1728px;
+}
+    
+.tw-bicyclist {
+  background-position: -1920px -1792px;
+}
+    
+.tw-mountain_bicyclist {
+  background-position: -1920px -2176px;
+}
+    
+.tw-walking {
+  background-position: -1920px -2560px;
+}
+    
+.tw-no_pedestrians {
+  background-position: -1984px -320px;
+}
+    
+.tw-children_crossing {
+  background-position: -1984px -384px;
+}
+    
+.tw-mens {
+  background-position: -1984px -448px;
+}
+    
+.tw-womens {
+  background-position: -1984px -512px;
+}
+    
+.tw-restroom {
+  background-position: -1984px -576px;
+}
+    
+.tw-baby_symbol {
+  background-position: -1984px -640px;
+}
+    
+.tw-toilet {
+  background-position: -1984px -704px;
+}
+    
+.tw-wc {
+  background-position: -1984px -768px;
+}
+    
+.tw-shower {
+  background-position: -1984px -832px;
+}
+    
+.tw-bath {
+  background-position: -1984px -896px;
+}
+    
+.tw-bathtub {
+  background-position: -1984px -1280px;
+}
+    
+.tw-passport_control {
+  background-position: -1984px -1344px;
+}
+    
+.tw-customs {
+  background-position: -1984px -1408px;
+}
+    
+.tw-baggage_claim {
+  background-position: -1984px -1472px;
+}
+    
+.tw-left_luggage {
+  background-position: -1984px -1536px;
+}
+    
+.tw-couch_and_lamp {
+  background-position: -1984px -1600px;
+}
+    
+.tw-sleeping_accommodation {
+  background-position: -1984px -1664px;
+}
+    
+.tw-shopping_bags {
+  background-position: -1984px -1728px;
+}
+    
+.tw-bellhop_bell {
+  background-position: -1984px -1792px;
+}
+    
+.tw-bed {
+  background-position: -1984px -1856px;
+}
+    
+.tw-place_of_worship {
+  background-position: -1984px -1920px;
+}
+    
+.tw-hammer_and_wrench {
+  background-position: -1984px -1984px;
+}
+    
+.tw-shield {
+  background-position: -1984px -2048px;
+}
+    
+.tw-oil_drum {
+  background-position: -1984px -2112px;
+}
+    
+.tw-motorway {
+  background-position: -1984px -2176px;
+}
+    
+.tw-railway_track {
+  background-position: -1984px -2240px;
+}
+    
+.tw-motor_boat {
+  background-position: -1984px -2304px;
+}
+    
+.tw-small_airplane {
+  background-position: -1984px -2368px;
+}
+    
+.tw-airplane_departure {
+  background-position: -1984px -2432px;
+}
+    
+.tw-airplane_arriving {
+  background-position: -1984px -2496px;
+}
+    
+.tw-satellite {
+  background-position: -1984px -2560px;
+}
+    
+.tw-passenger_ship {
+  background-position: -2048px -0px;
+}
+    
+.tw-zipper_mouth_face {
+  background-position: -2048px -64px;
+}
+    
+.tw-money_mouth_face {
+  background-position: -2048px -128px;
+}
+    
+.tw-face_with_thermometer {
+  background-position: -2048px -192px;
+}
+    
+.tw-nerd_face {
+  background-position: -2048px -256px;
+}
+    
+.tw-thinking_face {
+  background-position: -2048px -320px;
+}
+    
+.tw-face_with_head_bandage {
+  background-position: -2048px -384px;
+}
+    
+.tw-robot_face {
+  background-position: -2048px -448px;
+}
+    
+.tw-hugging_face {
+  background-position: -2048px -512px;
+}
+    
+.tw-the_horns {
+  background-position: -2048px -576px;
+}
+    
+.tw-crab {
+  background-position: -2048px -960px;
+}
+    
+.tw-lion_face {
+  background-position: -2048px -1024px;
+}
+    
+.tw-scorpion {
+  background-position: -2048px -1088px;
+}
+    
+.tw-turkey {
+  background-position: -2048px -1152px;
+}
+    
+.tw-unicorn_face {
+  background-position: -2048px -1216px;
+}
+    
+.tw-cheese_wedge {
+  background-position: -2048px -1280px;
+}
+    
+.tw-hash {
+  background-position: -2048px -1344px;
+}
+    
+.tw-keycap_star {
+  background-position: -2048px -1408px;
+}
+    
+.tw-zero {
+  background-position: -2048px -1472px;
+}
+    
+.tw-one {
+  background-position: -2048px -1536px;
+}
+    
+.tw-two {
+  background-position: -2048px -1600px;
+}
+    
+.tw-three {
+  background-position: -2048px -1664px;
+}
+    
+.tw-four {
+  background-position: -2048px -1728px;
+}
+    
+.tw-five {
+  background-position: -2048px -1792px;
+}
+    
+.tw-six {
+  background-position: -2048px -1856px;
+}
+    
+.tw-seven {
+  background-position: -2048px -1920px;
+}
+    
+.tw-eight {
+  background-position: -2048px -1984px;
+}
+    
+.tw-nine {
+  background-position: -2048px -2048px;
+}
+    
+.tw-flag-ac {
+  background-position: -2048px -2112px;
+}
+    
+.tw-flag-ad {
+  background-position: -2048px -2176px;
+}
+    
+.tw-flag-ae {
+  background-position: -2048px -2240px;
+}
+    
+.tw-flag-af {
+  background-position: -2048px -2304px;
+}
+    
+.tw-flag-ag {
+  background-position: -2048px -2368px;
+}
+    
+.tw-flag-ai {
+  background-position: -2048px -2432px;
+}
+    
+.tw-flag-al {
+  background-position: -2048px -2496px;
+}
+    
+.tw-flag-am {
+  background-position: -2048px -2560px;
+}
+    
+.tw-flag-ao {
+  background-position: -2112px -0px;
+}
+    
+.tw-flag-aq {
+  background-position: -2112px -64px;
+}
+    
+.tw-flag-ar {
+  background-position: -2112px -128px;
+}
+    
+.tw-flag-as {
+  background-position: -2112px -192px;
+}
+    
+.tw-flag-at {
+  background-position: -2112px -256px;
+}
+    
+.tw-flag-au {
+  background-position: -2112px -320px;
+}
+    
+.tw-flag-aw {
+  background-position: -2112px -384px;
+}
+    
+.tw-flag-ax {
+  background-position: -2112px -448px;
+}
+    
+.tw-flag-az {
+  background-position: -2112px -512px;
+}
+    
+.tw-flag-ba {
+  background-position: -2112px -576px;
+}
+    
+.tw-flag-bb {
+  background-position: -2112px -640px;
+}
+    
+.tw-flag-bd {
+  background-position: -2112px -704px;
+}
+    
+.tw-flag-be {
+  background-position: -2112px -768px;
+}
+    
+.tw-flag-bf {
+  background-position: -2112px -832px;
+}
+    
+.tw-flag-bg {
+  background-position: -2112px -896px;
+}
+    
+.tw-flag-bh {
+  background-position: -2112px -960px;
+}
+    
+.tw-flag-bi {
+  background-position: -2112px -1024px;
+}
+    
+.tw-flag-bj {
+  background-position: -2112px -1088px;
+}
+    
+.tw-flag-bl {
+  background-position: -2112px -1152px;
+}
+    
+.tw-flag-bm {
+  background-position: -2112px -1216px;
+}
+    
+.tw-flag-bn {
+  background-position: -2112px -1280px;
+}
+    
+.tw-flag-bo {
+  background-position: -2112px -1344px;
+}
+    
+.tw-flag-bq {
+  background-position: -2112px -1408px;
+}
+    
+.tw-flag-br {
+  background-position: -2112px -1472px;
+}
+    
+.tw-flag-bs {
+  background-position: -2112px -1536px;
+}
+    
+.tw-flag-bt {
+  background-position: -2112px -1600px;
+}
+    
+.tw-flag-bv {
+  background-position: -2112px -1664px;
+}
+    
+.tw-flag-bw {
+  background-position: -2112px -1728px;
+}
+    
+.tw-flag-by {
+  background-position: -2112px -1792px;
+}
+    
+.tw-flag-bz {
+  background-position: -2112px -1856px;
+}
+    
+.tw-flag-ca {
+  background-position: -2112px -1920px;
+}
+    
+.tw-flag-cc {
+  background-position: -2112px -1984px;
+}
+    
+.tw-flag-cd {
+  background-position: -2112px -2048px;
+}
+    
+.tw-flag-cf {
+  background-position: -2112px -2112px;
+}
+    
+.tw-flag-cg {
+  background-position: -2112px -2176px;
+}
+    
+.tw-flag-ch {
+  background-position: -2112px -2240px;
+}
+    
+.tw-flag-ci {
+  background-position: -2112px -2304px;
+}
+    
+.tw-flag-ck {
+  background-position: -2112px -2368px;
+}
+    
+.tw-flag-cl {
+  background-position: -2112px -2432px;
+}
+    
+.tw-flag-cm {
+  background-position: -2112px -2496px;
+}
+    
+.tw-flag-cn {
+  background-position: -2112px -2560px;
+}
+    
+.tw-flag-co {
+  background-position: -2176px -0px;
+}
+    
+.tw-flag-cp {
+  background-position: -2176px -64px;
+}
+    
+.tw-flag-cr {
+  background-position: -2176px -128px;
+}
+    
+.tw-flag-cu {
+  background-position: -2176px -192px;
+}
+    
+.tw-flag-cv {
+  background-position: -2176px -256px;
+}
+    
+.tw-flag-cw {
+  background-position: -2176px -320px;
+}
+    
+.tw-flag-cx {
+  background-position: -2176px -384px;
+}
+    
+.tw-flag-cy {
+  background-position: -2176px -448px;
+}
+    
+.tw-flag-cz {
+  background-position: -2176px -512px;
+}
+    
+.tw-flag-de {
+  background-position: -2176px -576px;
+}
+    
+.tw-flag-dg {
+  background-position: -2176px -640px;
+}
+    
+.tw-flag-dj {
+  background-position: -2176px -704px;
+}
+    
+.tw-flag-dk {
+  background-position: -2176px -768px;
+}
+    
+.tw-flag-dm {
+  background-position: -2176px -832px;
+}
+    
+.tw-flag-do {
+  background-position: -2176px -896px;
+}
+    
+.tw-flag-dz {
+  background-position: -2176px -960px;
+}
+    
+.tw-flag-ea {
+  background-position: -2176px -1024px;
+}
+    
+.tw-flag-ec {
+  background-position: -2176px -1088px;
+}
+    
+.tw-flag-ee {
+  background-position: -2176px -1152px;
+}
+    
+.tw-flag-eg {
+  background-position: -2176px -1216px;
+}
+    
+.tw-flag-eh {
+  background-position: -2176px -1280px;
+}
+    
+.tw-flag-er {
+  background-position: -2176px -1344px;
+}
+    
+.tw-flag-es {
+  background-position: -2176px -1408px;
+}
+    
+.tw-flag-et {
+  background-position: -2176px -1472px;
+}
+    
+.tw-flag-eu {
+  background-position: -2176px -1536px;
+}
+    
+.tw-flag-fi {
+  background-position: -2176px -1600px;
+}
+    
+.tw-flag-fj {
+  background-position: -2176px -1664px;
+}
+    
+.tw-flag-fk {
+  background-position: -2176px -1728px;
+}
+    
+.tw-flag-fm {
+  background-position: -2176px -1792px;
+}
+    
+.tw-flag-fo {
+  background-position: -2176px -1856px;
+}
+    
+.tw-flag-fr {
+  background-position: -2176px -1920px;
+}
+    
+.tw-flag-ga {
+  background-position: -2176px -1984px;
+}
+    
+.tw-flag-gb {
+  background-position: -2176px -2048px;
+}
+    
+.tw-flag-gd {
+  background-position: -2176px -2112px;
+}
+    
+.tw-flag-ge {
+  background-position: -2176px -2176px;
+}
+    
+.tw-flag-gf {
+  background-position: -2176px -2240px;
+}
+    
+.tw-flag-gg {
+  background-position: -2176px -2304px;
+}
+    
+.tw-flag-gh {
+  background-position: -2176px -2368px;
+}
+    
+.tw-flag-gi {
+  background-position: -2176px -2432px;
+}
+    
+.tw-flag-gl {
+  background-position: -2176px -2496px;
+}
+    
+.tw-flag-gm {
+  background-position: -2176px -2560px;
+}
+    
+.tw-flag-gn {
+  background-position: -2240px -0px;
+}
+    
+.tw-flag-gp {
+  background-position: -2240px -64px;
+}
+    
+.tw-flag-gq {
+  background-position: -2240px -128px;
+}
+    
+.tw-flag-gr {
+  background-position: -2240px -192px;
+}
+    
+.tw-flag-gs {
+  background-position: -2240px -256px;
+}
+    
+.tw-flag-gt {
+  background-position: -2240px -320px;
+}
+    
+.tw-flag-gu {
+  background-position: -2240px -384px;
+}
+    
+.tw-flag-gw {
+  background-position: -2240px -448px;
+}
+    
+.tw-flag-gy {
+  background-position: -2240px -512px;
+}
+    
+.tw-flag-hk {
+  background-position: -2240px -576px;
+}
+    
+.tw-flag-hm {
+  background-position: -2240px -640px;
+}
+    
+.tw-flag-hn {
+  background-position: -2240px -704px;
+}
+    
+.tw-flag-hr {
+  background-position: -2240px -768px;
+}
+    
+.tw-flag-ht {
+  background-position: -2240px -832px;
+}
+    
+.tw-flag-hu {
+  background-position: -2240px -896px;
+}
+    
+.tw-flag-ic {
+  background-position: -2240px -960px;
+}
+    
+.tw-flag-id {
+  background-position: -2240px -1024px;
+}
+    
+.tw-flag-ie {
+  background-position: -2240px -1088px;
+}
+    
+.tw-flag-il {
+  background-position: -2240px -1152px;
+}
+    
+.tw-flag-im {
+  background-position: -2240px -1216px;
+}
+    
+.tw-flag-in {
+  background-position: -2240px -1280px;
+}
+    
+.tw-flag-io {
+  background-position: -2240px -1344px;
+}
+    
+.tw-flag-iq {
+  background-position: -2240px -1408px;
+}
+    
+.tw-flag-ir {
+  background-position: -2240px -1472px;
+}
+    
+.tw-flag-is {
+  background-position: -2240px -1536px;
+}
+    
+.tw-flag-it {
+  background-position: -2240px -1600px;
+}
+    
+.tw-flag-je {
+  background-position: -2240px -1664px;
+}
+    
+.tw-flag-jm {
+  background-position: -2240px -1728px;
+}
+    
+.tw-flag-jo {
+  background-position: -2240px -1792px;
+}
+    
+.tw-flag-jp {
+  background-position: -2240px -1856px;
+}
+    
+.tw-flag-ke {
+  background-position: -2240px -1920px;
+}
+    
+.tw-flag-kg {
+  background-position: -2240px -1984px;
+}
+    
+.tw-flag-kh {
+  background-position: -2240px -2048px;
+}
+    
+.tw-flag-ki {
+  background-position: -2240px -2112px;
+}
+    
+.tw-flag-km {
+  background-position: -2240px -2176px;
+}
+    
+.tw-flag-kn {
+  background-position: -2240px -2240px;
+}
+    
+.tw-flag-kp {
+  background-position: -2240px -2304px;
+}
+    
+.tw-flag-kr {
+  background-position: -2240px -2368px;
+}
+    
+.tw-flag-kw {
+  background-position: -2240px -2432px;
+}
+    
+.tw-flag-ky {
+  background-position: -2240px -2496px;
+}
+    
+.tw-flag-kz {
+  background-position: -2240px -2560px;
+}
+    
+.tw-flag-la {
+  background-position: -2304px -0px;
+}
+    
+.tw-flag-lb {
+  background-position: -2304px -64px;
+}
+    
+.tw-flag-lc {
+  background-position: -2304px -128px;
+}
+    
+.tw-flag-li {
+  background-position: -2304px -192px;
+}
+    
+.tw-flag-lk {
+  background-position: -2304px -256px;
+}
+    
+.tw-flag-lr {
+  background-position: -2304px -320px;
+}
+    
+.tw-flag-ls {
+  background-position: -2304px -384px;
+}
+    
+.tw-flag-lt {
+  background-position: -2304px -448px;
+}
+    
+.tw-flag-lu {
+  background-position: -2304px -512px;
+}
+    
+.tw-flag-lv {
+  background-position: -2304px -576px;
+}
+    
+.tw-flag-ly {
+  background-position: -2304px -640px;
+}
+    
+.tw-flag-ma {
+  background-position: -2304px -704px;
+}
+    
+.tw-flag-mc {
+  background-position: -2304px -768px;
+}
+    
+.tw-flag-md {
+  background-position: -2304px -832px;
+}
+    
+.tw-flag-me {
+  background-position: -2304px -896px;
+}
+    
+.tw-flag-mf {
+  background-position: -2304px -960px;
+}
+    
+.tw-flag-mg {
+  background-position: -2304px -1024px;
+}
+    
+.tw-flag-mh {
+  background-position: -2304px -1088px;
+}
+    
+.tw-flag-mk {
+  background-position: -2304px -1152px;
+}
+    
+.tw-flag-ml {
+  background-position: -2304px -1216px;
+}
+    
+.tw-flag-mm {
+  background-position: -2304px -1280px;
+}
+    
+.tw-flag-mn {
+  background-position: -2304px -1344px;
+}
+    
+.tw-flag-mo {
+  background-position: -2304px -1408px;
+}
+    
+.tw-flag-mp {
+  background-position: -2304px -1472px;
+}
+    
+.tw-flag-mq {
+  background-position: -2304px -1536px;
+}
+    
+.tw-flag-mr {
+  background-position: -2304px -1600px;
+}
+    
+.tw-flag-ms {
+  background-position: -2304px -1664px;
+}
+    
+.tw-flag-mt {
+  background-position: -2304px -1728px;
+}
+    
+.tw-flag-mu {
+  background-position: -2304px -1792px;
+}
+    
+.tw-flag-mv {
+  background-position: -2304px -1856px;
+}
+    
+.tw-flag-mw {
+  background-position: -2304px -1920px;
+}
+    
+.tw-flag-mx {
+  background-position: -2304px -1984px;
+}
+    
+.tw-flag-my {
+  background-position: -2304px -2048px;
+}
+    
+.tw-flag-mz {
+  background-position: -2304px -2112px;
+}
+    
+.tw-flag-na {
+  background-position: -2304px -2176px;
+}
+    
+.tw-flag-nc {
+  background-position: -2304px -2240px;
+}
+    
+.tw-flag-ne {
+  background-position: -2304px -2304px;
+}
+    
+.tw-flag-nf {
+  background-position: -2304px -2368px;
+}
+    
+.tw-flag-ng {
+  background-position: -2304px -2432px;
+}
+    
+.tw-flag-ni {
+  background-position: -2304px -2496px;
+}
+    
+.tw-flag-nl {
+  background-position: -2304px -2560px;
+}
+    
+.tw-flag-no {
+  background-position: -2368px -0px;
+}
+    
+.tw-flag-np {
+  background-position: -2368px -64px;
+}
+    
+.tw-flag-nr {
+  background-position: -2368px -128px;
+}
+    
+.tw-flag-nu {
+  background-position: -2368px -192px;
+}
+    
+.tw-flag-nz {
+  background-position: -2368px -256px;
+}
+    
+.tw-flag-om {
+  background-position: -2368px -320px;
+}
+    
+.tw-flag-pa {
+  background-position: -2368px -384px;
+}
+    
+.tw-flag-pe {
+  background-position: -2368px -448px;
+}
+    
+.tw-flag-pf {
+  background-position: -2368px -512px;
+}
+    
+.tw-flag-pg {
+  background-position: -2368px -576px;
+}
+    
+.tw-flag-ph {
+  background-position: -2368px -640px;
+}
+    
+.tw-flag-pk {
+  background-position: -2368px -704px;
+}
+    
+.tw-flag-pl {
+  background-position: -2368px -768px;
+}
+    
+.tw-flag-pm {
+  background-position: -2368px -832px;
+}
+    
+.tw-flag-pn {
+  background-position: -2368px -896px;
+}
+    
+.tw-flag-pr {
+  background-position: -2368px -960px;
+}
+    
+.tw-flag-ps {
+  background-position: -2368px -1024px;
+}
+    
+.tw-flag-pt {
+  background-position: -2368px -1088px;
+}
+    
+.tw-flag-pw {
+  background-position: -2368px -1152px;
+}
+    
+.tw-flag-py {
+  background-position: -2368px -1216px;
+}
+    
+.tw-flag-qa {
+  background-position: -2368px -1280px;
+}
+    
+.tw-flag-re {
+  background-position: -2368px -1344px;
+}
+    
+.tw-flag-ro {
+  background-position: -2368px -1408px;
+}
+    
+.tw-flag-rs {
+  background-position: -2368px -1472px;
+}
+    
+.tw-flag-ru {
+  background-position: -2368px -1536px;
+}
+    
+.tw-flag-rw {
+  background-position: -2368px -1600px;
+}
+    
+.tw-flag-sa {
+  background-position: -2368px -1664px;
+}
+    
+.tw-flag-sb {
+  background-position: -2368px -1728px;
+}
+    
+.tw-flag-sc {
+  background-position: -2368px -1792px;
+}
+    
+.tw-flag-sd {
+  background-position: -2368px -1856px;
+}
+    
+.tw-flag-se {
+  background-position: -2368px -1920px;
+}
+    
+.tw-flag-sg {
+  background-position: -2368px -1984px;
+}
+    
+.tw-flag-sh {
+  background-position: -2368px -2048px;
+}
+    
+.tw-flag-si {
+  background-position: -2368px -2112px;
+}
+    
+.tw-flag-sj {
+  background-position: -2368px -2176px;
+}
+    
+.tw-flag-sk {
+  background-position: -2368px -2240px;
+}
+    
+.tw-flag-sl {
+  background-position: -2368px -2304px;
+}
+    
+.tw-flag-sm {
+  background-position: -2368px -2368px;
+}
+    
+.tw-flag-sn {
+  background-position: -2368px -2432px;
+}
+    
+.tw-flag-so {
+  background-position: -2368px -2496px;
+}
+    
+.tw-flag-sr {
+  background-position: -2368px -2560px;
+}
+    
+.tw-flag-ss {
+  background-position: -2432px -0px;
+}
+    
+.tw-flag-st {
+  background-position: -2432px -64px;
+}
+    
+.tw-flag-sv {
+  background-position: -2432px -128px;
+}
+    
+.tw-flag-sx {
+  background-position: -2432px -192px;
+}
+    
+.tw-flag-sy {
+  background-position: -2432px -256px;
+}
+    
+.tw-flag-sz {
+  background-position: -2432px -320px;
+}
+    
+.tw-flag-ta {
+  background-position: -2432px -384px;
+}
+    
+.tw-flag-tc {
+  background-position: -2432px -448px;
+}
+    
+.tw-flag-td {
+  background-position: -2432px -512px;
+}
+    
+.tw-flag-tf {
+  background-position: -2432px -576px;
+}
+    
+.tw-flag-tg {
+  background-position: -2432px -640px;
+}
+    
+.tw-flag-th {
+  background-position: -2432px -704px;
+}
+    
+.tw-flag-tj {
+  background-position: -2432px -768px;
+}
+    
+.tw-flag-tk {
+  background-position: -2432px -832px;
+}
+    
+.tw-flag-tl {
+  background-position: -2432px -896px;
+}
+    
+.tw-flag-tm {
+  background-position: -2432px -960px;
+}
+    
+.tw-flag-tn {
+  background-position: -2432px -1024px;
+}
+    
+.tw-flag-to {
+  background-position: -2432px -1088px;
+}
+    
+.tw-flag-tr {
+  background-position: -2432px -1152px;
+}
+    
+.tw-flag-tt {
+  background-position: -2432px -1216px;
+}
+    
+.tw-flag-tv {
+  background-position: -2432px -1280px;
+}
+    
+.tw-flag-tw {
+  background-position: -2432px -1344px;
+}
+    
+.tw-flag-tz {
+  background-position: -2432px -1408px;
+}
+    
+.tw-flag-ua {
+  background-position: -2432px -1472px;
+}
+    
+.tw-flag-ug {
+  background-position: -2432px -1536px;
+}
+    
+.tw-flag-um {
+  background-position: -2432px -1600px;
+}
+    
+.tw-flag-us {
+  background-position: -2432px -1664px;
+}
+    
+.tw-flag-uy {
+  background-position: -2432px -1728px;
+}
+    
+.tw-flag-uz {
+  background-position: -2432px -1792px;
+}
+    
+.tw-flag-va {
+  background-position: -2432px -1856px;
+}
+    
+.tw-flag-vc {
+  background-position: -2432px -1920px;
+}
+    
+.tw-flag-ve {
+  background-position: -2432px -1984px;
+}
+    
+.tw-flag-vg {
+  background-position: -2432px -2048px;
+}
+    
+.tw-flag-vi {
+  background-position: -2432px -2112px;
+}
+    
+.tw-flag-vn {
+  background-position: -2432px -2176px;
+}
+    
+.tw-flag-vu {
+  background-position: -2432px -2240px;
+}
+    
+.tw-flag-wf {
+  background-position: -2432px -2304px;
+}
+    
+.tw-flag-ws {
+  background-position: -2432px -2368px;
+}
+    
+.tw-flag-xk {
+  background-position: -2432px -2432px;
+}
+    
+.tw-flag-ye {
+  background-position: -2432px -2496px;
+}
+    
+.tw-flag-yt {
+  background-position: -2432px -2560px;
+}
+    
+.tw-flag-za {
+  background-position: -2496px -0px;
+}
+    
+.tw-flag-zm {
+  background-position: -2496px -64px;
+}
+    
+.tw-flag-zw {
+  background-position: -2496px -128px;
+}
+    
+.tw-man-man-boy {
+  background-position: -2496px -192px;
+}
+    
+.tw-man-man-boy-boy {
+  background-position: -2496px -256px;
+}
+    
+.tw-man-man-girl {
+  background-position: -2496px -320px;
+}
+    
+.tw-man-man-girl-boy {
+  background-position: -2496px -384px;
+}
+    
+.tw-man-man-girl-girl {
+  background-position: -2496px -448px;
+}
+    
+.tw-man-woman-boy-boy {
+  background-position: -2496px -512px;
+}
+    
+.tw-man-woman-girl {
+  background-position: -2496px -576px;
+}
+    
+.tw-man-woman-girl-boy {
+  background-position: -2496px -640px;
+}
+    
+.tw-man-woman-girl-girl {
+  background-position: -2496px -704px;
+}
+    
+.tw-man-heart-man {
+  background-position: -2496px -768px;
+}
+    
+.tw-man-kiss-man {
+  background-position: -2496px -832px;
+}
+    
+.tw-woman-woman-boy {
+  background-position: -2496px -896px;
+}
+    
+.tw-woman-woman-boy-boy {
+  background-position: -2496px -960px;
+}
+    
+.tw-woman-woman-girl {
+  background-position: -2496px -1024px;
+}
+    
+.tw-woman-woman-girl-boy {
+  background-position: -2496px -1088px;
+}
+    
+.tw-woman-woman-girl-girl {
+  background-position: -2496px -1152px;
+}
+    
+.tw-woman-heart-woman {
+  background-position: -2496px -1216px;
+}
+    
+.tw-woman-kiss-woman {
+  background-position: -2496px -1280px;
+}
+    
