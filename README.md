@@ -1,5 +1,11 @@
 **emoji-data-css** uses [emoji-data](https://github.com/iamcal/emoji-data) spritesheets to generate css files.
 
+## Install
+
+```shell
+npm install emoji-data-css
+```
+
 ## Usage
 
 Choose the emoji set
