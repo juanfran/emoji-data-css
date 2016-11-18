@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "emoji css classes",
   "main": "index.js",
+  "repository": "git://github.com/juanfran/emoji-data-css.git",
   "dependencies": {
     "emoji-datasource": "^2.4.4",
     "clean-css": "^3.4.20"

@@ -25,7 +25,7 @@ Now you can add emoji classes in your code
 <div class="eo eo-smile"></div> <!-- emoji one smile emoji -->
 ```
 
-![emoji screenshot](screenshot.png?raw=true "emoji screenshot")
+![emoji screenshot](https://raw.githubusercontent.com/juanfran/emoji-data-css/master/screenshot.png "emoji screenshot")
 
 If you selected all the sizes file
 
