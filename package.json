@@ -1,6 +1,6 @@
 {
   "name": "emoji-data-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "emoji css classes",
   "main": "index.js",
   "repository": "git://github.com/juanfran/emoji-data-css.git",
