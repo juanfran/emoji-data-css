@@ -6,7 +6,7 @@
   "repository": "git://github.com/juanfran/emoji-data-css.git",
   "dependencies": {
     "emoji-datasource": "^2.4.4",
-    "clean-css": "^3.4.20"
+    "clean-css": "^4.1.11"
   },
   "devDependencies": {},
   "scripts": {
