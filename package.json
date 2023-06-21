@@ -1,5 +1,5 @@
 {
-  "name": "emoji-data-css",
+  "name": "@projectboard/emoji-data-css",
   "version": "1.0.1",
   "description": "emoji css classes",
   "main": "index.js",
